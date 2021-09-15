@@ -38,7 +38,7 @@ def workspaces():
         widget.GroupBox(
             **base(fg='light'),
             font='UbuntuMono Nerd Font',
-            fontsize=19,
+            fontsize=20,
             margin_y=3,
             margin_x=0,
             padding_y=8,
@@ -57,7 +57,7 @@ def workspaces():
             disable_drag=True
         ),
         separator(),
-        widget.WindowName(**base(fg='focus'), fontsize=14, padding=5),
+        widget.WindowName(**base(fg='focus'), fontsize=20, padding=5),
         separator(),
     ]
 
@@ -79,13 +79,15 @@ primary_widgets = [
         display_format='{updates}',
         update_interval=1800,
         custom_command='checkupdates',
+        distro='Arch',
+        fontsize='20',
     ),
 
     powerline('color3', 'color4'),
 
     icon(bg="color3", text=' '),  # Icon: nf-fa-feed
     
-    widget.Net(**base(bg='color3'), interface='wlp2s0'),
+    widget.Net(**base(bg='color3'), interface='wlan0',fontsize='20'),
 
     powerline('color2', 'color3'),
 
@@ -105,6 +107,7 @@ primary_widgets = [
 ]
 
 secondary_widgets = [
+
     *workspaces(),
 
     separator(),
@@ -124,7 +127,7 @@ secondary_widgets = [
 
 widget_defaults = {
     'font': 'UbuntuMono Nerd Font Bold',
-    'fontsize': 14,
+    'fontsize': 20,
     'padding': 1,
 }
 extension_defaults = widget_defaults.copy()
