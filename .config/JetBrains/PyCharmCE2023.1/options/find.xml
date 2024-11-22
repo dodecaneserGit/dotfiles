@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'alienInvasion'" />
+    <option name="defaultScopeName" value="Project 'alienInvasion'" />
+    <option name="SEARCH_SCOPE" value="Project 'alienInvasion'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>

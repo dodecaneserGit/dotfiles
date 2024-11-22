@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Lukk andre faner"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Kan du lukke andre faner med en knapp på verktøylinjen, et element på høyreklikkmenyen eller ved å trykke Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Lukk andre faner"
+   }
+}

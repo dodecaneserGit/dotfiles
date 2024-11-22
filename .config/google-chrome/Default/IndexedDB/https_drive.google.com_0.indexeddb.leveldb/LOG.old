@@ -1,0 +1,6 @@
+2024/05/23-12:05:41.004 2400 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/23-12:05:41.005 2400 Recovering log #3
+2024/05/23-12:05:41.025 2400 Reusing old log /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2024/05/23-12:05:49.608 23fb Level-0 table #5: started
+2024/05/23-12:05:49.642 23fb Level-0 table #5: 3914481 bytes OK
+2024/05/23-12:05:49.654 23fb Delete type=0 #3

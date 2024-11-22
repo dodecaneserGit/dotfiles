@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "ನೀವು ಟೂಲ್ಬಾರ್ ಬಟನ್, ಬಲ ಕ್ಲಿಕ್ ಮೆನು ಅಥವಾ ಒತ್ತುವ Alt + Shift + W ಅದಕ್ಕೆ ಐಟಂ ನಿಕಟ ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "ಇತರ ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ"
+   }
+}

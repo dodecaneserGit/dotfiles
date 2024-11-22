@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "अन्य टॅब बंद करा"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "आपण एक साधनपट्टी बटण, राईट-क्लिक मेनू किंवा दाबून Alt + Shift + प एक आयटम अन्य टॅब बंद करा करण्याची आपल्याला अनुमती देते."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "अन्य टॅब बंद करा"
+   }
+}

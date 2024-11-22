@@ -1,0 +1,12 @@
+    """Vamos a crear la clase dog con los metodos sit() y roll_over()"""
+class Dog():
+    def __init__(self, name, age):
+        """Inicializamos los atributos name y age."""
+        self.name = name
+        self.age = age
+    
+    def sit(self):
+        """Simula que el perro se sienta"""
+        print(self.name.title() + " is now sitting")
+    
+    

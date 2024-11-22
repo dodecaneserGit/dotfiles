@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "بستن برگه های دیگر"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "شما اجازه می دهد تا به زبانه نزدیک دیگر با یک دکمه نوار ابزار، یک مورد در منوی راست کلیک یا با فشار دادن ALT + SHIFT + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "بستن برگه های دیگر"
+   }
+}

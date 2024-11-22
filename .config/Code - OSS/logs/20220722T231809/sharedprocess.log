@@ -1,0 +1,47 @@
+[2022-07-22 23:18:15.690] [sharedprocess] [info] Starting worker process with pid 4295 (type: fileWatcher, window: 1).
+[2022-07-22 23:18:17.185] [sharedprocess] [info] Deleted from disk ms-vscode.js-debug-companion /home/dodecaneser/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.18
+[2022-07-22 23:18:17.227] [sharedprocess] [info] Deleted from disk ms-vscode.references-view /home/dodecaneser/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-07-22 23:18:20.356] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-07-22 23:18:20.359] [sharedprocess] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-07-22 23:18:20.366] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:20.367] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-07-22 23:18:20.367] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-07-22 23:18:20.368] [sharedprocess] [info] Getting Manifest... shardulm94.trailing-spaces
+[2022-07-22 23:18:21.245] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-07-22 23:18:21.331] [sharedprocess] [info] Installing extension: shardulm94.trailing-spaces
+[2022-07-22 23:18:21.333] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:21.459] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-07-22 23:18:21.609] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-07-22 23:18:21.636] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-07-22 23:18:25.137] [sharedprocess] [info] Downloaded extension: shardulm94.trailing-spaces /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/shardulm94.trailing-spaces-0.4.1
+[2022-07-22 23:18:25.272] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.17.0
+[2022-07-22 23:18:25.402] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.dc653ad1-7eec-4605-89f8-77c0eff1d2be: shardulm94.trailing-spaces
+[2022-07-22 23:18:25.408] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.3dcd6b4c-ef94-4ae1-8a16-5d1773420607: kevinrose.vsc-python-indent
+[2022-07-22 23:18:25.417] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/shardulm94.trailing-spaces-0.4.1
+[2022-07-22 23:18:25.420] [sharedprocess] [info] Extracting completed. shardulm94.trailing-spaces
+[2022-07-22 23:18:25.425] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.17.0
+[2022-07-22 23:18:25.428] [sharedprocess] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-07-22 23:18:25.435] [sharedprocess] [info] Extension installed successfully: shardulm94.trailing-spaces
+[2022-07-22 23:18:25.450] [sharedprocess] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-07-22 23:18:25.458] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.69.0
+[2022-07-22 23:18:26.131] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.212113c1-061c-4f26-bde8-dfc514901574: ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:26.139] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.69.0
+[2022-07-22 23:18:26.143] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:26.149] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:26.497] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-07-22 23:18:26.964] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/eamodio.gitlens-12.1.2
+[2022-07-22 23:18:26.994] [sharedprocess] [info] Downloaded extension: ms-python.python /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.10.1
+[2022-07-22 23:18:28.978] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.dad0dcfb-1aa2-41ca-af20-3948edc4522d: eamodio.gitlens
+[2022-07-22 23:18:28.998] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-12.1.2
+[2022-07-22 23:18:29.007] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-07-22 23:18:29.028] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-07-22 23:18:29.443] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.7.1001890528
+[2022-07-22 23:18:30.895] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.7b4b9a78-23a1-4f9b-93de-3fd138dddd33: ms-toolsai.jupyter
+[2022-07-22 23:18:30.909] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528
+[2022-07-22 23:18:30.934] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-07-22 23:18:30.951] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-07-22 23:18:32.700] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.1d683e9c-34b9-4f10-893d-638c28d95015: ms-python.python
+[2022-07-22 23:18:32.711] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.10.1
+[2022-07-22 23:18:32.718] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-07-22 23:18:32.726] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-07-22 23:18:54.084] [sharedprocess] [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/c3e9fe8c1e21159e2e9cf6dba9400b1f.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/c3e9fe8c1e21159e2e9cf6dba9400b1f.es'

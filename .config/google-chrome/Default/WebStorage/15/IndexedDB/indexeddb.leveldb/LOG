@@ -1,0 +1,42 @@
+2023/12/14-22:54:46.977 7084 Creating DB /home/dodecaneser/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb since it was missing.
+2023/12/14-22:54:46.997 7084 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2023/12/14-22:54:49.776 7090 Level-0 table #5: started
+2023/12/14-22:54:49.783 7090 Level-0 table #5: 3639 bytes OK
+2023/12/14-22:54:49.797 7090 Delete type=0 #3
+2023/12/14-22:54:49.798 7084 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/14-22:54:49.819 7083 Level-0 table #7: started
+2023/12/14-22:54:49.824 7083 Level-0 table #7: 1737 bytes OK
+2023/12/14-22:54:49.834 7083 Delete type=0 #4
+2023/12/14-22:54:49.834 7083 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/14-22:54:49.848 7083 Level-0 table #9: started
+2023/12/14-22:54:49.856 7083 Level-0 table #9: 1615 bytes OK
+2023/12/14-22:54:49.865 7083 Delete type=0 #6
+2023/12/14-22:54:49.866 7083 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 341 : 1
+2023/12/14-22:54:49.866 7083 Compacting 1@0 + 1@1 files
+2023/12/14-22:54:49.872 7083 Generated table #10@0: 64 keys, 1187 bytes
+2023/12/14-22:54:49.872 7083 Compacted 1@0 + 1@1 files => 1187 bytes
+2023/12/14-22:54:49.883 7083 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/14-22:54:49.885 7083 Delete type=2 #9
+2023/12/14-22:54:49.886 7083 Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 341 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/14-22:54:49.959 7087 Level-0 table #12: started
+2023/12/14-22:54:49.966 7087 Level-0 table #12: 1579 bytes OK
+2023/12/14-22:54:49.977 7087 Delete type=0 #8
+2023/12/14-22:54:49.977 7087 Delete type=2 #7
+2023/12/14-22:54:49.978 7083 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 432 : 1
+2023/12/14-22:54:49.978 7083 Compacting 1@0 + 1@1 files
+2023/12/14-22:54:49.982 7083 Generated table #13@0: 91 keys, 1345 bytes
+2023/12/14-22:54:49.982 7083 Compacted 1@0 + 1@1 files => 1345 bytes
+2023/12/14-22:54:49.987 7083 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/14-22:54:49.991 7083 Delete type=2 #12
+2023/12/14-22:54:49.991 7083 Manual compaction at level-0 from '\x00\x06\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 432 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/14-22:54:49.992 7087 Level-0 table #15: started
+2023/12/14-22:54:49.996 7087 Level-0 table #15: 584 bytes OK
+2023/12/14-22:54:50.002 7087 Delete type=2 #10
+2023/12/14-22:54:50.002 7087 Delete type=0 #11
+2023/12/14-22:54:50.002 7083 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 512 : 1
+2023/12/14-22:54:50.002 7083 Compacting 1@0 + 1@1 files
+2023/12/14-22:54:50.007 7083 Generated table #16@0: 95 keys, 1290 bytes
+2023/12/14-22:54:50.007 7083 Compacted 1@0 + 1@1 files => 1290 bytes
+2023/12/14-22:54:50.013 7083 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/14-22:54:50.013 7083 Delete type=2 #15
+2023/12/14-22:54:50.013 7083 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 512 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

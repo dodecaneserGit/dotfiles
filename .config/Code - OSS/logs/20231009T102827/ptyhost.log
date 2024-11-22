@@ -1,0 +1,14 @@
+2023-10-09 10:43:06.934 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-1 -> new id undefined
+2023-10-09 10:43:07.684 [info] Persistent process reconnection "1"
+2023-10-09 10:43:07.751 [info] Persistent process "1": Replaying 634 chars and 1 size events
+2023-10-09 10:52:25.861 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-1 -> new id undefined
+2023-10-09 10:52:26.972 [info] Persistent process reconnection "1"
+2023-10-09 10:52:26.996 [info] Persistent process "1": Replaying 578 chars and 1 size events
+2023-10-09 10:52:58.890 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-1 -> new id undefined
+2023-10-09 10:52:59.691 [info] Persistent process reconnection "1"
+2023-10-09 10:52:59.694 [info] Persistent process "1": Replaying 578 chars and 1 size events
+2023-10-09 10:59:01.252 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-1 -> new id undefined
+2023-10-09 10:59:01.742 [info] Persistent process reconnection "1"
+2023-10-09 10:59:01.756 [info] Persistent process "1": Replaying 578 chars and 1 size events
+2023-10-18 21:41:13.188 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-1 -> new id undefined
+2023-10-18 21:41:13.196 [info] Expanding terminal instance, old id 64e5a8c58953e578f27e67a66c2df0f0-2 -> new id undefined

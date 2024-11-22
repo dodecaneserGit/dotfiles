@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="27" l="1652656553666" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1652655481392" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="5" l="1652655466971" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1652655308877" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="1" l="1652655490223" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager">
+      <i c="4" l="1652657325246" />
+    </e>
+    <e n="com.intellij.ide.lightEdit.actions.LightEditExitAction">
+      <i c="2" l="1652655323315" />
+    </e>
+    <e n="com.intellij.ide.lightEdit.actions.LightEditNewFileAction">
+      <i c="1" l="1652652695445" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1652655293164" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1652655288629" />
+    </e>
+  </component>
+</application>

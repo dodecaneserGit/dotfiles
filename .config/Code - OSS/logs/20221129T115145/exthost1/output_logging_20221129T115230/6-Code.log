@@ -1,0 +1,5 @@
+[Running] /bin/bash "/home/dodecaneser/bugBounty/rencon.sh"
+./recon.sh &lt;list of domain&gt;
+
+[Done] exited with code=1 in 0.064 seconds
+

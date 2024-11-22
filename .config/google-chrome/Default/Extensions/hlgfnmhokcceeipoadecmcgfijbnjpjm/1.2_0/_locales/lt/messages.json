@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Uždaryti kitus skirtukus"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Leidžia Uždaryti kitus skirtukus su įrankių juostos mygtuką, elementą dešiniuoju pelės mygtuku spustelėkite meniu arba paspaudę Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Uždaryti kitus skirtukus"
+   }
+}

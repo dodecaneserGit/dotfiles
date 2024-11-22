@@ -1,0 +1,798 @@
+2023-10-09 10:29:04.576 [info] Test server listening.
+2023-10-09 10:29:06.622 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 2194ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-09 10:29:06.622 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:29:06.622 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:29:07.115 [error] Failed to start language server: [s [Error]: Pending response rejected since connection got disposed
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318937)
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085486)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085892)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2243068)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085635
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at te (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2307060)
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at y.fireClose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2332864)
+	at Socket.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2333594)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: -32097,
+  data: undefined
+}
+2023-10-09 10:29:07.122 [error] [
+  'Failed to start language server, Class name = l, completed in 443ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.10.5 (main, Jun  6 2022, 18:49:26) [GCC 12.1.0]","version":{"raw":"3.10.5","major":3,"minor":10,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.10.5 64-bit","detailedDisplayName":"Python 3.10.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/scripts","external":"file:///home/dodecaneser/scripts","path":"/home/dodecaneser/scripts","scheme":"file"},"name":"scripts","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/scripts"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST","notebookAddon":{}}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:29:07.127 [error] [
+  'Starting language server, Class name = h, completed in 451ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:29:07.129 [error] [
+  'Failed to start language server, Class name = h, completed in 498ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.10.5 (main, Jun  6 2022, 18:49:26) [GCC 12.1.0]","version":{"raw":"3.10.5","major":3,"minor":10,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.10.5 64-bit","detailedDisplayName":"Python 3.10.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:29:07.234 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-09 10:29:07.325 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:29:07.580 [info] Python interpreter path: /bin/python
+2023-10-09 10:30:49.938 [info] > conda info --json
+2023-10-09 10:30:50.166 [info] Found: /bin/python --> /bin/python3.11
+2023-10-09 10:30:50.198 [info] Found: /bin/python2 --> /bin/python2.7
+2023-10-09 10:30:50.199 [info] Found: /bin/python2.7 --> /bin/python2.7
+2023-10-09 10:30:50.201 [info] Found: /bin/python3 --> /bin/python3.11
+2023-10-09 10:30:50.201 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-10-09 10:30:50.234 [info] > ~/.local/share/virtualenvs/nvim-QqBKsqlF/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.296 [info] Found: /sbin/python --> /sbin/python3.11
+2023-10-09 10:30:50.296 [info] Found: /sbin/python2 --> /sbin/python2.7
+2023-10-09 10:30:50.297 [info] Found: /sbin/python2.7 --> /sbin/python2.7
+2023-10-09 10:30:50.297 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-10-09 10:30:50.298 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-10-09 10:30:50.322 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-10-09 10:30:50.323 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-10-09 10:30:50.323 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-10-09 10:30:50.326 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-10-09 10:30:50.327 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-10-09 10:30:50.389 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-10-09 10:30:50.389 [info] Found: /usr/sbin/python2 --> /usr/sbin/python2.7
+2023-10-09 10:30:50.389 [info] Found: /usr/sbin/python2.7 --> /usr/sbin/python2.7
+2023-10-09 10:30:50.390 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-10-09 10:30:50.390 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-10-09 10:30:50.440 [info] > /bin/python2 -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.463 [warning] [Error: Command failed: /bin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py'
+}
+2023-10-09 10:30:50.463 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-10-09 10:30:50.478 [info] > /bin/python2 ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.500 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.548 [info] > /sbin/python2 -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.566 [warning] [Error: Command failed: /sbin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /sbin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/sbin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py'
+}
+2023-10-09 10:30:50.566 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-10-09 10:30:50.584 [info] > /sbin/python2 ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.620 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.661 [info] > /usr/bin/python2 -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.708 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.714 [warning] [Error: Command failed: /usr/bin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py'
+}
+2023-10-09 10:30:50.714 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-10-09 10:30:50.748 [info] > /usr/bin/python2 ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.795 [info] > /usr/sbin/python2 -I ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:50.820 [warning] [Error: Command failed: /usr/sbin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/sbin/python2 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:302:5)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/sbin/python2 -I /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py'
+}
+2023-10-09 10:30:50.820 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-10-09 10:30:50.838 [info] > /usr/sbin/python2 ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/interpreterInfo.py
+2023-10-09 10:30:51.049 [info] Found: /bin/python --> /bin/python3.11
+2023-10-09 10:30:51.090 [info] Found: /bin/python2 --> /bin/python2.7
+2023-10-09 10:30:51.091 [info] Found: /bin/python2.7 --> /bin/python2.7
+2023-10-09 10:30:51.092 [info] Found: /bin/python3 --> /bin/python3.11
+2023-10-09 10:30:51.092 [info] Found: /bin/python3.11 --> /bin/python3.11
+2023-10-09 10:30:51.140 [info] Found: /sbin/python --> /sbin/python3.11
+2023-10-09 10:30:51.140 [info] Found: /sbin/python2 --> /sbin/python2.7
+2023-10-09 10:30:51.141 [info] Found: /sbin/python2.7 --> /sbin/python2.7
+2023-10-09 10:30:51.141 [info] Found: /sbin/python3 --> /sbin/python3.11
+2023-10-09 10:30:51.141 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2023-10-09 10:30:51.157 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2023-10-09 10:30:51.157 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-10-09 10:30:51.157 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-10-09 10:30:51.158 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2023-10-09 10:30:51.158 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2023-10-09 10:30:51.214 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2023-10-09 10:30:51.214 [info] Found: /usr/sbin/python2 --> /usr/sbin/python2.7
+2023-10-09 10:30:51.214 [info] Found: /usr/sbin/python2.7 --> /usr/sbin/python2.7
+2023-10-09 10:30:51.215 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2023-10-09 10:30:51.215 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2023-10-09 10:35:36.970 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 10:44:13.126 [info] Test server listening.
+2023-10-09 10:44:13.128 [info] Python interpreter path: /bin/python
+2023-10-09 10:44:13.179 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 47ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-09 10:44:13.179 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:44:13.179 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:44:13.274 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/dodecaneser/scripts
+2023-10-09 10:44:13.274 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/dodecaneser/scripts
+2023-10-09 10:44:13.274 [warning] Retry failed, storage update failed for key autoSelectedWorkspacePythonInterpreter-/home/dodecaneser/scripts
+2023-10-09 10:44:13.588 [error] Failed to start language server: [s [Error]: Pending response rejected since connection got disposed
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318937)
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085486)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085892)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2243068)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085635
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at te (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2307060)
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at v.fireClose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2329262)
+	at Socket.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2330856)
+	at Socket.emit (node:events:525:35)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: -32097,
+  data: undefined
+}
+2023-10-09 10:44:13.593 [error] [
+  'Failed to start language server, Class name = l, completed in 390ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/scripts","external":"file:///home/dodecaneser/scripts","path":"/home/dodecaneser/scripts","scheme":"file"},"name":"scripts","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/scripts"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST","notebookAddon":{}}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:44:13.596 [error] [
+  'Starting language server, Class name = h, completed in 394ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:44:13.598 [error] [
+  'Failed to start language server, Class name = h, completed in 417ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:52:26.833 [info] Test server listening.
+2023-10-09 10:52:26.835 [info] Python interpreter path: /bin/python
+2023-10-09 10:52:27.139 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 304ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-09 10:52:27.140 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:52:27.140 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:52:27.421 [error] Failed to start language server: [s [Error]: write EPIPE
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318165
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)] {
+  code: -32099,
+  data: undefined
+}
+2023-10-09 10:52:27.426 [error] [
+  'Failed to start language server, Class name = l, completed in 236ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/scripts","external":"file:///home/dodecaneser/scripts","path":"/home/dodecaneser/scripts","scheme":"file"},"name":"scripts","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/scripts"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-09 10:52:27.429 [error] [
+  'Starting language server, Class name = h, completed in 240ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-09 10:52:27.432 [error] [
+  'Failed to start language server, Class name = h, completed in 287ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-09 10:58:10.241 [info] Test server listening.
+2023-10-09 10:58:10.244 [info] Python interpreter path: /bin/python
+2023-10-09 10:58:10.353 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 93ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-09 10:58:10.353 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:58:10.353 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:58:10.591 [error] Failed to start language server: [s [Error]: Pending response rejected since connection got disposed
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318937)
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085486)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085892)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2243068)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085635
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at te (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2307060)
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at y.fireClose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2332864)
+	at Socket.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2333594)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: -32097,
+  data: undefined
+}
+2023-10-09 10:58:10.597 [error] [
+  'Failed to start language server, Class name = l, completed in 234ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/scripts","external":"file:///home/dodecaneser/scripts","path":"/home/dodecaneser/scripts","scheme":"file"},"name":"scripts","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/scripts"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:58:10.601 [error] [
+  'Starting language server, Class name = h, completed in 238ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:58:10.603 [error] [
+  'Failed to start language server, Class name = h, completed in 247ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-09 10:59:02.710 [info] Test server listening.
+2023-10-09 10:59:02.712 [info] Python interpreter path: /bin/python
+2023-10-09 10:59:03.781 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 1125ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/scripts>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-09 10:59:03.806 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:59:03.806 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:23648)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-09 10:59:07.998 [info] Starting Jedi language server for scripts.
+2023-10-09 11:28:54.545 [info] Send text to terminal: /bin/python Untitled-1
+2023-10-09 11:29:32.934 [info] Send text to terminal: /bin/python Untitled-1
+2023-10-09 11:30:26.196 [info] Send text to terminal: /bin/python Untitled-1
+2023-10-09 11:31:00.605 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:31:03.980 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:32:03.359 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:32:46.517 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:33:13.663 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:33:21.290 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:33:23.625 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:34:15.220 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:34:19.232 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:34:32.947 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:34:48.067 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:34:55.477 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:35:25.998 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:35:27.441 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:36:08.554 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:36:11.997 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:37:51.309 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 11:37:53.259 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:06:46.406 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:06:48.343 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:06:59.047 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:07:00.873 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:08:27.698 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:08:37.293 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:08:38.428 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:10:29.512 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:10:30.925 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:11:10.954 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:11:12.796 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:11:33.972 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:11:35.302 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:12:31.437 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:12:35.245 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:14:23.995 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:14:25.964 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:15:36.871 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:15:39.236 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:15:42.017 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:16:58.195 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:17:00.086 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:17:21.569 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:17:24.305 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:18:38.277 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:18:43.058 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:18:51.190 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:18:53.885 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:20:27.196 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:20:28.950 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:22:08.333 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:22:15.391 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:22:18.294 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:22:51.290 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:22:52.808 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:25:25.092 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-09 12:25:26.846 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:14:18.004 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:14:21.420 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:15:51.129 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:15:57.261 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:18:25.261 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:21:10.785 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:21:13.424 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:21:55.956 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:21:58.915 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:22:34.527 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:22:38.044 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:23:00.567 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:23:02.714 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:23:37.290 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:23:39.068 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:25:34.212 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:25:37.855 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:30:08.483 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:30:12.090 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:30:43.461 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:30:46.135 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:32:03.825 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:32:10.691 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:33:46.067 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:33:48.375 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:34:03.336 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:34:05.372 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:35:15.279 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:35:17.825 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:36:29.905 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:36:55.156 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:37:18.325 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:37:20.475 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:38:18.728 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:40:49.503 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:40:56.070 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:43:58.296 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 11:43:59.854 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:19:06.212 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:19:10.952 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:19:13.746 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:20:05.119 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:20:07.294 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:04.771 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:06.881 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:06.910 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:42.430 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:49.855 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 12:27:50.845 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:25:53.852 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:25:57.586 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:26:06.572 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:26:08.450 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:26:20.941 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:26:22.395 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:29:27.030 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:33:15.405 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:33:18.394 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:33:35.974 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:33:38.324 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:42:37.089 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:42:52.167 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:42:54.599 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:45:25.728 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:45:27.932 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:45:48.568 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:45:52.721 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:57:57.763 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-11 13:57:59.845 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:25:34.319 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:25:37.782 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:26:35.548 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:26:38.059 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:32:47.325 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:32:51.119 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:39:07.986 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:40:47.120 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:40:50.210 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:42:41.847 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-13 23:42:46.149 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-14 22:33:05.744 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-14 22:33:36.711 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-14 23:09:26.594 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook.py
+2023-10-14 23:20:49.051 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_2.py
+2023-10-14 23:22:17.063 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_2.py
+2023-10-14 23:22:53.666 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_2.py
+2023-10-14 23:29:47.113 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:29:55.363 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:31:46.910 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:31:49.805 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:43:34.974 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:43:36.814 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:43:46.703 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:43:48.996 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:49:22.857 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:49:26.082 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:53:19.853 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:53:42.525 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:53:44.893 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:53:44.954 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:54:38.621 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-14 23:55:03.713 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_3.py
+2023-10-16 10:45:34.235 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:45:36.039 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:45:49.426 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:48:38.337 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:48:40.100 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:48:58.339 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:48:59.520 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:49:19.240 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:49:29.984 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:49:35.201 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:52:25.338 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:52:26.632 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:52:40.616 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:52:42.250 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:54:09.121 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:54:10.474 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:55:24.815 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:55:26.505 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:57:30.558 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 10:57:32.556 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 11:33:37.543 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 11:33:40.464 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 11:35:16.457 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 11:35:18.010 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-16 11:36:10.971 [info] Discover tests for workspace name: scripts - uri: /home/dodecaneser/scripts
+2023-10-16 11:46:03.866 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_5.py
+2023-10-16 11:46:06.593 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_5.py
+2023-10-16 11:46:12.465 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_5.py
+2023-10-16 11:51:08.185 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBook_6.py
+2023-10-16 11:51:09.378 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/pythonCrashBook_6.py
+2023-10-17 10:20:10.558 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/modifyindListFuncion.py
+2023-10-17 10:20:31.780 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/modifyindListFuncion.py
+2023-10-17 10:29:10.551 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:29:12.047 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:31:16.237 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:31:23.291 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:31:49.662 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:31:52.668 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:33:30.949 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:34:04.295 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:34:24.599 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:34:28.865 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryNumberArg.py
+2023-10-17 10:45:03.064 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryKeywordArg.py
+2023-10-17 10:45:09.338 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryKeywordArg.py
+2023-10-17 10:45:20.887 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/arbitraryKeywordArg.py
+2023-10-17 10:45:23.390 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/arbitraryKeywordArg.py
+2023-10-17 10:53:49.894 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/importingEntireModule.py
+2023-10-17 10:56:40.202 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 10:56:42.522 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 10:57:10.253 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 10:57:13.775 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 10:57:28.277 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pythonCrashBokk_4.py
+2023-10-17 10:59:54.192 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pizza.py
+2023-10-17 11:00:49.534 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:00:51.706 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:01:08.430 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:01:10.448 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:04:54.435 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:04:57.816 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:05:43.015 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:06:29.414 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:06:31.292 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:06:50.027 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/pizza.py
+2023-10-17 11:06:52.667 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:08:47.320 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:08:49.236 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/testModule.py
+2023-10-17 11:25:40.905 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:27:01.406 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:27:29.389 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:44:29.049 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:46:57.778 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:49:03.311 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 11:49:06.457 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 12:01:32.049 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 12:01:33.412 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/dog.py
+2023-10-17 12:07:07.942 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:07:10.512 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:10:57.924 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:10:59.615 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:13:47.703 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:13:49.098 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:15:14.522 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:15:15.852 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:20.424 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:28.412 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:39.389 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:44.936 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:46.992 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:55.228 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:17:56.644 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:19:36.611 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:19:38.255 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:20:52.297 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:22:35.005 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:31:11.911 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:32:03.498 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:32:05.265 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:36:57.368 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:37:05.662 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 12:37:07.379 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:48:10.141 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:49:59.461 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:50:07.744 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:50:11.669 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:51:42.335 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:55:54.179 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:56:28.402 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:56:30.120 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:56:53.128 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:56:57.274 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:16.235 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:18.456 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:29.237 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:34.226 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:42.203 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 13:57:43.453 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:04:18.181 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:05:41.913 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:05:59.956 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:06:04.543 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:06:24.239 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:06:25.534 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/car.py
+2023-10-17 14:08:14.909 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/my_car.py
+2023-10-17 14:15:07.340 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/my_car.py
+2023-10-17 14:15:11.451 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/my_car.py
+2023-10-17 14:31:05.710 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-17 14:31:12.024 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-17 21:52:51.918 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-17 21:53:24.947 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-17 21:53:26.343 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-17 21:53:40.678 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 08:44:12.230 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 08:44:16.417 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:31:16.093 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:31:18.974 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:31:37.332 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:35:47.715 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:36:09.935 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:37:51.955 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:37:55.039 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:38:46.719 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:38:48.249 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:39:14.850 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:46:09.697 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:46:16.740 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:46:26.775 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:46:35.704 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:48:01.876 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:48:47.183 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:48:48.895 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:48:58.926 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 09:57:35.505 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:05:11.499 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:05:13.344 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:05:29.106 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:05:31.839 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:18:42.031 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:19:04.388 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:19:12.232 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 10:19:14.420 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/file_reader.py
+2023-10-18 11:34:14.913 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/piMillion.py
+2023-10-18 11:35:19.362 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/piMillion.py
+2023-10-18 11:41:44.305 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:42:02.586 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:42:53.255 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:44:16.238 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:44:16.826 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:44:35.227 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 11:44:35.951 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 13:59:13.239 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:04:09.583 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:05:07.350 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:05:38.335 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:05:44.876 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:06:13.057 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:06:14.119 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:07:29.602 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:14:00.447 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:14:05.707 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:14:42.037 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:14:43.421 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:14:49.466 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:15:13.302 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:15:14.297 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/write_message.py
+2023-10-18 14:17:29.764 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:17:30.932 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:19:00.207 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:19:02.474 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:24:59.741 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:25:06.774 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:27:33.450 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:27:37.946 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/division.py
+2023-10-18 14:30:08.672 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 14:30:18.354 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 14:30:50.356 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 14:32:02.746 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:24:53.267 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:24:54.587 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:31:23.706 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:31:25.713 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:32:30.372 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:33:19.764 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:35:21.407 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:35:22.852 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:36:20.887 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:36:22.541 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:37:17.005 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:37:18.984 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:38:34.368 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:38:36.070 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/alice.py
+2023-10-18 15:43:26.316 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/number_writer.py
+2023-10-18 15:43:29.010 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/number_writer.py
+2023-10-18 15:44:30.377 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/number_writer.py
+2023-10-18 15:46:26.335 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/number_reader.py
+2023-10-18 15:46:27.490 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/number_reader.py
+2023-10-18 15:49:41.634 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 15:49:43.628 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:00:10.564 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:04:42.926 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:04:48.694 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:06:05.481 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:06:08.189 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:07:24.630 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:13.255 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:16.522 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:29.943 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:30.929 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:46.181 [info] Discover tests for workspace name: undefined - uri: /home/dodecaneser/pythonCrashBook/remenber_me.py
+2023-10-18 16:08:47.843 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/remenber_me.py

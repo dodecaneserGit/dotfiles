@@ -1,0 +1,67 @@
+[2022-11-29 11:51:51.889] [sharedprocess] [info] Starting worker process with pid 3654 (type: fileWatcher, window: 1).
+[2022-11-29 11:51:52.494] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.68.3
+[2022-11-29 11:51:52.916] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-12.1.1
+[2022-11-29 11:51:52.917] [sharedprocess] [info] Deleted from disk kevinrose.vsc-python-indent /home/dodecaneser/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.16.0
+[2022-11-29 11:51:53.279] [sharedprocess] [info] Deleted from disk shardulm94.trailing-spaces /home/dodecaneser/.vscode-oss/extensions/shardulm94.trailing-spaces-0.3.1
+[2022-11-29 11:51:53.800] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2022.5.1001610507
+[2022-11-29 11:51:55.125] [sharedprocess] [info] Deleted from disk ms-python.python /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0
+[2022-11-29 11:51:56.841] [sharedprocess] [info] Getting Manifest... almenon.arepl
+[2022-11-29 11:51:56.844] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-11-29 11:51:56.845] [sharedprocess] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-11-29 11:51:56.846] [sharedprocess] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:51:56.848] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-11-29 11:51:56.849] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-11-29 11:51:56.851] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-11-29 11:51:56.852] [sharedprocess] [info] Getting Manifest... znck.vue
+[2022-11-29 11:51:58.203] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-11-29 11:51:58.234] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-11-29 11:51:58.237] [sharedprocess] [info] Installing extension: almenon.arepl
+[2022-11-29 11:51:58.288] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:51:58.291] [sharedprocess] [info] Installing extension: znck.vue
+[2022-11-29 11:51:58.342] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-11-29 11:51:58.346] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-11-29 11:51:58.544] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-11-29 11:52:03.436] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.72.0-universal
+[2022-11-29 11:52:03.610] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.18.0-universal
+[2022-11-29 11:52:03.659] [sharedprocess] [info] Downloaded extension: znck.vue /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/znck.vue-0.12.0-universal
+[2022-11-29 11:52:03.795] [sharedprocess] [info] Downloaded extension: almenon.arepl /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/almenon.arepl-2.0.4-universal
+[2022-11-29 11:52:03.821] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2022-11-29 11:52:03.854] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.dffdc6d3-9a19-43e4-88f5-db9c346f0abd: kevinrose.vsc-python-indent
+[2022-11-29 11:52:03.866] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.18.0-universal
+[2022-11-29 11:52:03.875] [sharedprocess] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-11-29 11:52:03.889] [sharedprocess] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-11-29 11:52:04.375] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.709439b4-f208-436a-b512-8357cd2fbe77: ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:52:04.393] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.72.0-universal
+[2022-11-29 11:52:04.400] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:52:04.410] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:52:04.844] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/eamodio.gitlens-13.1.1-universal
+[2022-11-29 11:52:04.937] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-11-29 11:52:04.983] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.30bc8897-d0f2-4a32-b7f3-2227384b5cff: znck.vue
+[2022-11-29 11:52:04.992] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/znck.vue-0.12.0-universal
+[2022-11-29 11:52:04.999] [sharedprocess] [info] Extracting completed. znck.vue
+[2022-11-29 11:52:05.007] [sharedprocess] [info] Extension installed successfully: znck.vue
+[2022-11-29 11:52:05.400] [sharedprocess] [info] Downloaded extension: ms-python.python /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[2022-11-29 11:52:05.957] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.a7edea0a-601f-4c8f-b2b0-b44a852ebf1c: ms-toolsai.jupyter-renderers
+[2022-11-29 11:52:05.969] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2022-11-29 11:52:05.977] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-11-29 11:52:05.986] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-11-29 11:52:06.378] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/dodecaneser/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.10.110-universal
+[2022-11-29 11:52:07.234] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.bc6e7450-4c24-456a-8a6e-941cbb952a3b: almenon.arepl
+[2022-11-29 11:52:07.245] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/almenon.arepl-2.0.4-universal
+[2022-11-29 11:52:07.250] [sharedprocess] [info] Extracting completed. almenon.arepl
+[2022-11-29 11:52:07.261] [sharedprocess] [info] Extension installed successfully: almenon.arepl
+[2022-11-29 11:52:07.342] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.ad529ff8-4792-494d-8caf-e97751eadef9: eamodio.gitlens
+[2022-11-29 11:52:07.364] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-13.1.1-universal
+[2022-11-29 11:52:07.374] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-11-29 11:52:07.395] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-11-29 11:52:08.819] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.f88659cf-24a1-41c7-9f37-90cdb86ea6f2: ms-toolsai.jupyter
+[2022-11-29 11:52:08.833] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+[2022-11-29 11:52:08.855] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-11-29 11:52:08.867] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-11-29 11:52:11.330] [sharedprocess] [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.a8cd221e-7a40-4e63-a28e-8a920b780dfb: ms-python.python
+[2022-11-29 11:52:11.340] [sharedprocess] [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.16.1-universal
+[2022-11-29 11:52:11.347] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-11-29 11:52:11.909] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-11-29 11:52:24.766] [sharedprocess] [info] Worker process with pid 3654 terminated normally (type: fileWatcher, window: 1).
+[2022-11-29 11:52:27.760] [sharedprocess] [info] Starting worker process with pid 3860 (type: fileWatcher, window: 1).
+[2022-11-29 11:52:30.016] [sharedprocess] [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/1cf5990825931487c257321beaad6bfe.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/1cf5990825931487c257321beaad6bfe.es'

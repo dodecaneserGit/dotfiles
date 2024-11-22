@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "ఇతర టాబ్లను మూసివేయి"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "మీరు ఒక టూల్బార్ బటన్, కుడి క్లిక్ మెనులో లేదా Alt + Shift నొక్కడం + W ద్వారా ఒక అంశానికి ఇతర టాబ్లను మూసివేయి అనుమతిస్తుంది."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "ఇతర టాబ్లను మూసివేయి"
+   }
+}

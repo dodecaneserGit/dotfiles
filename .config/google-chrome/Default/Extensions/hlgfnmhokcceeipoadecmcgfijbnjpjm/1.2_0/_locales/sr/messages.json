@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Затвори друге картице"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Омогућава вам да Затварање других картица са дугме на палети алатки, ставку на менију десним кликом или притиском на Алт + Схифт + В."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Затвори друге картице"
+   }
+}

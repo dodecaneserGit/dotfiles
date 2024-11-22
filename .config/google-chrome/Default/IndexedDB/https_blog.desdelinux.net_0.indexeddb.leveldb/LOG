@@ -1,0 +1,6 @@
+2023/12/14-22:04:56.419 7083 Creating DB /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
+2023/12/14-22:04:56.432 7083 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/14-22:50:30.975 7084 Level-0 table #5: started
+2023/12/14-22:50:30.981 7084 Level-0 table #5: 5850 bytes OK
+2023/12/14-22:50:30.990 7084 Delete type=0 #3
+2023/12/14-22:50:30.992 7084 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

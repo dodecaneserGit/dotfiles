@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "অন্যান্য ট্যাব বন্ধ করুন"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "আপনি যদি একটি টুলবার বোতাম, ডান-ক্লিক মেনু বা টিপে Alt + Shift + W দ্বারা একটি আইটেম সঙ্গে অন্যান্য ট্যাব বন্ধ করুন করতে অনুমতি দেয়।"
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "অন্যান্য ট্যাব বন্ধ করুন"
+   }
+}

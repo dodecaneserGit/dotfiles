@@ -1,0 +1,31 @@
+[2022-11-29 11:51:50.169] [renderer1] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-11-29 11:51:50.170] [renderer1] [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-11-29 11:51:50.171] [renderer1] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-11-29 11:51:50.473] [renderer1] [info] [eamodio.gitlens]: El comando `gitlens.copyAutolinkUrl` aparece varias veces en la sección 'commands'.
+[2022-11-29 11:52:28.577] [renderer1] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-11-29 11:52:28.578] [renderer1] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-11-29 11:53:02.120] [renderer1] [error] ["NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'","    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)","    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)","    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)"]
+[2022-11-29 11:53:02.143] [renderer1] [error] Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty': NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)
+    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)
+    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)
+[2022-11-29 11:53:04.348] [renderer1] [error] ["NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'","    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)","    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)","    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)"]
+[2022-11-29 11:53:04.349] [renderer1] [error] Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty': NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)
+    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)
+    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)
+[2022-11-29 11:53:05.601] [renderer1] [error] ["NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'","    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)","    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)","    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)"]
+[2022-11-29 11:53:05.604] [renderer1] [error] Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty': NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)
+    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)
+    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)
+[2022-11-29 11:53:07.031] [renderer1] [error] ["NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'","    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)","    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)","    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)"]
+[2022-11-29 11:53:07.067] [renderer1] [error] Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty': NoPermissions (FileSystemError): Error: EACCES: permission denied, mkdir '/home/dodecaneser/scripts/BugBounty'
+    at a (/usr/lib/code/out/vs/code/electron-main/main.js:33:4143)
+    at i.toFileSystemProviderError (/usr/lib/code/out/vs/code/electron-main/main.js:38:43388)
+    at i.mkdir (/usr/lib/code/out/vs/code/electron-main/main.js:38:40689)
+[2022-11-29 11:53:47.504] [renderer1] [error] No se puede escribir el archivo "/home/dodecaneser/scripts/recon.sh" (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dodecaneser/scripts/recon.sh'): Error: No se puede escribir el archivo "/home/dodecaneser/scripts/recon.sh" (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dodecaneser/scripts/recon.sh')
+    at u.writeFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:608:17918)
+    at async u.createFile (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:608:17071)
+    at async handler (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3098:9560)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1974:5008

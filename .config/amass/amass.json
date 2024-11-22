@@ -1,0 +1,5 @@
+{"name":"www.madridjpjuegos.es","domain":"madridjpjuegos.es","addresses":null,"tag":"cert","sources":["Bing","Yahoo","LeakIX","DNSHistory","DuckDuckGo","CertSpotter","Digitorus","Baidu","RapidDNS","Crtsh","Wayback"]}
+{"name":"app.madridjpjuegos.es","domain":"madridjpjuegos.es","addresses":null,"tag":"cert","sources":["HackerTarget","LeakIX","DNSHistory","CertSpotter","Digitorus","DNSDumpster","RapidDNS","Crtsh","Wayback"]}
+{"name":"mail.madridjpjuegos.es","domain":"madridjpjuegos.es","addresses":null,"tag":"api","sources":["HackerTarget","DNSDumpster","RapidDNS"]}
+{"name":"2a.madridjpjuegos.es","domain":"madridjpjuegos.es","addresses":null,"tag":"scrape","sources":["Google"]}
+{"name":"madridjpjuegos.es","domain":"madridjpjuegos.es","addresses":null,"tag":"archive","sources":["DNS","Bing","Google","HackerTarget","Yahoo","Mnemonic","PKey","LeakIX","DNSHistory","DuckDuckGo","CertSpotter","HyperStat","Digitorus","Baidu","DNSDumpster","RapidDNS","Crtsh","HAW","Wayback"]}

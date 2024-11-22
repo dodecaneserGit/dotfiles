@@ -1,0 +1,8 @@
+filebeat.inputs:
+- type; log
+  enable: true
+  paths:
+    - /var/log/suricata/eve.json
+
+output.logstash:
+  host: ["logstash:5044"]

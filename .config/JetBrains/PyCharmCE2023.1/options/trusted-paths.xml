@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/alienInvasion" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/cursoPython" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/generatingdata" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/libroCrash" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/scrapping" value="true" />
+        <entry key="$USER_HOME$/pythonCrashBook" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

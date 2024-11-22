@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Fermer les autres onglets"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Permet de fermer les autres onglets avec un bouton de la barre d'outils, un élément dans le menu contextuel ou en appuyant sur Alt + Maj + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Fermer les autres onglets"
+   }
+}

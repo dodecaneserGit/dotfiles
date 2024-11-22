@@ -1,0 +1,14 @@
+2024/08/10-20:14:15.414 a783 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_samfw.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-20:14:15.418 a783 Recovering log #38
+2024/08/10-20:14:15.420 a783 Reusing old log /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_samfw.com_0.indexeddb.leveldb/000038.log 
+2024/08/10-20:14:15.421 a783 Delete type=2 #36
+2024/08/10-20:14:16.327 a784 Level-0 table #43: started
+2024/08/10-20:14:16.332 a784 Level-0 table #43: 645 bytes OK
+2024/08/10-20:14:16.338 a784 Delete type=0 #38
+2024/08/10-20:14:16.342 a783 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 197 : 1
+2024/08/10-20:14:16.342 a783 Compacting 1@0 + 1@1 files
+2024/08/10-20:14:16.349 a783 Generated table #44@0: 7 keys, 597 bytes
+2024/08/10-20:14:16.349 a783 Compacted 1@0 + 1@1 files => 597 bytes
+2024/08/10-20:14:16.355 a783 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/10-20:14:16.356 a783 Delete type=2 #43
+2024/08/10-20:14:16.356 a783 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 197 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

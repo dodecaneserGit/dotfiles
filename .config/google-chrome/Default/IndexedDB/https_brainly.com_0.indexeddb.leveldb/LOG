@@ -1,0 +1,6 @@
+2024/03/14-12:09:41.600 e8b9 Creating DB /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_brainly.com_0.indexeddb.leveldb since it was missing.
+2024/03/14-12:09:41.613 e8b9 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/IndexedDB/https_brainly.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/14-12:26:21.530 e8ba Level-0 table #5: started
+2024/03/14-12:26:21.536 e8ba Level-0 table #5: 1028 bytes OK
+2024/03/14-12:26:21.545 e8ba Delete type=0 #3
+2024/03/14-12:26:21.546 e8ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

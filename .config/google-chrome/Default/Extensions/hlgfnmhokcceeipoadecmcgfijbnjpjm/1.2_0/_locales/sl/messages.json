@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Zapri druge zavihke"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "vam omogoča, da v bližini drugih karticah z gumbom orodne vrstice, točko na desni klik menija ali s pritiskom na Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Zapri druge zavihke"
+   }
+}

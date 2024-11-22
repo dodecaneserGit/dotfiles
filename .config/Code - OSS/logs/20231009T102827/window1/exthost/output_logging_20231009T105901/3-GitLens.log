@@ -1,0 +1,56 @@
+[2023-10-09 08:59:05.176] [GIT  ] [/home/dodecaneser/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [100ms]
+
+[2023-10-09 09:31:00.501] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [23ms]
+
+[2023-10-14 21:10:35.802] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [24ms]
+
+[2023-10-14 21:25:55.732] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [19ms]
+
+[2023-10-14 21:27:50.910] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [20ms]
+
+[2023-10-16 08:41:04.489] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [26ms]
+
+[2023-10-16 09:37:14.966] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [27ms]
+
+[2023-10-16 09:47:44.128] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [18ms]
+
+[2023-10-17 08:09:59.816] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [36ms]
+
+[2023-10-17 08:23:31.750] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [28ms]
+
+[2023-10-17 08:37:35.970] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [40ms]
+
+[2023-10-17 08:48:31.064] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [17ms]
+
+[2023-10-17 08:55:55.124] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [69ms]
+
+[2023-10-17 08:58:00.145] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [19ms]
+
+[2023-10-17 09:11:44.363] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [20ms]
+
+[2023-10-17 10:02:01.918] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [30ms]
+
+[2023-10-17 12:07:56.805] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [25ms]
+
+[2023-10-17 12:28:33.043] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [19ms]
+
+[2023-10-17 12:29:57.771] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [22ms]
+
+[2023-10-18 06:44:52.067] [GIT  ] [/home/dodecaneser/scripts/crackpkcs12-0.2.11] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [20ms]
+
+[2023-10-18 07:44:01.766] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [25ms]
+
+[2023-10-18 09:25:38.758] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [22ms]
+
+[2023-10-18 09:39:24.707] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [57ms]
+
+[2023-10-18 12:16:39.929] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [44ms]
+
+[2023-10-18 12:29:16.905] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [57ms]
+
+[2023-10-18 13:40:25.889] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [24ms]
+
+[2023-10-18 13:44:18.470] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [33ms]
+
+[2023-10-18 13:47:19.707] [GIT  ] [/home/dodecaneser/pythonCrashBook] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [22ms]
+

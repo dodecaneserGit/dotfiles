@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Diğer Sekmeleri Kapat"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Eğer bir araç çubuğu düğmesi, sağ tıklama menüsüne veya basarak Alt + Shift + W tarafından bir öğe ile yakın diğer sekmelerin sağlar."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Diğer Sekmeleri Kapat"
+   }
+}

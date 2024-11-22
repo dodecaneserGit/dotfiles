@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Sulje muut välilehdet"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Voit Sulje muut välilehdet kanssa työkalurivin painiketta, kohde oikealla hiirennapilla tai painamalla Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Sulje muut välilehdet"
+   }
+}

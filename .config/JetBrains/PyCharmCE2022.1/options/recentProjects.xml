@@ -1,0 +1,34 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject" projectWorkspaceId="28M35prVsnNmZWm8AblAZUneiRS">
+              <option name="activationTimestamp" value="1661259703880" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-213.7172.26" />
+              <option name="buildTimestamp" value="1647631518428" />
+              <frame x="100" y="25" width="1795" height="1030" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1651012447920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/scrapping">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2Dl3B5uYlGxPeMaBNIPGWJ3WyYX">
+              <option name="activationTimestamp" value="1661263801570" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-221.5921.27" />
+              <option name="buildTimestamp" value="1655936302144" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1661259704505" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

@@ -1,0 +1,22 @@
+[2022-11-29T10:52:33.366Z] Log level: Info
+[2022-11-29T10:52:33.368Z] [info] Validating found git in: git
+[2022-11-29T10:52:33.412Z] [info] Using git 2.38.0 from git
+[2022-11-29T10:52:33.521Z] > git rev-parse --show-toplevel [78ms]
+[2022-11-29T10:52:33.521Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T10:52:33.592Z] > git rev-parse --show-toplevel [30ms]
+[2022-11-29T10:52:33.592Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T10:52:33.641Z] > git rev-parse --show-toplevel [36ms]
+[2022-11-29T10:52:33.641Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T10:52:33.676Z] > git rev-parse --show-toplevel [6ms]
+[2022-11-29T10:52:33.676Z] fatal: detected dubious ownership in repository at '/home/dodecaneser/scripts/mimikatz'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dodecaneser/scripts/mimikatz
+[2022-11-29T10:52:33.737Z] > git rev-parse --show-toplevel [4ms]
+[2022-11-29T10:52:33.737Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T10:54:24.810Z] > git rev-parse --show-toplevel [7ms]
+[2022-11-29T10:54:24.810Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T10:56:33.516Z] > git rev-parse --show-toplevel [5ms]
+[2022-11-29T10:56:33.516Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-11-29T11:02:08.281Z] > git rev-parse --show-toplevel [3ms]
+[2022-11-29T11:02:08.281Z] fatal: not a git repository (or any of the parent directories): .git

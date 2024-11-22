@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Zavřít ostatní karty"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Umožňuje blízké další karty s tlačítko panelu nástrojů, položky v menu pravého tlačítka myši nebo stisknutím Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Zavřít ostatní karty"
+   }
+}

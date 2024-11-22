@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Aizvērt citas cilnes"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Ļauj Aizvērt citas cilnes ar rīkjoslas pogas, vienuma uz labo klikšķi izvēlnē vai nospiežot Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Aizvērt citas cilnes"
+   }
+}

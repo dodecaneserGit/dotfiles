@@ -1,0 +1,49 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject" projectWorkspaceId="28M35prVsnNmZWm8AblAZUneiRS">
+              <option name="activationTimestamp" value="1661259703880" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-213.7172.26" />
+              <option name="buildTimestamp" value="1647631518428" />
+              <frame x="100" y="25" width="1795" height="1030" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1651012447920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/scrapping">
+          <value>
+            <RecentProjectMetaInfo frameTitle="scrapping – scrap.py" projectWorkspaceId="2Dl3B5uYlGxPeMaBNIPGWJ3WyYX">
+              <option name="activationTimestamp" value="1678368725919" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-223.8214.51" />
+              <option name="buildTimestamp" value="1672398773148" />
+              <frame x="100" y="25" width="1795" height="1030" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1678368674514" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/libroCrash">
+          <value>
+            <RecentProjectMetaInfo frameTitle="libroCrash – main.py" opened="true" projectWorkspaceId="2MmNJeKtGkB82KW36HKGUTNlBsh">
+              <option name="activationTimestamp" value="1678379898516" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-223.8214.51" />
+              <option name="buildTimestamp" value="1672398773148" />
+              <frame x="100" y="25" width="1795" height="1030" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1678368727467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/PycharmProjects/libroCrash" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

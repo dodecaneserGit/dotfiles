@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Fechar outras guias"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Permite que você feche outras guias com um botão da barra de ferramentas, um item no menu do botão direito ou pressionando Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Fechar outras guias"
+   }
+}

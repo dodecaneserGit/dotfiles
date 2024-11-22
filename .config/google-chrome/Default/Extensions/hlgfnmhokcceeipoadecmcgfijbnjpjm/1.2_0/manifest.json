@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/close16.png",
+         "24": "images/close24.png",
+         "32": "images/close32.png"
+      },
+      "default_title": "__MSG_extensionName__"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+Shift+W"
+         }
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "images/close128.png",
+      "16": "images/close16.png",
+      "48": "images/close48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsYUxt7AJ2bnn8Hr/aDmatI07uSBb9YXIyVRSosXRKPBTqajh0MXQ0ILMmingHaUoZXFoxGvU3rtiGEDrt5JwybxmJhTIs+ZJguozqPY9FJsVerm73j4hSRamqshVRfUAz4oJri8MrSl+fHTvD4q9Gw/0vQKxL3vcPkOP1uyDqKggGlyEkW1J5psByJzmnmkYsP1ON8F9pcjxzhoDca7uAG+yahqqndVJGMHBRXVJvoFxqmJIzmgL9CSk9vnTSdvyShzlQnuHD7wbARmE8wFDS2DYO5nStOOVV/LaYCrMZ11sYcKRqTsRVOKvPoG4rUy7cFyf3JVhUq61b37AFtlvqQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

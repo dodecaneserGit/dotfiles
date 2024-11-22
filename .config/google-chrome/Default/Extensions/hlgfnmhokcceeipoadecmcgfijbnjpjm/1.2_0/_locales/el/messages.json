@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Κλείσιμο των άλλων καρτελών"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Σας επιτρέπει να Κλείσιμο των άλλων καρτελών με ένα κουμπί της γραμμής εργαλείων, ένα στοιχείο στο μενού του δεξιού κλικ ή πατώντας Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Κλείσιμο των άλλων καρτελών"
+   }
+}

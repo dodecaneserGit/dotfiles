@@ -1,0 +1,56 @@
+2023-10-18 21:43:08.732 [info] Test server listening.
+2023-10-18 21:43:08.732 [info] Python interpreter path: /bin/python
+2023-10-18 21:43:12.588 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 9230ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/remenber_me.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-18 21:43:12.591 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-18 21:43:12.591 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-18 21:43:13.587 [error] Failed to start language server: [s [Error]: write EPIPE
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318165
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)] {
+  code: -32099,
+  data: undefined
+}
+2023-10-18 21:43:13.600 [error] [
+  'Failed to start language server, Class name = l, completed in 808ms, has a falsy return value, Arg 1: <Uri:/default>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":[],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-18 21:43:13.604 [error] [
+  'Starting language server, Class name = h, completed in 816ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-18 21:43:13.612 [error] [
+  'Failed to start language server, Class name = h, completed in 996ms, has a falsy return value, Arg 1: <Uri:/default>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]

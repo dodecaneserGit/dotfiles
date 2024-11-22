@@ -1,0 +1,120 @@
+version: "3.9"
+
+# Red
+networks:
+  elastic:
+    driver: bridge
+
+# Volumenes
+volumes:
+  elastic-data:
+  kibana-data:
+  filebeat-data:
+  packetbeat:
+
+services:
+
+# Elasticsearch service.
+elasticsearch:
+  container_name: elasticsearch
+  image: docker.elastic.co/elasticsearch/elasticsearch:8.6.0-arm64
+  ports:
+    - '9200:9200'
+    - '9300:9300'
+  environment:
+    - discovery.type=single-node
+  #cap_add:
+  #  - ALL
+  #volumes:
+  #  - ./SIEM/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+  #  - elastic-data:/usr/share/elasticsearch/data
+  restart: always
+  networks:
+    elastic:
+
+# Kibana service.
+kibana:
+  depends_on:
+    - elasticsearch
+  image: docker.elastic.co/kibana/kibana:8.6.0-arm64
+  container_name: kibana
+  volumes:
+    - kibana-data:/usr/share/kibana/data
+  ports:
+    - '5601:5601'
+  restart: always
+  environment:
+    - 'ELASTICSEARCH_HOSTS=http://elasticsearch:9200'
+
+# Agregador de logs
+filebeat:
+  depends_on:
+    - kibana
+  image: docker.elastic.co/beats/filebeat-oss:8.6.0-arm64
+  container_name: filebeat
+  command: --strict.perms=false
+  user: root
+  volumes:
+    - filebeat-data:/usr/share/filebeat/data
+    - ./filebeat.yml://usr/share/filebeat/filebeat.yml:ro
+    - /var/lib/docker/containers:/var/lib/docker/containers:ro
+    - /var/run/docker.sock:/var/run/docker.sock:ro
+    - /var/log/:/var/log/:ro
+    - /var/log/suricata/:/var/log/suricata/:ro
+  restart: always
+  environment:
+    - output.elasticsearch.hosts=["elasticsearch:9200"]
+    - setup.kibana.host=kibana:5601
+  network:
+    elastic:
+
+# Agregador de metricas
+metricbeat:
+  depends_on:
+    - kibana
+  image: docker.elastic.co/beats/metricbeat:8.6.0-arm64
+  container_name: metricbeat
+  user: root
+  volumes:
+    - ./metricbeat.yml:/usr/share/metricbeat/metricbeat.yml:ro
+    - /var/run/docker.sock:/var/run/docker.sock:ro
+    - /sys/fs/cgroup:/hostfs/sys/fs/cgroup:ro
+    - /proc:/hostfs/proc:ro
+    - /:/hostfs:ro
+  restart: always
+  network:
+    elastic:
+
+# Agregador de paquetes de red.
+packetbeat:
+  depens_on:
+  - kibana
+  image: docker.elastic.co/beats/packetbeat:8.6.0-arm64
+  user: root
+  volumes:
+    - ./packetbeat.yml:/usr/share/packetbeat/packetbeat.yml:ro
+    - packetbeat:/usr/share/packetbeat/data
+    - /var/run/docker.sock:/var/run/docker.sock
+  environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+      - KIBANA_HOST=http://kibana:5601
+      #- ELASTICSEARCH_USERNAME=${ELASTICSEARCH_USERNAME:-elastic}
+      #- ELASTICSEARCH_PASSWORD=${ELASTICSEARCH_PASSWORD:-changeme}
+      # Eagerly waiting for Docker 19.06 release which will bring --privileged flag to Docker
+      # Swarm Mode https://github.com/moby/moby/issues/24862#issuecomment-451594187
+      # support for capabilities https://github.com/moby/moby/pull/38380
+
+
+# Logstash service
+    logstash:
+        container_name: logstash
+        volumes:
+            - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf:ro
+            - ./logstash.yaml:/usr/share/logstash/config/logstash.yml:ro
+        image: docker.elastic.co/logstash/logstash:8.6.0-arm64
+        depends_on:
+            kibana:
+              condition: service_healthy
+        networks:
+            - elastic
+

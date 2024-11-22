@@ -1,0 +1,310 @@
+{
+   "1": {
+      "message": "1"
+   },
+   "action_close_tab": {
+      "message": "Eylem: Sekmeyi Kapat"
+   },
+   "an_error_occurred_1_2": {
+      "message": "Bir hata oluştu. Ayarlar alınamadı.\u003Cbr>\u003Cbr>1. Lütfen sayfayı \u003Ca href='/settings.html' class='c_blue'>yenileyin\u003C/a>.\u003Cbr>\u003Cbr>\u003Cdiv>\u003Cspan class='vam mr-2'>2. Hala bu hatayı alıyor musunuz! Öyleyse \u003C/span>"
+   },
+   "an_error_occurred_3": {
+      "message": "3. Sorun devam ediyorsa, lütfen durumu $A1$bildirin$A2$ (alternatif: $A3$gmail ile$A4$).",
+      "placeholders": {
+         "A1": {
+            "content": "$1"
+         },
+         "A2": {
+            "content": "$2"
+         },
+         "A3": {
+            "content": "$3"
+         },
+         "A4": {
+            "content": "$4"
+         }
+      }
+   },
+   "are_you_sure_to_reset_settings": {
+      "message": "Ayarları sıfırlamak istediğinize emin misiniz?"
+   },
+   "auto_hide_horizontal_scrollbar": {
+      "message": "Yatay kaydırma çubuğunu otomatik gizle"
+   },
+   "auto_maximize_desc": {
+      "message": "Sayfa-içi öğesini daha etkin kullanabilmek için, tarayıcı penceresi büyütülmüş olmalıdır. Bu özelliği etkinleştirirseniz, yeni açılan pencereleri otomatik olarak büyütürüz."
+   },
+   "auto_maximize_new_windows": {
+      "message": "Yeni Pencereleri Otomatik Büyüt"
+   },
+   "beta_feature": {
+      "message": "(Beta özellik)"
+   },
+   "bottom_border": {
+      "message": "Alt kenar"
+   },
+   "bottom_center": {
+      "message": "Alt orta"
+   },
+   "bottom_left": {
+      "message": "Alt sol"
+   },
+   "bottom_right": {
+      "message": "Alt sağ"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "changelog": {
+      "message": "Değişiklik kayıtları"
+   },
+   "changelog_content": {
+      "message": "v3.0.x\n Yeni özellikler:\n• Alt ve sağ konumlar için yeni ilave ayarlar eklendi.\n• İpuçları özelleştirilebilir hale getirildi.\n• Sayfa-içi öğesine saydamlık özelliği eklendi.\n• Seçili kenarda sağ-tıklama yapıldığında, seçili seçeneklerin gösterilmesi sağlandı.\n• İçerik menüsü seçenekleri eklendi.\n• Yeni açılan pencerelerin otomatik olarak büyütülebilmesi seçeneği eklendi.\n• Araç çubuğu ikonu için tıklandığında açılır sayfa eklendi.\n\nGüncellemeler:\n• Settings page redesigned.\n• In-page element positions restructured.\n• New toolbar icon images available.\n\n\nv2.0.x\nYeni özellikler:\n• Yeni sayfa-içi öğesi konumları eklendi.\n• Sayfa-içi öğesinin kalınlığını değiştirebilirsiniz.\n• Araç çubuğu ikonu eklendi. Araç çubuğu ikonuna tıklanınca varsayılan eylem gerçekleştiriliyor.\n• Araç çubuğu ikonunun görselini değiştirebilirsiniz.\n• Çoklu dil desteği eklendi. Çevirilere yardımcı olabilirsiniz.\n• Ayarlar Chrome ile sekronize ediliyor (eğer oturum açılmışsa).\n\nGüncellemeler:\n• 'Sekmeyi Kapat' olarak yeniden isimlendirildi.\n• Yeni 'Ayarlar' sayfası hazırlandı.\n• Dinamik olarak içeriği yüklenen sayfalar için ekleme yapıldı.\n\nv1.0\n• İlk sürüm\n"
+   },
+   "click_event_to_close_tab": {
+      "message": "Sekmeyi Kapat Eylemi"
+   },
+   "close_other_tabs": {
+      "message": "Diğer sekmeleri kapat"
+   },
+   "close_tab": {
+      "message": "Sekmeyi kapat"
+   },
+   "close_tabs_to_the_left": {
+      "message": "Soldaki sekmeleri kapat"
+   },
+   "close_tabs_to_the_right": {
+      "message": "Sağdaki sekmeleri kapat"
+   },
+   "confirm_your_support": {
+      "message": "Desteğinizi onaylayın"
+   },
+   "contact_us": {
+      "message": "İletişim"
+   },
+   "context_menu": {
+      "message": "İçerik Menüsü"
+   },
+   "context_menu_options": {
+      "message": "İçerik Menüsü Seçenekleri"
+   },
+   "context_menu_options_desc": {
+      "message": "Uyarı: Birden fazla seçenek seçilirse, Google Chrome otomatik olarak bunları tek bir ana menü altına ekleyecektir."
+   },
+   "contextmenus_permission_desc": {
+      "message": "contextMenus yetkisi, tarayıcınızın sağ-tıklama içerik menüsüne, aşağıdaki menü öğelerini ekleyebilmek için gerekli:"
+   },
+   "custom_scrollbar": {
+      "message": "Özel kaydırma çubuğu"
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "disable_this_element": {
+      "message": "Devre dışı bırak"
+   },
+   "donate": {
+      "message": "Bağış yap"
+   },
+   "dont_show": {
+      "message": "Gösterme"
+   },
+   "double_left_click": {
+      "message": "Çift sol tıklama"
+   },
+   "enable_this_element": {
+      "message": "Etkinleştir"
+   },
+   "english": {
+      "message": "İngilizce"
+   },
+   "extBrowserActionTitle": {
+      "message": "Sekmeyi kapat Menüsü"
+   },
+   "extDefaultTitle": {
+      "message": "Sekmeyi kapat"
+   },
+   "extDesc": {
+      "message": "Sayfa-içi kenar öğesi ile sekmeleri kolayca kapatın."
+   },
+   "extName": {
+      "message": "Sekmeyi Kapat"
+   },
+   "help_to_translate": {
+      "message": "Çeviriye yardım edin"
+   },
+   "hide_mini_arrow": {
+      "message": "Küçük ok işaretini gizle"
+   },
+   "hide_scrollbar": {
+      "message": "Kaydırma çubuğunu gizle"
+   },
+   "hover_color": {
+      "message": "Rengi"
+   },
+   "if_empty_then": {
+      "message": "Boş bırakılırsa, 'Sekmeyi kapat' yazısı gösterilir."
+   },
+   "in_page_element": {
+      "message": "Sayfa-İçi Öğesi"
+   },
+   "in_page_position": {
+      "message": "Sayfa İçi Konumu"
+   },
+   "inpage_element_is_disabled": {
+      "message": "Sayfa içi öğesi, devre dışı bırakıldı!"
+   },
+   "keep_browser_default": {
+      "message": "Tarayıcı varsayılanı"
+   },
+   "language": {
+      "message": "Dil"
+   },
+   "left_border": {
+      "message": "Sol kenar"
+   },
+   "left_bottom": {
+      "message": "Sol alt"
+   },
+   "left_click": {
+      "message": "Sol tıklama"
+   },
+   "left_middle": {
+      "message": "Sol orta"
+   },
+   "left_top": {
+      "message": "Sol üst"
+   },
+   "misc": {
+      "message": "Çeşitli"
+   },
+   "misc_settings": {
+      "message": "Çeşitli Ayarlar"
+   },
+   "more_easy": {
+      "message": "Sekmeleri kapatmanın daha kolay ve hızlı yolu."
+   },
+   "new": {
+      "message": "Yeni"
+   },
+   "opacity": {
+      "message": "Şeffaflığı"
+   },
+   "opacity_desc": {
+      "message": "'0' şu anlama gelir; öğe görünmez olur, ama aslında oradadır ve onunla etkileşimde bulunabilirsiniz demektir."
+   },
+   "open_settings": {
+      "message": "Ayarları aç"
+   },
+   "or": {
+      "message": "veya"
+   },
+   "please_select_a_style_for_the_vertical_scrollbar": {
+      "message": "Lütfen dikey kaydırma çubuğu için bir stil seçin"
+   },
+   "please_select_your_support_method": {
+      "message": "Destekte bulunduğunuz yöntemi seçin"
+   },
+   "preview": {
+      "message": "(ön izleme)"
+   },
+   "px": {
+      "message": "px"
+   },
+   "request_contextmenus_permission": {
+      "message": "contextMenus Yetkisi İste"
+   },
+   "reset": {
+      "message": "Sıfırla"
+   },
+   "reset_settings": {
+      "message": "Ayarları Sıfırla"
+   },
+   "reset_settings_desc": {
+      "message": "Uyarı: Bu işlem, mevcut ayarlarınızı silecek ve varsayılanları geri yükleyecek."
+   },
+   "revoke_contextmenus_permission": {
+      "message": "contextMenus Yetkisini İptal Et"
+   },
+   "right_click_options": {
+      "message": "Öğe üzerinde sağ-tıklama seçenekleri"
+   },
+   "right_click_options_desc": {
+      "message": "Seçili kenara sağ-tıklandığında, aşağıdaki seçili seçenekler gösterilir."
+   },
+   "right_middle": {
+      "message": "Sağ orta"
+   },
+   "saved": {
+      "message": "Kaydedildi"
+   },
+   "send_email_other": {
+      "message": "Geliştiriciye e-posta gönderin (diğer)"
+   },
+   "send_email_via_google": {
+      "message": "Geliştiriciye e-posta gönderin (Gmail ile)"
+   },
+   "send_feedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "send_your_messages_in_english": {
+      "message": " "
+   },
+   "settings": {
+      "message": "AYARLAR"
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "show_icon": {
+      "message": "İkon göster"
+   },
+   "show_menu": {
+      "message": "Menü göster"
+   },
+   "show_text": {
+      "message": "Metin göster"
+   },
+   "support_this_project": {
+      "message": "Bu Projeyi Destekleyin"
+   },
+   "supporters": {
+      "message": "Destekleyenler"
+   },
+   "thank_you_for_your_support": {
+      "message": "Desteğiniz için teşekkürler."
+   },
+   "thickness": {
+      "message": "Kalınlığı"
+   },
+   "thickness_desc": {
+      "message": "Bazı ekranlarda, ekran ayarı düzgün yapılmamış ve konumu seçilen kenar çizgisi, görünür alanın dışında kalıp görünmüyor olabilir. Eğer fare imlecini seçili kenara götürdüğünüz halde, kenar çizgisini göremiyorsanız, ya monitörünüzün ayarlarını yapın, veya da kenar çizgisi görünene kadar çizginin kalınlığını buradan artırın."
+   },
+   "title": {
+      "message": "Sekmeyi kapat Ayarları"
+   },
+   "toolbar_icon": {
+      "message": "Araç Çubuğu İkonu"
+   },
+   "toolbar_icon_default_click_action": {
+      "message": "Araç Çubuğu İkonu Varsayılan Tıklama Eylemi"
+   },
+   "toolbar_icon_default_click_action_desc": {
+      "message": "Araç çubuğu ikonuna tıkladığınıza, ne olmasını istediğinizi seçebilirsiniz. Ayrıca yukarıdan bu eylemle alakalı bir ikonda seçebilirsiniz."
+   },
+   "toolbar_icon_images": {
+      "message": "Araç Çubuğu İkon Görselleri"
+   },
+   "tooltip_on_hover": {
+      "message": "Üzerinde Gezinme İpucusu"
+   },
+   "top_center": {
+      "message": "Üst orta"
+   },
+   "updated_to_a_new_version": {
+      "message": "Yeni sürüme güncellendi"
+   },
+   "you_can_still_use": {
+      "message": "Hala 'İçerik Menüsü' ve 'Araç Çubuğu İkonu' seçeneklerini kullanabilirsiniz."
+   }
+}

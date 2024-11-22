@@ -1,0 +1,128 @@
+2023-01-17 15:28:32.499 [info] Starting worker process with pid 5173 (type: fileWatcher, window: 1).
+2023-01-17 15:28:33.521 [info] Deleted from disk znck.vue /home/dodecaneser/.vscode-oss/extensions/znck.vue-0.11.4
+2023-01-17 15:28:33.884 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.69.0
+2023-01-17 15:28:33.884 [info] Deleted from disk ms-toolsai.jupyter-renderers /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.8
+2023-01-17 15:28:34.237 [info] Deleted from disk eamodio.gitlens /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-12.1.2
+2023-01-17 15:28:34.238 [info] Deleted from disk kevinrose.vsc-python-indent /home/dodecaneser/.vscode-oss/extensions/kevinrose.vsc-python-indent-1.17.0
+2023-01-17 15:28:34.738 [info] Deleted from disk ms-toolsai.jupyter /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2022.7.1001890528
+2023-01-17 15:28:34.925 [info] Deleted from disk almenon.arepl /home/dodecaneser/.vscode-oss/extensions/almenon.arepl-2.0.3
+2023-01-17 15:28:35.015 [info] Deleted from disk ms-python.python /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.10.1
+2023-01-17 15:28:36.710 [warning] No ptyHost heartbeat after 6 seconds
+2023-01-17 15:28:37.153 [info] Getting Manifest... eamodio.gitlens
+2023-01-17 15:28:37.167 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:37.178 [info] Getting Manifest... ms-python.python
+2023-01-17 15:28:37.187 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-01-17 15:28:38.092 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:38.101 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-01-17 15:28:38.185 [info] Installing extension: ms-python.python
+2023-01-17 15:28:38.366 [info] Installing extension: eamodio.gitlens
+2023-01-17 15:28:39.262 [info] Getting Manifest... ms-python.isort
+2023-01-17 15:28:40.359 [info] Installing extension: ms-python.isort ms-python.python
+2023-01-17 15:28:41.204 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.929adbcb-992e-4d7f-931f-fe4b8a67ccf6: ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:41.214 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.74.0-universal
+2023-01-17 15:28:41.218 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:41.236 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:41.524 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.72.0-universal
+2023-01-17 15:28:41.540 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-01-17 15:28:44.365 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.0554ea14-2f97-4390-bfdb-49a16044117f: ms-toolsai.jupyter-renderers
+2023-01-17 15:28:44.373 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-01-17 15:28:44.376 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-01-17 15:28:44.388 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-01-17 15:28:44.452 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.9-universal
+2023-01-17 15:28:48.172 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.475ed731-a6aa-41a0-9e8d-7517884e6e64: eamodio.gitlens
+2023-01-17 15:28:48.201 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-13.2.0-universal
+2023-01-17 15:28:48.214 [info] Extracting completed. eamodio.gitlens
+2023-01-17 15:28:48.255 [info] Extension installed successfully: eamodio.gitlens
+2023-01-17 15:28:48.334 [info] Marked extension as uninstalled eamodio.gitlens-13.1.1-universal
+2023-01-17 15:28:51.019 [info] Worker process with pid 5173 terminated normally (type: fileWatcher, window: 1).
+2023-01-17 15:28:52.233 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.bcf6e3ed-c0b0-4679-a601-c7cb690dc3c5: ms-python.python
+2023-01-17 15:28:52.248 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.20.2-universal
+2023-01-17 15:28:52.258 [info] Extracting completed. ms-python.python
+2023-01-17 15:28:52.631 [info] Marked extension as uninstalled ms-python.python-2022.16.1-universal
+2023-01-17 15:28:53.646 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.99389e0e-1444-4843-81ce-26d086daac9d: ms-python.isort
+2023-01-17 15:28:53.655 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.isort-2022.8.0-universal
+2023-01-17 15:28:53.659 [info] Extracting completed. ms-python.isort
+2023-01-17 15:28:53.671 [info] Extension installed successfully: ms-python.python
+2023-01-17 15:28:53.672 [info] Extension installed successfully: ms-python.isort
+2023-01-17 15:28:54.473 [info] Starting worker process with pid 5250 (type: fileWatcher, window: 1).
+2023-01-17 15:29:10.797 [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/2e508131a80b19f52cd319029bd4272e.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/2e508131a80b19f52cd319029bd4272e.es'
+2023-01-17 15:32:38.064 [info] Getting Manifest... yseop.vscode-yseopml
+2023-01-17 15:32:38.136 [info] Installing extension: yseop.vscode-yseopml
+2023-01-17 15:32:41.596 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.f5fbafd3-03ed-4e7b-8e0e-baf1d4aaec9e: yseop.vscode-yseopml
+2023-01-17 15:32:41.609 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/yseop.vscode-yseopml-1.16.0-universal
+2023-01-17 15:32:41.613 [info] Extracting completed. yseop.vscode-yseopml
+2023-01-17 15:32:41.628 [info] Extension installed successfully: yseop.vscode-yseopml
+2023-01-17 18:00:50.369 [info] Getting Manifest... esbenp.prettier-vscode
+2023-01-17 18:00:50.547 [info] Installing extension: esbenp.prettier-vscode
+2023-01-17 18:01:02.400 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.5bc029cb-a623-4f59-a135-03575741653f: esbenp.prettier-vscode
+2023-01-17 18:01:02.425 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/esbenp.prettier-vscode-9.10.4-universal
+2023-01-17 18:01:02.465 [info] Extracting completed. esbenp.prettier-vscode
+2023-01-17 18:01:02.506 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-01-22 22:54:24.290 [info] Uninstalling extension from the profile: ms-python.python@2022.20.2 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:24.497 [info] Uninstalling extension from the profile: ms-python.isort@2022.8.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:24.498 [info] Uninstalling extension from the profile: ms-toolsai.jupyter@2022.10.110 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:24.499 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-keymap@1.0.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:24.499 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-renderers@1.0.12 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:24.820 [info] Marked extension as uninstalled ms-python.isort-2022.8.0-universal
+2023-01-22 22:54:24.821 [info] Marked extension as uninstalled ms-python.python-2022.20.2-universal
+2023-01-22 22:54:24.821 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.10.110-universal
+2023-01-22 22:54:24.821 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0
+2023-01-22 22:54:24.999 [info] Marked extension as uninstalled ms-python.isort-2022.8.0-universal
+2023-01-22 22:54:24.999 [info] Marked extension as uninstalled ms-python.python-2022.20.2-universal
+2023-01-22 22:54:25.000 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.10.110-universal
+2023-01-22 22:54:25.000 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0
+2023-01-22 22:54:25.000 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-01-22 22:54:25.097 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-01-22 22:54:25.182 [info] Successfully uninstalled extension from the profile ms-python.python@2022.20.2 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:25.230 [info] Successfully uninstalled extension from the profile ms-python.isort@2022.8.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:25.284 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter@2022.10.110 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:25.304 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-renderers@1.0.12 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:25.319 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-keymap@1.0.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-01-22 22:54:28.383 [info] Worker process with pid 5250 terminated normally (type: fileWatcher, window: 1).
+2023-01-22 22:54:31.336 [info] Starting worker process with pid 24633 (type: fileWatcher, window: 1).
+2023-01-22 22:55:10.894 [info] Getting Manifest... ms-python.python
+2023-01-22 22:55:10.999 [info] Installing extension: ms-python.python
+2023-01-22 22:55:11.877 [info] Getting Manifest... ms-toolsai.jupyter
+2023-01-22 22:55:12.756 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-01-22 22:55:13.256 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-01-22 22:55:13.826 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-01-22 22:55:14.452 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-01-22 22:55:15.045 [info] Getting Manifest... ms-python.isort
+2023-01-22 22:55:15.866 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-01-22 22:55:15.867 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-01-22 22:55:15.873 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-01-22 22:55:15.878 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-01-22 22:55:15.880 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-01-22 22:55:15.881 [info] Installing extension: ms-python.isort ms-python.python
+2023-01-22 22:55:18.295 [info] Removed the extension from uninstalled list: ms-python.python
+2023-01-22 22:55:18.320 [info] Removed the extension from uninstalled list: ms-toolsai.jupyter
+2023-01-22 22:55:18.329 [info] Removed the extension from uninstalled list: ms-toolsai.jupyter-renderers
+2023-01-22 22:55:18.779 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.f45cdc52-be7c-423f-ab04-287f5c42afe7: ms-toolsai.jupyter-keymap
+2023-01-22 22:55:18.789 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-01-22 22:55:18.798 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-01-22 22:55:19.089 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.9e8c2277-719c-4d97-a22f-37fdac6cfbbd: ms-toolsai.vscode-jupyter-slideshow
+2023-01-22 22:55:19.101 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-01-22 22:55:19.105 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-01-22 22:55:20.261 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.a27aaf95-a1bf-49e4-aca7-591358ac0884: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-22 22:55:20.272 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-01-22 22:55:20.276 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-01-22 22:55:20.785 [info] Removed the extension from uninstalled list: ms-python.isort
+2023-01-22 22:55:20.823 [info] Extension installed successfully: ms-python.python
+2023-01-22 22:55:20.824 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-01-22 22:55:20.824 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-01-22 22:55:20.825 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-01-22 22:55:20.826 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-01-22 22:55:20.827 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-22 22:55:20.828 [info] Extension installed successfully: ms-python.isort
+2023-01-22 22:56:42.634 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-01-22 22:56:42.720 [info] Installing extension: ms-azuretools.vscode-docker
+2023-01-22 22:56:47.952 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.a0fcc05c-e42b-41ec-a080-260008290888: ms-azuretools.vscode-docker
+2023-01-22 22:56:47.969 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.23.3-universal
+2023-01-22 22:56:47.990 [info] Extracting completed. ms-azuretools.vscode-docker
+2023-01-22 22:56:48.032 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-01-22 22:58:06.219 [info] Getting Manifest... james-yu.latex-workshop
+2023-01-22 22:58:06.315 [info] Installing extension: james-yu.latex-workshop
+2023-01-22 22:58:16.237 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.42f2b3ec-c64d-4bca-82b7-293ee15dec3b: james-yu.latex-workshop
+2023-01-22 22:58:16.343 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/james-yu.latex-workshop-9.4.5-universal
+2023-01-22 22:58:16.390 [info] Extracting completed. james-yu.latex-workshop
+2023-01-22 22:58:16.430 [info] Extension installed successfully: james-yu.latex-workshop

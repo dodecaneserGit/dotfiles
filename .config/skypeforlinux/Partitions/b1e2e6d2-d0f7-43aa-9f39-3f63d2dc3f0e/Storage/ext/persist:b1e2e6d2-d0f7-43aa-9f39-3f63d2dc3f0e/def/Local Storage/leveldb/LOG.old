@@ -1,0 +1,2 @@
+2022/11/10-13:50:08.771 42f Creating DB /home/dodecaneser/.config/skypeforlinux/Partitions/b1e2e6d2-d0f7-43aa-9f39-3f63d2dc3f0e/Storage/ext/persist:b1e2e6d2-d0f7-43aa-9f39-3f63d2dc3f0e/def/Local Storage/leveldb since it was missing.
+2022/11/10-13:50:08.821 42f Reusing MANIFEST /home/dodecaneser/.config/skypeforlinux/Partitions/b1e2e6d2-d0f7-43aa-9f39-3f63d2dc3f0e/Storage/ext/persist:b1e2e6d2-d0f7-43aa-9f39-3f63d2dc3f0e/def/Local Storage/leveldb/MANIFEST-000001

@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Chiudi le altre schede"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "si permette di chiudere altre schede con un pulsante della barra degli strumenti, una voce del menu di scelta rapida o premendo Alt + Maiusc + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Chiudi le altre schede"
+   }
+}

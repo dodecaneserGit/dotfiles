@@ -1,0 +1,88 @@
+{
+   "1": {
+      "message": "1"
+   },
+   "an_error_occurred_1_2": {
+      "message": "An error occurred. Settings couldn't get.\u003Cbr>\u003Cbr>1. Please \u003Ca href='/settings.html' class='c_blue'>refresh\u003C/a> this page.\u003Cbr>\u003Cbr>\u003Cdiv>\u003Cspan class='vam mr-2'>2. Still getting this error! Then \u003C/span>"
+   },
+   "an_error_occurred_3": {
+      "message": "3. If the problem persists, then please $A1$report back$A2$ (alternative: $A3$via gmail$A4$).",
+      "placeholders": {
+         "A1": {
+            "content": "$1"
+         },
+         "A2": {
+            "content": "$2"
+         },
+         "A3": {
+            "content": "$3"
+         },
+         "A4": {
+            "content": "$4"
+         }
+      }
+   },
+   "are_you_sure_to_reset_settings": {
+      "message": "Are you sure to reset settings?"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "changelog": {
+      "message": "Changelog"
+   },
+   "close_other_tabs": {
+      "message": "Close other tabs"
+   },
+   "close_tab": {
+      "message": "Close tab"
+   },
+   "close_tabs_to_the_left": {
+      "message": "Close tabs to the left"
+   },
+   "close_tabs_to_the_right": {
+      "message": "Close tabs to the right"
+   },
+   "disable_this_element": {
+      "message": "Disable this element"
+   },
+   "enable_this_element": {
+      "message": "Enable this element"
+   },
+   "extBrowserActionTitle": {
+      "message": "Close this tab Menu"
+   },
+   "extDefaultTitle": {
+      "message": "Close this tab"
+   },
+   "extDesc": {
+      "message": "Easily close tabs with the in-page border element."
+   },
+   "extName": {
+      "message": "Close This Tab"
+   },
+   "help_to_translate": {
+      "message": "Help to translate"
+   },
+   "new": {
+      "message": "NEW"
+   },
+   "px": {
+      "message": "px"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "reset_settings": {
+      "message": "Reset Settings"
+   },
+   "saved": {
+      "message": "Saved"
+   },
+   "thank_you_for_your_support": {
+      "message": "Thank you for your support."
+   },
+   "updated_to_a_new_version": {
+      "message": "Updated to the new version"
+   }
+}

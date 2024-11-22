@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Close Other Tabs"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Cho phép bạn đóng các tab khác với một nút trên thanh công cụ, một mục trên menu chuột phải hoặc bằng cách nhấn Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Close Other Tabs"
+   }
+}

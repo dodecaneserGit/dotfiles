@@ -1,0 +1,15 @@
+2023/03/08-16:08:19.901 594 Reusing MANIFEST /home/dodecaneser/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-16:08:19.901 594 Recovering log #7
+2023/03/08-16:08:19.901 594 Reusing old log /home/dodecaneser/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000007.log 
+2023/03/08-16:08:25.453 61f Level-0 table #12: started
+2023/03/08-16:08:25.458 61f Level-0 table #12: 38324 bytes OK
+2023/03/08-16:08:25.464 61f Delete type=0 #7
+2023/03/08-16:08:25.464 61f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/08-16:08:25.465 61f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x1a\x06\x02\x01\x10\x00p\x00r\x00i\x00v\x00_\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00_\x00i\x00d' @ 4243 : 1
+2023/03/08-16:08:25.465 61f Compacting 1@1 + 1@2 files
+2023/03/08-16:08:25.471 61f Generated table #13@1: 1105 keys, 39823 bytes
+2023/03/08-16:08:25.471 61f Compacted 1@1 + 1@2 files => 39823 bytes
+2023/03/08-16:08:25.476 61f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/08-16:08:25.476 61f Delete type=2 #9
+2023/03/08-16:08:25.476 61f Delete type=2 #12
+2023/03/08-16:08:25.476 61f Manual compaction at level-1 from '\x00\x1a\x06\x02\x01\x10\x00p\x00r\x00i\x00v\x00_\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00_\x00i\x00d' @ 4243 : 1 .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "અન્ય ટૅબ્સને બંધ કરો"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "તમે ટૂલબાર બટન, રાઇટ-ક્લિક મેનુમાં પર અથવા દબાવીને Alt + Shift + ડબલ્યુ દ્વારા એક આઇટમ સાથે અન્ય ટૅબ્સને બંધ કરો કરવાની મંજૂરી આપો."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "અન્ય ટૅબ્સને બંધ કરો"
+   }
+}

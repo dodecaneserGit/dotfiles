@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Isara ang Ibang Mga Tab"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Binibigyang-daan kang isara ang iba pang mga tab na may isang pindutan toolbar, ang isang item sa menu ng right-click o sa pamamagitan ng pagpindot Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Isara ang Ibang Mga Tab"
+   }
+}

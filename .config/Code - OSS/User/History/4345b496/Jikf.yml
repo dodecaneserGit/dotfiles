@@ -1,0 +1,23 @@
+filebeat.modules:
+- module: system
+  syslog:
+    enabled: true
+    var.paths: ["/var/log/syslog*"]
+  auth:
+    enabled: true
+    var.paths: ["/var/log/auth.log*"]
+
+- module: suricata
+  eve:
+    enabled: true
+    var.paths: ["/var/log/suricata/eve.json"]
+
+
+#filebeat.inputs:
+#- type: log
+#  enable: true
+#  paths:
+#    - /var/log/suricata/eve.json
+
+output.logstash:
+  host: ["logstash:5044"]

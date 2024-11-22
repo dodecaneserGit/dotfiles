@@ -1,0 +1,15 @@
+2023-10-09 10:28:27.442 [info] update#setState disabled
+2023-10-09 10:28:27.449 [info] update#ctor - updates are disabled as there is no update URL
+2023-10-09 10:28:58.081 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4210]: crashed with code 15 and reason 'killed'
+2023-10-09 10:28:58.107 [info] Extension host with pid 4197 exited with code: 0, signal: unknown.
+2023-10-09 10:43:03.188 [info] Extension host with pid 4380 exited with code: 0, signal: unknown.
+2023-10-09 10:43:03.192 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4379]: crashed with code 15 and reason 'killed'
+2023-10-09 10:52:22.118 [info] Extension host with pid 6540 exited with code: 0, signal: unknown.
+2023-10-09 10:52:56.711 [info] Extension host with pid 7862 exited with code: 0, signal: unknown.
+2023-10-09 10:58:57.395 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 8022]: crashed with code 15 and reason 'killed'
+2023-10-09 10:58:57.400 [info] Extension host with pid 8012 exited with code: 0, signal: unknown.
+2023-10-09 11:27:15.891 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2023-10-09 11:28:08.666 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2023-10-18 11:27:02.403 [warning] No ptyHost heartbeat after 6 seconds
+2023-10-18 21:40:44.474 [info] Extension host with pid 9223 exited with code: 0, signal: unknown.
+2023-10-18 21:41:00.632 [error] CodeWindow: detected unresponsive

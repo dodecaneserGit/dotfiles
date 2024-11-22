@@ -1,0 +1,6 @@
+2024/03/12-10:39:34.165 e8ba Creating DB /home/dodecaneser/.config/google-chrome/Default/WebStorage/21/IndexedDB/indexeddb.leveldb since it was missing.
+2024/03/12-10:39:34.179 e8ba Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/WebStorage/21/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/03/12-10:40:07.426 e8ba Level-0 table #5: started
+2024/03/12-10:40:07.431 e8ba Level-0 table #5: 12979 bytes OK
+2024/03/12-10:40:07.437 e8ba Delete type=0 #3
+2024/03/12-10:40:07.437 e8ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

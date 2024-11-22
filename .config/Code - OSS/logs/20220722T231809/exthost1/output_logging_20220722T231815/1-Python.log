@@ -1,0 +1,37 @@
+LSP Notebooks experiment is disabled -- not using Pylance
+Python interpreter path: /bin/python
+[ERROR 2022-6-22 23:18:17.688]: [
+  'Failed to activate a workspace, Class name = f, completed in 149ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/HTB/labs/BackDoor/scripts/cmdlinev2.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+  	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+  	at E.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:727545)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2210
+  	at Array.map (<anonymous>)
+  	at f.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2200)
+  	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+]
+[ERROR 2022-6-22 23:18:17.704]: Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+	at E.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:727545)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2210
+	at Array.map (<anonymous>)
+	at f.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2200)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+[ERROR 2022-6-22 23:18:17.704]: sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:67541)
+	at Object.get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:33857)
+	at E.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:727545)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2210
+	at Array.map (<anonymous>)
+	at f.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2200)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+Starting Jedi language server for default.
+DAP Server launched with command: /bin/python /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.8.0/pythonFiles/lib/python/debugpy/adapter

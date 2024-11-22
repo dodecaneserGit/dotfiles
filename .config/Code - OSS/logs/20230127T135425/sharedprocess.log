@@ -1,0 +1,11 @@
+2023-01-27 13:54:31.825 [info] Starting worker process with pid 3291 (type: fileWatcher, window: 1).
+2023-01-27 13:54:33.264 [info] Deleted from disk james-yu.latex-workshop /home/dodecaneser/.vscode-oss/extensions/james-yu.latex-workshop-9.4.5-universal
+2023-01-27 13:54:36.255 [info] Getting Manifest... formulahendry.code-runner
+2023-01-27 13:54:37.071 [info] Installing extension: formulahendry.code-runner
+2023-01-27 13:54:39.366 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.e8c06d17-5965-4252-afb1-e04b042b44a6: formulahendry.code-runner
+2023-01-27 13:54:39.375 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/formulahendry.code-runner-0.12.0-universal
+2023-01-27 13:54:39.378 [info] Extracting completed. formulahendry.code-runner
+2023-01-27 13:54:39.394 [info] Extension installed successfully: formulahendry.code-runner
+2023-01-27 13:54:39.529 [info] Marked extension as uninstalled formulahendry.code-runner-0.11.8
+2023-01-27 13:54:47.457 [info] Worker process with pid 3291 terminated normally (type: fileWatcher, window: 1).
+2023-01-27 13:54:49.509 [info] Starting worker process with pid 3393 (type: fileWatcher, window: 1).

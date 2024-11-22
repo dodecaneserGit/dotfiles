@@ -1,0 +1,38 @@
+2023-10-19 11:34:37.342 [info] Uninstalling extension from the profile: ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-19 11:34:37.493 [info] Marked extension as uninstalled ms-python.python-2023.18.0-universal
+2023-10-19 11:34:37.609 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-19 11:34:37.754 [info] Successfully uninstalled extension from the profile ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-19 11:34:41.247 [info] Getting Manifest... ms-python.python
+2023-10-19 11:34:41.520 [info] Installing extension: ms-python.python
+2023-10-19 11:34:42.905 [info] Extension signature verification is not done: ms-python.python
+2023-10-19 11:34:42.923 [info] Removed the extension from uninstalled list: ms-python.python
+2023-10-19 11:34:42.995 [info] Extension installed successfully: ms-python.python
+2023-10-19 11:34:43.005 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)
+2023-10-19 11:34:48.818 [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/b0ab6488d7b437fc1bb3fd31340d2a48.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/b0ab6488d7b437fc1bb3fd31340d2a48.es'
+2023-10-19 11:40:30.935 [info] Getting Manifest... ms-python.python
+2023-10-19 11:40:31.270 [info] Installing extension: ms-python.python
+2023-10-19 11:40:33.216 [info] Extension signature verification is not done: ms-python.python
+2023-10-19 11:40:39.325 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal: ms-python.python
+2023-10-19 11:40:39.355 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal
+2023-10-19 11:40:39.398 [info] Extracting extension completed. ms-python.python
+2023-10-19 11:40:39.435 [info] Extension installed successfully: ms-python.python
+2023-10-19 11:40:39.455 [info] Marked extension as uninstalled ms-python.python-2023.18.0-universal
+2023-10-19 11:40:39.502 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dodecaneser/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35755)
+    at t.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

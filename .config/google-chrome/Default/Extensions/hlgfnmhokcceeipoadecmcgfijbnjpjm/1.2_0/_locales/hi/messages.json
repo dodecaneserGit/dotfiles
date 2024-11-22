@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "अन्य टैब बंद करें"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "आप एक उपकरण पट्टी बटन, राइट-क्लिक मेनू पर या दबाने Alt + Shift + डब्ल्यू द्वारा एक आइटम के साथ निकट अन्य टैब करने देता है।"
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "अन्य टैब बंद करें"
+   }
+}

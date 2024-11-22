@@ -1,0 +1,2 @@
+[2023-10-18 20:05:24.444] [GIT  ] [/home/dodecaneser/project_1] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [86ms]
+

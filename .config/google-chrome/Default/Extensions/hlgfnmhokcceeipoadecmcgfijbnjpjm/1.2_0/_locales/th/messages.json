@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "ปิดแท็บอื่น ๆ"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "ช่วยให้คุณสามารถปิดแท็บอื่น ๆ ที่มีปุ่มแถบเครื่องมือรายการในเมนูคลิกขวาหรือโดยการกด Alt + Shift + W"
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "ปิดแท็บอื่น ๆ"
+   }
+}

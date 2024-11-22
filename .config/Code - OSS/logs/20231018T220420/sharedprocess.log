@@ -1,0 +1,2 @@
+2023-10-18 22:04:26.705 [info] Deleted uninstalled extension from disk ms-ceintl.vscode-language-pack-es /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.82.0-universal
+2023-10-18 22:05:04.765 [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/b0ab6488d7b437fc1bb3fd31340d2a48.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/b0ab6488d7b437fc1bb3fd31340d2a48.es'

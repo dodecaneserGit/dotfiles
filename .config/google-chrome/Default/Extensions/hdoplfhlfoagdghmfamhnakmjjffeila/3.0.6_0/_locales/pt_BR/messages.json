@@ -1,0 +1,310 @@
+{
+   "1": {
+      "message": "1"
+   },
+   "action_close_tab": {
+      "message": "Ação: Fechar Aba"
+   },
+   "an_error_occurred_1_2": {
+      "message": "Um erro aconteceu. Não foi possível obter as configurações.\u003Cbr>\u003Cbr>1. Por favor, \u003Ca href='/settings.html' class='c_blue'>recarregue\u003C/a> esta página.\u003Cbr>\u003Cbr>\u003Cdiv>\u003Cspan class='vam mr-2'>2. Ainda dando este erro! Então \u003C/span>"
+   },
+   "an_error_occurred_3": {
+      "message": "3. Se o problema persistir, por favor $A1$reportar de volta$A2$ (alternativa: $A3$via gmail$A4$).",
+      "placeholders": {
+         "A1": {
+            "content": "$1"
+         },
+         "A2": {
+            "content": "$2"
+         },
+         "A3": {
+            "content": "$3"
+         },
+         "A4": {
+            "content": "$4"
+         }
+      }
+   },
+   "are_you_sure_to_reset_settings": {
+      "message": "Você tem certeza que quer redefinir as configurações?"
+   },
+   "auto_hide_horizontal_scrollbar": {
+      "message": "Esconder barra de rolagem horizontal automaticamente"
+   },
+   "auto_maximize_desc": {
+      "message": "De modo a usar o elemento de borda na página mais efetivamente, a janela do navegador deve se maximizada. Se esta funcionalidade for ativada, as novas janelas abertas serão automaticamente maximizadas."
+   },
+   "auto_maximize_new_windows": {
+      "message": "Auto Maximizar Novas Janelas"
+   },
+   "beta_feature": {
+      "message": "(Função Beta)"
+   },
+   "bottom_border": {
+      "message": "Borda inferior"
+   },
+   "bottom_center": {
+      "message": "Inferior central"
+   },
+   "bottom_left": {
+      "message": "Inferior esquerda"
+   },
+   "bottom_right": {
+      "message": "Inferior direita"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "changelog": {
+      "message": "Relatório de mudanças"
+   },
+   "changelog_content": {
+      "message": "v3.0.x\n Novas funcionalidades:\n• Novos funcionalidades complementares para posições inferior e direita.\n• Dicas de ferramentas personalizáveis.\n• Funcionalidade opacidade do elemento na página.\n• Opções de clique direito na borda selecionada mostra opções selecionadas.\n• Opções de menu de contexto adicionadas.\n• Funcionalidade de auto maximizar novas janelas adicionada.\n• Página flutuante no ícone da barra de ferramentas adicionada.\n\nAtualizações:\n• Página de configurações reformulada.\n• Posições do elemento na página reestruturados.\n• Novas imagens de ícone da barra de ferramentas disponíveis.\n\nv2.0.x\nNovas funcionalidades:\n• Novas posições do fechador na página adicionadas.\n• A espessura do elemento na página pode ser alterada.\n• O ícone na barra de ferramentas adicionado. Clicar neste ícone executará a ação padrão.\n• A imagem do ícone na barra de ferramentas pode ser alterado.\n• Suporte a várias linguagens adicionado. É possível ajudar com traduções.\n• Preferências sincronizadas com o Chrome (se conectado a uma conta).\n\nAtualizações:\n• Renomeado para 'Fechar Esta Aba'.\n• Nova página de Opções/Configurações.\n• Introdução do elemento em páginas carregadas dinamicamente.\n\nv1.0\n• Versão inicial"
+   },
+   "click_event_to_close_tab": {
+      "message": "Clique No Evento Para Fechar Aba"
+   },
+   "close_other_tabs": {
+      "message": "Fechar outras abas"
+   },
+   "close_tab": {
+      "message": "Fechar aba"
+   },
+   "close_tabs_to_the_left": {
+      "message": "Fechar abas à esquerda"
+   },
+   "close_tabs_to_the_right": {
+      "message": "Fechar abas à direita"
+   },
+   "confirm_your_support": {
+      "message": "Confirme seu apoio"
+   },
+   "contact_us": {
+      "message": "Contate-nos"
+   },
+   "context_menu": {
+      "message": "Menu De Contexto"
+   },
+   "context_menu_options": {
+      "message": "Opções Do Menu De Contexto"
+   },
+   "context_menu_options_desc": {
+      "message": "Aviso: se mais de uma opção estiver selecionada, Google Chrome os colapsa automaticamente em um único menu pai."
+   },
+   "contextmenus_permission_desc": {
+      "message": "A permissão contextMenus é exigida para adicionar os seguintes itens ao menu de contexto do botão direito do seu navegador:"
+   },
+   "custom_scrollbar": {
+      "message": "Personalizar Barra de rolagem"
+   },
+   "default": {
+      "message": "Padrão"
+   },
+   "disable_this_element": {
+      "message": "Desativar este elemento"
+   },
+   "donate": {
+      "message": "Doar"
+   },
+   "dont_show": {
+      "message": "Não mostrar"
+   },
+   "double_left_click": {
+      "message": "Clique duplo esquerdo"
+   },
+   "enable_this_element": {
+      "message": "Ativar este elemento"
+   },
+   "english": {
+      "message": "Inglês"
+   },
+   "extBrowserActionTitle": {
+      "message": "Fechar esta aba Menu"
+   },
+   "extDefaultTitle": {
+      "message": "Fechar esta aba"
+   },
+   "extDesc": {
+      "message": "Feche Facilmente abas com o elemento de borda na página."
+   },
+   "extName": {
+      "message": "Fechar Esta Aba"
+   },
+   "help_to_translate": {
+      "message": "Ajude a traduzir"
+   },
+   "hide_mini_arrow": {
+      "message": "Esconder mini seta"
+   },
+   "hide_scrollbar": {
+      "message": "Esconder barra de rolagem"
+   },
+   "hover_color": {
+      "message": "Cor Ao Passar o Mouse"
+   },
+   "if_empty_then": {
+      "message": "Se vazio, então o texto 'Fechar aba' será usado."
+   },
+   "in_page_element": {
+      "message": "Elemento Na Página"
+   },
+   "in_page_position": {
+      "message": "Posição Na Página"
+   },
+   "inpage_element_is_disabled": {
+      "message": "Elemento na página está desativado!"
+   },
+   "keep_browser_default": {
+      "message": "Manter o navegador padrão"
+   },
+   "language": {
+      "message": "Lingua"
+   },
+   "left_border": {
+      "message": "Borda esquerda"
+   },
+   "left_bottom": {
+      "message": "Esquerda inferior"
+   },
+   "left_click": {
+      "message": "Clique esquerdo"
+   },
+   "left_middle": {
+      "message": "Esquerda central"
+   },
+   "left_top": {
+      "message": "Esquerda superior"
+   },
+   "misc": {
+      "message": "Diversos"
+   },
+   "misc_settings": {
+      "message": "Configurações Diversas"
+   },
+   "more_easy": {
+      "message": "O jeito mais fácil e rápido de fechar abas."
+   },
+   "new": {
+      "message": "Nova"
+   },
+   "opacity": {
+      "message": "Opacidade"
+   },
+   "opacity_desc": {
+      "message": "'0' significa que o elemento está invisível, mas ainda está lá e você pode interagir com ele."
+   },
+   "open_settings": {
+      "message": "Abrir configurações"
+   },
+   "or": {
+      "message": "ou"
+   },
+   "please_select_a_style_for_the_vertical_scrollbar": {
+      "message": "Por favor, selecione um estilo para a barra de rolagem vertical."
+   },
+   "please_select_your_support_method": {
+      "message": "Por favor, selecione seu método de apoio"
+   },
+   "preview": {
+      "message": "(pré-visualização)"
+   },
+   "px": {
+      "message": "px"
+   },
+   "request_contextmenus_permission": {
+      "message": "Solicitar Permissão contextMenus"
+   },
+   "reset": {
+      "message": "Redefinir"
+   },
+   "reset_settings": {
+      "message": "Redefinir Configurações"
+   },
+   "reset_settings_desc": {
+      "message": "Aviso: Isso sobrescreverá suas preferências, e as configurações padrão serão restauradas."
+   },
+   "revoke_contextmenus_permission": {
+      "message": "Anular Permissão contextMenus"
+   },
+   "right_click_options": {
+      "message": "Opções Com Clique Direito"
+   },
+   "right_click_options_desc": {
+      "message": "Clicar com o botão direito na borda selecionada, mostra as seguintes opções selecionadas."
+   },
+   "right_middle": {
+      "message": "Direita central"
+   },
+   "saved": {
+      "message": "Salvo"
+   },
+   "send_email_other": {
+      "message": "Envie um e-mail para o desenvolvedor (outro)"
+   },
+   "send_email_via_google": {
+      "message": "Envie um e-mail para o desenvolvedor (via Gmail)"
+   },
+   "send_feedback": {
+      "message": "Enviar comentário"
+   },
+   "send_your_messages_in_english": {
+      "message": "Por favor, enviar suas mensagens em inglês."
+   },
+   "settings": {
+      "message": "CONFIGURAÇÕES"
+   },
+   "share": {
+      "message": "Compartilhar"
+   },
+   "show_icon": {
+      "message": "Mostrar ícone"
+   },
+   "show_menu": {
+      "message": "Mostrar menu"
+   },
+   "show_text": {
+      "message": "Mostrar texto"
+   },
+   "support_this_project": {
+      "message": "Apoie Este Projeto"
+   },
+   "supporters": {
+      "message": "Apoiadores"
+   },
+   "thank_you_for_your_support": {
+      "message": "Obrigado pelo suporte."
+   },
+   "thickness": {
+      "message": "Espessura"
+   },
+   "thickness_desc": {
+      "message": "Em alguns monitores, a tela pode não estar configurada devidamente, e o elemento borda na página pode estar fora da área visível, podendo não ser visível. Se você move o ponteiro do mouse à borda selecionada, mas não pode ver o elemento borda na página, então ajuste as configurações do monitor, ou aumente a espessura do elemento até que ele apareça."
+   },
+   "title": {
+      "message": "Fechar esta aba de Configurações"
+   },
+   "toolbar_icon": {
+      "message": "Ícone Da Barra De Ferramentas"
+   },
+   "toolbar_icon_default_click_action": {
+      "message": "Ação de clique padrão do ícone na barra de ferramentas"
+   },
+   "toolbar_icon_default_click_action_desc": {
+      "message": "Selecione a ação desejada clicando no ícone na barra de ferramentas. Ou selecione o ícone relativo acima."
+   },
+   "toolbar_icon_images": {
+      "message": "Imagens Do Ícone Da Barra De Ferramentas"
+   },
+   "tooltip_on_hover": {
+      "message": "Dica Ao Passar o Mouse"
+   },
+   "top_center": {
+      "message": "Superior central"
+   },
+   "updated_to_a_new_version": {
+      "message": "Atualizado para a nova versão"
+   },
+   "you_can_still_use": {
+      "message": "Você ainda pode usar as opções no 'Menu De Contexto' e no 'Ícone Da Barra De Ferramentas'."
+   }
+}

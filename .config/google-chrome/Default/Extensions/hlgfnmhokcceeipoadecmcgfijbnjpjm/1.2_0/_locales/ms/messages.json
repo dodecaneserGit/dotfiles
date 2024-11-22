@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Tutup Tab Lain"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Membolehkan anda untuk tutup tab lain dengan butang bar alat, item pada menu klik kanan atau dengan menekan Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Tutup Tab Lain"
+   }
+}

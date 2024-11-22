@@ -1,0 +1,24 @@
+{
+  "add books dialog dir": "/home/dodecaneser/ebooks/python",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "6.13"
+    ]
+  },
+  "recursive book import root dir dialog": "/home/dodecaneser/ebooks/python",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "viewer image view save dialog": "/home/dodecaneser/Imágenes/nave.jpg",
+  "welcome_wizard_device": "kindle_voyage",
+  "welcome_wizard_was_run": true
+}

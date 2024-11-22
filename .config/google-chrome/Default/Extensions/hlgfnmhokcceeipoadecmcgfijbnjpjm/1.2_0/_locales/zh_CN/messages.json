@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "关闭其他标签页"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "允许您使用工具栏按钮，按下Alt + Shift + W键的右键菜单或项目关闭其他标签页。"
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "关闭其他标签页"
+   }
+}

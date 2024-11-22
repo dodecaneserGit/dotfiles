@@ -1,0 +1,310 @@
+2023-10-09 10:28:32.150 [error] Extension 'ms-python.python' wants API proposal 'telemetryLogger' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-09 10:28:32.151 [error] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:28:32.151 [error] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-09 10:28:32.152 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:28:32.152 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:28:32.459 [error] [ms-toolsai.jupyter]: notebook/kernelSource is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["notebookKernelSource"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+2023-10-09 10:28:35.574 [info] [perf] Render performance baseline is 304ms
+2023-10-09 10:29:01.796 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:29:01.801 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, quickPickItemTooltip, notebookExecution'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:29:01.802 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:29:02.052 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-10-09 10:29:07.332 [info] [perf] Render performance baseline is 143ms
+2023-10-09 10:30:49.846 [error] [Extension Host] extension activation failed Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256
+2023-10-09 10:43:06.078 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, quickPickItemTooltip, notebookExecution'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:43:06.079 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:43:09.001 [error] [Extension Host] extension activation failed Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (/home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256
+2023-10-09 10:43:11.733 [info] [perf] Render performance baseline is 185ms
+2023-10-09 10:44:12.491 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:44:12.633 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-10-09 10:52:25.002 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:52:25.308 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-10-09 10:52:27.462 [error] [Extension Host] Sending request failed.
+2023-10-09 10:52:27.570 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/lib/code/out/bootstrap.js:1:471)
+	at process.emit (node:events:513:28)
+2023-10-09 10:52:30.329 [info] [perf] Render performance baseline is 223ms
+2023-10-09 10:53:03.448 [info] [perf] Render performance baseline is 347ms
+2023-10-09 10:58:09.533 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:58:09.663 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-10-09 10:59:00.177 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, saveEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-10-09 10:59:00.447 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-10-09 10:59:06.853 [info] [perf] Render performance baseline is 142ms
+2023-10-09 10:59:09.205 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:32.214 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:33.500 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:35.109 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:36.155 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:38.118 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:39.650 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:41.693 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:42.734 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:46.742 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:27:47.920 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:05.090 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:06.290 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:07.462 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:08.547 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:09.904 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:13.531 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:14.534 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:16.187 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:28:24.155 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:29:15.110 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:29:16.487 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:29:55.688 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:29:58.895 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:04.818 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:06.381 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:07.502 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:10.888 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:11.902 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-09 11:30:13.073 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/dodecaneser/scripts/Untitled-1'
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-11 13:45:45.319 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-14 23:26:35.972 [error] Unable to read file '/home/dodecaneser/pythonCrashBook/pythonCrashBook_3' (Error: File not modified since): Error: Unable to read file '/home/dodecaneser/pythonCrashBook/pythonCrashBook_3' (Error: File not modified since)
+    at r.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:630:16316)
+    at r.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:630:16204)
+    at async b.H (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2340:37067)
+    at async b.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2340:36824)
+    at async L.zb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2329:29196)
+    at async L.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2329:27643)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2340:32937
+2023-10-16 10:52:32.753 [error] UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-16 10:52:34.390 [error] UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'end_index' where it is not associated with a value
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)
+2023-10-17 12:01:14.404 [error] UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value: Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324215
+	at re (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2324509)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319293
+	at Immediate.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2319313)
+	at process.processImmediate (node:internal/timers:476:21)

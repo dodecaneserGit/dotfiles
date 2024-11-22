@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Tancar les altres pestanyes"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "que permet tancar altres pestanyes amb un botó de barra d'eines, un element al menú de botó dret o prement Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Tancar les altres pestanyes"
+   }
+}

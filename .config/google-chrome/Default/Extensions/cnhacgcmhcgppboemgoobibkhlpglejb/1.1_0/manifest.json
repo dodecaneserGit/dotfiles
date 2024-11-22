@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.google.com/get/googletips"
+      },
+      "urls": [ "https://www.google.com/get/googletips" ]
+   },
+   "description": "50 things you didn’t know you could do with Google.",
+   "icons": {
+      "128": "tips-128.png",
+      "16": "tips-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgRSQgB1am1q6n3aEm5sftqgda5a2u3sKW9vWvDra9OvWJG7f75EEndJaetIWz0cs5BoKd3+KhKgLEL4NdGHXtGFvocqqhBzejpJfnIcCKvdGVPYKBemhlHCdFMc6kc0gW9TN0L2q2ay0Ns5ZzoDFypNVZwkW5mtFH232QQ5KWREq39sYE56nMrDR2ke480mx08fee9zj9Mv13O6kw+oXNUhEVo4tzSC55PV4ePXJ9hlF4ua1dOo66qsSurMTxc3rI5/wwH/HZ8dMNk06WGFJuWKwEQa8SBF70yZPCGPrTxyoxDHWH5juz/euO0c34FJ22aaTXrkgJPd8Iu216jqlvQIDAQAB",
+   "manifest_version": 2,
+   "name": "Google Tips",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

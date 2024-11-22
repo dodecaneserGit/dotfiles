@@ -1,0 +1,167 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1030,
+      "width": 1795,
+      "x": 100,
+      "y": 25
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1030,
+      "width": 1795,
+      "x": 100,
+      "y": 25
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1030,
+      "width": 1795,
+      "x": 100,
+      "y": 25
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAABkAAAAGQAAB2YAAAQeAAAAZAAAABkAAAdmAAAEHgAAAAAAAAAAB4AAAABkAAAAGQAAB2YAAAQe"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BOE",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 122,
+      "width": 854,
+      "x": 571,
+      "y": 479
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 122,
+      "width": 854,
+      "x": 571,
+      "y": 479
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 122,
+      "width": 854,
+      "x": 571,
+      "y": 479
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAI7AAAB3wAABZAAAAJYAAACOwAAAd8AAAWQAAACWAAAAAAAAAAAB4AAAAI7AAAB3wAABZAAAAJY"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BOE",
+      "model": "",
+      "name": "eDP1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAAHAwAABAYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 26,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Eric Matthes"
+        ],
+        "key": "/home/dodecaneser/ebooks/python/Python Crash Course.epub",
+        "pathtoebook": "/home/dodecaneser/ebooks/python/Python Crash Course.epub",
+        "timestamp": "2023-10-09T08:26:56.484Z",
+        "title": "Python Crash Course"
+      },
+      {
+        "authors": [
+          "Unknown"
+        ],
+        "key": "/home/dodecaneser/ebooks/python/Python Crash Course A Hands-On, Project-Based Introduction to Programming ( PDFDrive ).epub",
+        "pathtoebook": "/home/dodecaneser/ebooks/python/Python Crash Course A Hands-On, Project-Based Introduction to Programming ( PDFDrive ).epub",
+        "timestamp": "2023-10-09T08:26:39.780Z",
+        "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming \\( PDFDrive.com \\).epub"
+      },
+      {
+        "authors": [
+          "Unknown"
+        ],
+        "key": "/home/dodecaneser/ebooks/python/Python Crash Course.pdf ( PDFDrive ).epub",
+        "pathtoebook": "/home/dodecaneser/ebooks/python/Python Crash Course.pdf ( PDFDrive ).epub",
+        "timestamp": "2023-10-09T08:26:08.940Z",
+        "title": "Python Crash Course.pdf \\( PDFDrive.com \\).epub"
+      },
+      {
+        "authors": [
+          "Unknown"
+        ],
+        "key": "/home/dodecaneser/ebooks/python/automate the boring stuff with python automate the boring stuff with python ( PDFDrive ).epub",
+        "pathtoebook": "/home/dodecaneser/ebooks/python/automate the boring stuff with python automate the boring stuff with python ( PDFDrive ).epub",
+        "timestamp": "2023-09-28T10:39:12.594Z",
+        "title": "automate the boring stuff with python automate the boring stuff with python.epub"
+      },
+      {
+        "authors": [
+          "Unknown"
+        ],
+        "key": "/home/dodecaneser/Biblioteca de calibre/Unknown/automate the boring stuff with python automate the boring stuff with python.epub (5)/automate the boring stuff with python auto - Unknown.epub",
+        "pathtoebook": "/home/dodecaneser/Biblioteca de calibre/Unknown/automate the boring stuff with python automate the boring stuff with python.epub (5)/automate the boring stuff with python auto - Unknown.epub",
+        "timestamp": "2023-03-09T15:36:23.041Z",
+        "title": "automate the boring stuff with python automate the boring stuff with python.epub"
+      }
+    ]
+  }
+}

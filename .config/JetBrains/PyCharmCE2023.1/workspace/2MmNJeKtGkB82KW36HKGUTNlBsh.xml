@@ -1,0 +1,102 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="libroCrash" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="2" lastUsed="1694442622039" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1694442622043" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24986072" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32961166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" side_tool="true" />
+      <unified_weights left="0.24986072" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1745" height="311" key="GridCell.Tab.0.bottom" timestamp="1678379898401">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1745" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1678379898401" />
+    <state width="1745" height="311" key="GridCell.Tab.0.center" timestamp="1678379898382">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1745" height="311" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1678379898382" />
+    <state width="1745" height="311" key="GridCell.Tab.0.left" timestamp="1678379898369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1745" height="311" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1678379898369" />
+    <state width="1745" height="311" key="GridCell.Tab.0.right" timestamp="1678379898386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1745" height="311" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1678379898386" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "பிற தாவல்களை மூடுக"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "நீங்கள் ஒரு டூல்பார் பொத்தானை, வலது கிளிக் மெனுவில் அல்லது அழுத்தி பார்க்க Alt + Shift + W அழுத்தினால் மூலம் ஒரு பொருளை மற்ற மூடுவதில் அனுமதிக்கிறது."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "பிற தாவல்களை மூடுக"
+   }
+}

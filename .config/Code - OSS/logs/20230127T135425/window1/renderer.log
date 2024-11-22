@@ -1,0 +1,22 @@
+2023-01-27 13:54:30.751 [error] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver, telemetryLogger'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:30.752 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:30.753 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:31.055 [error] [ms-toolsai.jupyter]: notebook/kernelSource es un identificador de menú propuesto. Requiere "package.json#enabledApiProposals: ["notebookKernelSource"]' y solo está disponible cuando se queda sin desarrollo o con el siguiente modificador de línea de comandos: --enable-proposed-api ms-toolsai.jupyter
+2023-01-27 13:54:33.454 [info] [perf] Render performance baseline is 132ms
+2023-01-27 13:54:33.984 [error] [Extension Host] Error: Must invoke loadWASM first.
+	at new s (/usr/lib/code/node_modules.asar/vscode-oniguruma/release/main.js:1:1893)
+	at Object.createOnigString (/home/dodecaneser/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:53:48)
+	at e.createOnigString (/usr/lib/code/node_modules.asar/vscode-textmate/release/main.js:1:6980)
+	at e._tokenize (/usr/lib/code/node_modules.asar/vscode-textmate/release/main.js:1:9604)
+	at e.tokenizeLine2 (/usr/lib/code/node_modules.asar/vscode-textmate/release/main.js:1:8866)
+	at DocumentDecoration.tokenizeLine (/home/dodecaneser/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:232:55)
+	at DocumentDecoration.tokenizeDocument (/home/dodecaneser/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:116:38)
+	at DocumentDecorationManager.updateDocument (/home/dodecaneser/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:33:32)
+	at /home/dodecaneser/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:94:30
+2023-01-27 13:54:40.267 [error] Error while registering log channel file:///home/dodecaneser/.config/Code%20-%20OSS/logs/20230127T135425/userDataSync.log Timed out while waiting for file to be created
+2023-01-27 13:54:50.186 [error] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver, telemetryLogger'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:50.186 [error] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:50.187 [error] Extension 'ms-toolsai.jupyter-renderers CANNOT USE these API proposals 'contribNotebookStaticPreloads'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-01-27 13:54:50.663 [error] [ms-toolsai.jupyter]: notebook/kernelSource es un identificador de menú propuesto. Requiere "package.json#enabledApiProposals: ["notebookKernelSource"]' y solo está disponible cuando se queda sin desarrollo o con el siguiente modificador de línea de comandos: --enable-proposed-api ms-toolsai.jupyter
+2023-01-27 13:54:53.274 [info] [perf] Render performance baseline is 115ms
+2023-01-27 13:55:01.474 [error] Error while registering log channel file:///home/dodecaneser/.config/Code%20-%20OSS/logs/20230127T135425/userDataSync.log Timed out while waiting for file to be created

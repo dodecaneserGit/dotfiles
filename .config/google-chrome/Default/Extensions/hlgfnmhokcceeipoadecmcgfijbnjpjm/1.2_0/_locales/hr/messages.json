@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Zatvori ostale kartice"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Omogućuje vam Zatvori ostale kartice sa gumb alatne trake, stavke na izborniku desnog klika ili pritiskom na ALT + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Zatvori ostale kartice"
+   }
+}

@@ -1,0 +1,371 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="alienInvasion" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#23#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game_funciones.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="580">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bullet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1015">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ship.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alien.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-58">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="17" lastUsed="1698137862642" />
+    </fileType>
+    <fileType name="PythonStub">
+      <summary usageCount="1" lastUsed="1698055995851" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/bullet.py" />
+      <option value="$PROJECT_DIR$/settings.py" />
+      <option value="$PROJECT_DIR$/ship.py" />
+      <option value="$PROJECT_DIR$/alien.py" />
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/game_funciones.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="17" lastUsage="1698137862642" />
+    </language>
+    <language id="PythonStub">
+      <summary usageCount="1" lastUsage="1698055995851" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alienInvasion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/dodecaneser/PycharmProjects/alienInvasion}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.22813901" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.25041783" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32961166" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" sideWeight="0.5703982" weight="0.40048546" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.32961166" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32961166" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32961166" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.32961166" />
+      <window_info anchor="bottom" x="1003" y="25" width="892" height="1030" id="Terminal" order="9" weight="0.32961166" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" show_stripe_button="false" sideWeight="0.42960185" side_tool="true" weight="0.40048546" />
+      <window_info anchor="right" id="Notifications" side_tool="true" weight="0.33015692" />
+      <unified_weights bottom="0.40048546" left="0.22813901" right="0.43840986" />
+    </layout>
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.33008355" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32961166" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32961166" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" weight="0.33015692" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.1" />
+      <unified_weights bottom="0.32961166" left="0.33008355" right="0.33015692" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Python Packages</value>
+      <value>TODO</value>
+      <value>Python Console</value>
+      <value>Project</value>
+      <value>Structure</value>
+      <value>Meet New UI</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="130" width="1218" height="819" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1697703237148">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="130" width="1218" height="819" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1697703237148" />
+    <state x="1126" y="165" width="636" height="720" key="FileChooserDialogImpl" timestamp="1697791413087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1126" y="165" width="636" height="720" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1697791413087" />
+    <state x="1056" y="311" key="Github.ShareDialog" timestamp="1698135884020">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1056" y="311" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1698135884020" />
+    <state width="1733" height="370" key="GridCell.Tab.0.bottom" timestamp="1698139408618">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408618" />
+    <state width="1733" height="370" key="GridCell.Tab.0.center" timestamp="1698139408613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408613" />
+    <state width="1733" height="370" key="GridCell.Tab.0.left" timestamp="1698139408609">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408609" />
+    <state width="1733" height="370" key="GridCell.Tab.0.right" timestamp="1698139408616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408616" />
+    <state width="1733" height="370" key="GridCell.Tab.1.bottom" timestamp="1698139408629">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408629" />
+    <state width="1733" height="370" key="GridCell.Tab.1.center" timestamp="1698139408624">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408624" />
+    <state width="1733" height="370" key="GridCell.Tab.1.left" timestamp="1698139408621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408621" />
+    <state width="1733" height="370" key="GridCell.Tab.1.right" timestamp="1698139408626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1733" height="370" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1698139408626" />
+    <state x="1111" y="103" key="RollbackChangesDialog" timestamp="1698057054070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1111" y="103" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1698057054070" />
+    <state x="252" y="0" key="SettingsEditor" timestamp="1698137448754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="252" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1698137448754" />
+    <state x="720" y="166" key="Vcs.Push.Dialog.v2" timestamp="1698055921698">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="166" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1698055921698" />
+    <state x="1160" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1698054507965">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1160" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1698054507965" />
+    <state x="731" y="417" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1698053779386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="731" y="417" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1698053779386" />
+    <state x="911" y="0" key="search.everywhere.popup" timestamp="1697702797339">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="911" y="0" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1697702797339" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.11/site-packages/pygame/sprite.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_funciones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

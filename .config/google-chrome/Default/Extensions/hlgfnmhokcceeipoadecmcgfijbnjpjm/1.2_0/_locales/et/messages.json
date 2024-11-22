@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Sule muud vahelehed"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Võimaldab Sule muud vahelehed koos tööriistariba nuppu, mõni element paremklõpsake menüü või vajutada Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Sule muud vahelehed"
+   }
+}

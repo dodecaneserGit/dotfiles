@@ -1,0 +1,62 @@
+2023-01-27 13:54:35.706 [info] Log level: Info
+2023-01-27 13:54:35.706 [info] Validating found git in: "git"
+2023-01-27 13:54:35.706 [info] Using git "2.39.1" from "git"
+2023-01-27 13:54:35.706 [info] > git rev-parse --show-toplevel [30ms]
+2023-01-27 13:54:35.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:35.706 [info] > git rev-parse --show-toplevel [3ms]
+2023-01-27 13:54:35.706 [info] > git rev-parse --git-dir --git-common-dir [469ms]
+2023-01-27 13:54:35.706 [info] Open repository: /home/dodecaneser/raspServer
+2023-01-27 13:54:35.706 [info] > git rev-parse --show-toplevel [203ms]
+2023-01-27 13:54:35.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:35.708 [info] > git rev-parse --show-toplevel [11ms]
+2023-01-27 13:54:35.708 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:35.722 [info] > git config --get commit.template [39ms]
+2023-01-27 13:54:35.753 [info] > git rev-parse --show-toplevel [32ms]
+2023-01-27 13:54:35.753 [info] fatal: detected dubious ownership in repository at '/home/dodecaneser/scripts/mimikatz'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dodecaneser/scripts/mimikatz
+2023-01-27 13:54:35.780 [warning] No remotes found in the git config file.
+2023-01-27 13:54:35.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-01-27 13:54:35.806 [info] > git remote --verbose [27ms]
+2023-01-27 13:54:35.840 [info] > git rev-parse --show-toplevel [74ms]
+2023-01-27 13:54:35.840 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:36.221 [info] > git status -z -uall [396ms]
+2023-01-27 13:54:36.222 [info] > git rev-parse --show-toplevel [362ms]
+2023-01-27 13:54:36.222 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:36.222 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [383ms]
+2023-01-27 13:54:36.300 [info] > git check-ignore -v -z --stdin [24ms]
+2023-01-27 13:54:36.302 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n240 -- /home/dodecaneser/raspServer/siem/docker-compese-siem.yml [83ms]
+2023-01-27 13:54:36.457 [info] > git config --get commit.template [160ms]
+2023-01-27 13:54:36.487 [info] > git show --textconv :siem/docker-compese-siem.yml [48ms]
+2023-01-27 13:54:36.487 [info] > git ls-files --stage -- /home/dodecaneser/raspServer/siem/docker-compese-siem.yml [35ms]
+2023-01-27 13:54:36.524 [warning] No remotes found in the git config file.
+2023-01-27 13:54:36.553 [info] > git cat-file -s c683ca9f9b7fb37a2613a54b204300b5491456d4 [54ms]
+2023-01-27 13:54:36.577 [info] > git remote --verbose [54ms]
+2023-01-27 13:54:36.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [65ms]
+2023-01-27 13:54:36.601 [info] > git status -z -uall [13ms]
+2023-01-27 13:54:36.631 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [32ms]
+2023-01-27 13:54:37.155 [info] > git rev-list --count 03a7554f078b76a00a74ea417187ffdf260d9f5f.. -- /home/dodecaneser/raspServer/siem/docker-compese-siem.yml [4ms]
+2023-01-27 13:54:37.181 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n3 -- /home/dodecaneser/raspServer/siem/docker-compese-siem.yml [9ms]
+2023-01-27 13:54:38.675 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n240 -- /home/dodecaneser/raspServer/siem/elasticsearch.yml [22ms]
+2023-01-27 13:54:38.819 [info] > git show --textconv :siem/elasticsearch.yml [17ms]
+2023-01-27 13:54:38.842 [info] > git ls-files --stage -- /home/dodecaneser/raspServer/siem/elasticsearch.yml [25ms]
+2023-01-27 13:54:38.865 [info] > git cat-file -s 97cfeb7e77b310a8b0d3ba7646dd04635764109a [8ms]
+2023-01-27 13:54:55.279 [info] Log level: Info
+2023-01-27 13:54:55.279 [info] Validating found git in: "git"
+2023-01-27 13:54:55.279 [info] Using git "2.39.1" from "git"
+2023-01-27 13:54:55.279 [info] > git rev-parse --show-toplevel [81ms]
+2023-01-27 13:54:55.279 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:55.281 [info] > git rev-parse --show-toplevel [323ms]
+2023-01-27 13:54:55.281 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:55.420 [info] > git rev-parse --show-toplevel [129ms]
+2023-01-27 13:54:55.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:54:55.438 [info] > git rev-parse --show-toplevel [7ms]
+2023-01-27 13:54:55.439 [info] fatal: detected dubious ownership in repository at '/home/dodecaneser/scripts/mimikatz'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/dodecaneser/scripts/mimikatz
+2023-01-27 13:54:55.569 [info] > git rev-parse --show-toplevel [120ms]
+2023-01-27 13:54:55.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-01-27 13:55:52.866 [info] > git rev-parse --show-toplevel [10ms]
+2023-01-27 13:55:52.866 [info] fatal: not a git repository (or any of the parent directories): .git

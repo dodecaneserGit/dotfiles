@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1661260085911" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="331" l="1678374902236" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="6" l="1661263740907" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1661261348848" />
+    </e>
+    <e n="EditorDown">
+      <i c="22" l="1661263677030" />
+    </e>
+    <e n="EditorEnter">
+      <i c="42" l="1661263781219" />
+    </e>
+    <e n="EditorLeft">
+      <i c="31" l="1661263770354" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1661260240866" />
+    </e>
+    <e n="EditorRight">
+      <i c="182" l="1678368761137" />
+    </e>
+    <e n="EditorUp">
+      <i c="19" l="1661263359760" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1651012592661" />
+    </e>
+    <e n="FindNext">
+      <i c="2" l="1661261338069" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1678368775547" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="2" l="1678368713697" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1661259650931" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1661260064975" />
+    </e>
+    <e n="Run">
+      <i c="9" l="1678368766419" />
+    </e>
+    <e n="SaveAs">
+      <i c="2" l="1661262045993" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1651012510647" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="4" l="1661261291601" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$HyperlinkNavigationAction">
+      <i c="1" l="1661261349832" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="1" l="1661262056901" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1661260076900" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1651012439995" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1678368798093" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1661261228843" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Cerrar las otras pestañas"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "que permite cerrar otras pestañas con un botón de barra de herramientas, un elemento en el menú del botón derecho o pulsando Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Cerrar las otras pestañas"
+   }
+}

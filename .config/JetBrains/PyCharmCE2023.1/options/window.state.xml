@@ -1,0 +1,66 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1747" height="311" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1747" height="311" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1747" height="311" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1747" height="311" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="830" height="297" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="830" height="297" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="830" height="297" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="830" height="297" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@144dpi" width="1733" height="370" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@144dpi" width="1733" height="370" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@144dpi" width="1733" height="370" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@144dpi" width="1733" height="370" />
+  </component>
+  <component name="ToolWindowLayout">{
+  &quot;v1&quot;: [
+    {
+      &quot;id&quot;: &quot;Project&quot;,
+      &quot;order&quot;: 0,
+      &quot;contentUiType&quot;: &quot;COMBO&quot;,
+      &quot;weight&quot;: 0.25
+    },
+    {
+      &quot;id&quot;: &quot;Version Control&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Find&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Run&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Debug&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Inspection&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    }
+  ]
+}</component>
+  <component name="WindowManager">
+    <frame x="1003" y="25" width="892" height="1030" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="773" y="381" width="450" height="276" key="ProcessPopupWindow" timestamp="1697700839671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="381" width="450" height="276" key="ProcessPopupWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1697700839671" />
+    <state width="590" height="146" key="ShowUsagesActions.dimensionServiceKey" timestamp="1697795232114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="590" height="146" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080" timestamp="1697795232114" />
+  </component>
+</application>

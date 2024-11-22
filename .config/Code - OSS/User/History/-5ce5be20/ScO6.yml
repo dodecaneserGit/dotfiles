@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+
+elasticsearch:
+  container_name: elasticsearch
+  image: docker pull docker.elastic.co/elasticsearch/elasticsearch:8.6.0-arm64
+  

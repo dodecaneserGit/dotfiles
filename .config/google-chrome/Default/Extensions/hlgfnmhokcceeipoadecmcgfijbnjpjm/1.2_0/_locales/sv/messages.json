@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Stäng andra flikar"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Låter dig nära andra flikar med en knapp i verktygsfältet, ett objekt på högerklicksmenyn eller genom att trycka på Alt + Skift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Stäng andra flikar"
+   }
+}

@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://ai2.appinventor.mit.edu"
+      }
+   },
+   "description": "Invent your own Android Apps!",
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxv1dAaKSjKqAIkoTDtOvGc87mtluVZSo9JX6bGs19+235WahWTjM3z8SEsVQc0oYDL8rOXHw3nGjRM3hza2ASi9UwSKNXmou1CP2TVhuZJXwauSzPvs+8KoWla7dhgwCF2CLnX0OIF6Xg1RH5tHSlAyCfsWcerJp4jRtl33pRbD7inV0ijIj43gDOUOWvbbWbgT7o9TR4yTMa2vZXqNZj2ofkWHA5/SE5A5JeeEAhJ9v7eWWhTajRHfbpFi+il3edWsFu36vKvieWiaUgXojLMhjpaebf3OpmR3l4JhrWMBN2BPIaPjLzrKzwzFW0nBgHMoZPguW0s61RsX5Je5S7wIDAQAB",
+   "manifest_version": 2,
+   "name": "MIT App Inventor",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.1"
+}

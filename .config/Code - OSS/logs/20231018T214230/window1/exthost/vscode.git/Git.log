@@ -1,0 +1,37 @@
+2023-10-18 21:43:09.854 [info] Log level: Info
+2023-10-18 21:43:09.854 [info] Validating found git in: "git"
+2023-10-18 21:43:09.854 [info] Using git "2.42.0" from "git"
+2023-10-18 21:43:09.854 [info] > git rev-parse --show-toplevel [2539ms]
+2023-10-18 21:43:09.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:09.859 [info] > git rev-parse --show-toplevel [607ms]
+2023-10-18 21:43:09.859 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:09.981 [info] > git rev-parse --show-toplevel [33ms]
+2023-10-18 21:43:09.981 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:10.027 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-18 21:43:10.027 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:10.109 [info] > git rev-parse --show-toplevel [41ms]
+2023-10-18 21:43:10.377 [info] > git rev-parse --git-dir --git-common-dir [186ms]
+2023-10-18 21:43:10.579 [info] Open repository: /home/dodecaneser/scripts/mimikatz
+2023-10-18 21:43:11.000 [info] > git rev-parse --show-toplevel [36ms]
+2023-10-18 21:43:11.001 [info] > git config --get commit.template [106ms]
+2023-10-18 21:43:11.354 [info] > git rev-parse --git-dir --git-common-dir [284ms]
+2023-10-18 21:43:11.476 [info] Open repository: /home/dodecaneser/scripts/pspy
+2023-10-18 21:43:12.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1102ms]
+2023-10-18 21:43:12.367 [info] > git rev-parse --show-toplevel [196ms]
+2023-10-18 21:43:12.367 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:12.368 [info] > git config --get commit.template [248ms]
+2023-10-18 21:43:12.961 [info] > git status -z -uall [619ms]
+2023-10-18 21:43:13.048 [info] > git rev-parse --show-toplevel [638ms]
+2023-10-18 21:43:13.048 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:13.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [843ms]
+2023-10-18 21:43:13.743 [info] > git status -z -uall [68ms]
+2023-10-18 21:43:13.751 [info] > git rev-parse --show-toplevel [214ms]
+2023-10-18 21:43:13.751 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:13.753 [info] > git config --get commit.template [261ms]
+2023-10-18 21:43:14.021 [info] > git rev-parse --show-toplevel [166ms]
+2023-10-18 21:43:14.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-18 21:43:14.200 [info] > git config --get commit.template [192ms]
+2023-10-18 21:43:14.200 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [260ms]
+2023-10-18 21:43:14.439 [info] > git status -z -uall [183ms]
+2023-10-18 21:43:15.085 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [536ms]
+2023-10-18 21:43:15.288 [info] > git status -z -uall [128ms]

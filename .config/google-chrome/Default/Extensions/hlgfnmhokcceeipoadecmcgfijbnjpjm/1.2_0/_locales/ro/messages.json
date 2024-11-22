@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Închideți celelalte file"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "vă permite să închideți alte file cu un buton de bară de instrumente, un element din meniul click-dreapta sau prin apăsarea Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Închideți celelalte file"
+   }
+}

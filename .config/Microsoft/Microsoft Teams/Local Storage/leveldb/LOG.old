@@ -1,0 +1,8 @@
+2023/03/08-16:06:26.797 411 Reusing MANIFEST /home/dodecaneser/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2023/03/08-16:06:26.801 411 Recovering log #14
+2023/03/08-16:06:26.810 411 Level-0 table #18: started
+2023/03/08-16:06:26.824 411 Level-0 table #18: 333447 bytes OK
+2023/03/08-16:06:26.831 411 Delete type=0 #14
+2023/03/08-16:06:35.086 4c4 Level-0 table #21: started
+2023/03/08-16:06:35.091 4c4 Level-0 table #21: 71809 bytes OK
+2023/03/08-16:06:35.097 4c4 Delete type=0 #19

@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://leer.amazon.es/?ref_=kcr_app_chrome_link"
+      },
+      "urls": [ "https://leer.amazon.es/" ]
+   },
+   "description": "Kindle Cloud Reader: lee libros Kindle en el navegador y realiza tus compras en Amazon.es.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqNfbHzK31Mk4sUAIZp5hd6Eprkxr54j80dXiTXc4Fs/HqtNI25UYR5UNgGd+yI11yCG1jdUUtH5jIi5iTecZ8w39jHQKdsceG/oiTx5AzG6qEdbN1sBtoarHxV7eszetyGY58VPOkGdzhv9nSHN2EXS8yqGwMERCHzYe2bM+LEnUxe+RTMI7WlirdZql9C/DMxaJqvRjcwatfM0bVhif3pxTV5Acola/9fjCQC8CcOT9Jb1sRq/rQE6cfKMsTIcu9ESk+LuRa6ocnYIP/5fldLeiXWXDHAES85kLM1ZSx39yZowZb0lWuleezONW5MpCxeUAbTQDnsTTK2UzWT+3nwIDAQAB",
+   "manifest_version": 2,
+   "name": "Kindle Cloud Reader",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7.0.25"
+}

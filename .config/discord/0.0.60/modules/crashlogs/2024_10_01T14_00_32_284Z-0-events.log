@@ -1,0 +1,8 @@
+2024-10-01T14:00:32.315Z 0: 
+
+----------------------------------------------
+2024-10-01T14:00:32.356Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.60"}, modulepath: /home/dodecaneser/.config/discord/0.0.60/modules
+2024-10-01T14:00:32.372Z 2: ✅ webContents.created web1 ""
+2024-10-01T14:00:32.397Z 3: ✅ window.created win1 "discord"
+2024-10-01T14:00:33.251Z 4: ✅ webContents.did-finish-load web1
+2024-10-01T14:00:43.175Z 5: window.close win1

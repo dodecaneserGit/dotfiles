@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Закрити інші вкладки"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Дозволяє закрити інші вкладки з кнопкою на панелі інструментів, пункт, в меню правої кнопки миші або натисканням Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Закрити інші вкладки"
+   }
+}

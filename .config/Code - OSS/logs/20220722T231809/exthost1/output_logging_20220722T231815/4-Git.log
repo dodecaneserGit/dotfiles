@@ -1,0 +1,7 @@
+[2022-07-22T21:18:17.556Z] Nivel de registro: Info
+[2022-07-22T21:18:17.565Z] [info] La validación encontró Git en: git
+[2022-07-22T21:18:17.653Z] [info] Usando GIT 2.37.1 desde git
+[2022-07-22T21:18:17.709Z] > git rev-parse --show-toplevel [32ms]
+[2022-07-22T21:18:17.709Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-22T21:18:46.056Z] > git rev-parse --show-toplevel [12ms]
+[2022-07-22T21:18:46.056Z] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,37 @@
+[2022-11-29 11:51:51.278] [exthost] [info] Extension host with pid 3600 started
+[2022-11-29 11:51:51.616] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2022-11-29 11:51:51.623] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-11-29 11:51:51.623] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-11-29 11:51:51.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-29 11:51:51.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-29 11:51:51.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-29 11:51:51.626] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-11-29 11:51:51.626] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-11-29 11:51:52.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-29 11:51:52.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-29 11:51:53.444] [exthost] [info] Eager extensions activated
+[2022-11-29 11:51:53.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:51:53.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:51:53.537] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:51:53.537] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:51:53.538] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:52:24.621] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-29 11:52:24.798] [exthost] [info] Extension host with pid 3600 exiting with code 0
+[2022-11-29 11:52:30.583] [exthost] [info] Extension host with pid 3861 started
+[2022-11-29 11:52:30.583] [exthost] [info] Skipping acquiring lock for /home/dodecaneser/.config/Code - OSS/User/workspaceStorage/64e5a8c58953e578f27e67a66c2df0f0.
+[2022-11-29 11:52:30.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-29 11:52:30.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-11-29 11:52:30.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-29 11:52:30.858] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+[2022-11-29 11:52:32.109] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-29 11:52:32.265] [exthost] [info] Eager extensions activated
+[2022-11-29 11:52:32.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:52:32.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:52:32.304] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:52:33.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-11-29 11:52:33.219] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: false, activationEvent: '*'
+[2022-11-29 11:52:33.220] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-29 11:52:33.222] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: false, activationEvent: '*'
+[2022-11-29 11:52:33.224] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-30 10:50:53.461] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-30 10:50:53.639] [exthost] [info] Extension host with pid 3861 exiting with code 0

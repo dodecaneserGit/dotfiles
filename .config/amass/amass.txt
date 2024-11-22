@@ -1,0 +1,12 @@
+[92mpatrociniosanjose.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns2.planalfa.es[0m[94m (FQDN)[0m
+[92mpatrociniosanjose.org[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns1.planalfa.es[0m[94m (FQDN)[0m
+[92mpatrociniosanjose.org[0m[94m (FQDN)[0m [97m-->[0m [95mmx_record[0m [97m-->[0m [92mpatrociniosanjose-org.mail.protection.outlook.com[0m[94m (FQDN)[0m
+[92mpatrociniosanjose.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m85.118.245.105[0m[94m (IPAddress)[0m
+[92mwww.patrociniosanjose.org[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m85.118.245.105[0m[94m (IPAddress)[0m
+[92mns2.planalfa.es[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m85.118.245.202[0m[94m (IPAddress)[0m
+[92mns1.planalfa.es[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m85.118.245.201[0m[94m (IPAddress)[0m
+[92m85.118.240.0/21[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m85.118.245.105[0m[94m (IPAddress)[0m
+[92m85.118.240.0/21[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m85.118.245.201[0m[94m (IPAddress)[0m
+[92m85.118.240.0/21[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m85.118.245.202[0m[94m (IPAddress)[0m
+[92m35171[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mUNIWAY-AS[0m[94m (RIROrganization)[0m
+[92m35171[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m85.118.240.0/21[0m[94m (Netblock)[0m

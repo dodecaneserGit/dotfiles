@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "他のタブをすべて閉じます"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "あなたはアイテムは右クリックメニューまたはAltキー+ Shiftキー+ Wを押して、ツールバーのボタンで他のタブをすべて閉じることを可能にします。"
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "他のタブをすべて閉じます"
+   }
+}

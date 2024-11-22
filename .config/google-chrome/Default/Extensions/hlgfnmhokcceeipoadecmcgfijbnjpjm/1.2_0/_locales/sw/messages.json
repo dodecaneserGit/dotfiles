@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Funga Vichupo Vingine"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Inakuwezesha karibu tabo nyingine na kifungo toolbar, bidhaa kwenye orodha bofya kulia au kwa kubonyeza Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Funga Vichupo Vingine"
+   }
+}

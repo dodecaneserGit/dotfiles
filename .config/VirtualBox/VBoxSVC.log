@@ -1,0 +1,47 @@
+00:00:00.002681 main     VirtualBox XPCOM Server 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:00.002685 main     Log opened 2024-11-16T22:51:20.343687000Z
+00:00:00.002687 main     Build Type: release
+00:00:00.002691 main     OS Product: Linux
+00:00:00.002695 main     OS Release: 6.11.6-arch1-1
+00:00:00.002698 main     OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 01 Nov 2024 03:30:41 +0000
+00:00:00.002731 main     DMI Product Name: TM1612
+00:00:00.002750 main     DMI Product Version: 
+00:00:00.002759 main     Firmware type: UEFI
+00:00:00.003868 main     Secure Boot: Disabled
+00:00:00.003957 main     Host RAM: 3829MB (3.7GB) total, 1327MB available
+00:00:00.003963 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.003964 main     Process ID: 20289
+00:00:00.003965 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.007254 main     IPC socket path: /tmp/.vbox-dodecaneser-ipc/ipcd
+00:00:00.059121 DCon01   VirtualBox: object creation starts
+00:00:00.059244 DCon01   Home directory: '/home/dodecaneser/.config/VirtualBox'
+00:00:00.060800 DCon01   Loading settings file "/home/dodecaneser/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.078277 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.080576 DCon01   HostDnsMonitor: initializing
+00:00:00.082010 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.082048 DCon01   HostDnsMonitor: updating information
+00:00:00.082070 DCon01   HostDnsMonitor: old information
+00:00:00.082075 DCon01     no server entries
+00:00:00.082079 DCon01     no domain set
+00:00:00.082083 DCon01     no search string entries
+00:00:00.082087 DCon01   HostDnsMonitor: new information
+00:00:00.082090 DCon01     server 1: 192.168.0.1
+00:00:00.082095 DCon01     no domain set
+00:00:00.082098 DCon01     no search string entries
+00:00:00.085850 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.104742 DCon01   failed to create vboxnet0, error (VERR_GENERAL_FAILURE)
+00:00:00.106215 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.107743 DCon01   Platform architecture set to 'x86'
+00:00:00.118637 DCon01   Loading settings file "/home/dodecaneser/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7/Xiaomi Redmi Note 7.vbox" with version "1.19-linux"
+00:00:00.119303 DCon01   Platform architecture set to 'x86'
+00:00:00.119324 DCon01   Platform architecture set to 'x86'
+00:00:00.119506 DCon01   Platform architecture set to 'x86'
+00:00:00.119804 DCon01   Platform architecture set to 'x86'
+00:00:00.120782 DCon01   VirtualBox: object created
+00:00:15.539573 main     VirtualBox: object deletion starts
+00:00:15.539655 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/dodecaneser/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7/Snapshots/{a3c4f8d7-2bd2-445f-ba96-99a71c27c5ef}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:15.540738 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:15.542911 main     HostDnsMonitor: shutting down ...
+00:00:15.544115 main     HostDnsMonitor: shut down
+00:00:15.555956 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:15.556069 main     VirtualBox: object deleted

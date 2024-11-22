@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Egyéb lapok bezárása"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Lehetővé teszi, hogy zárja be a többi lapok egy eszköztár gombot, egy elemet a jobb egérgombbal a menü, vagy az Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Egyéb lapok bezárása"
+   }
+}

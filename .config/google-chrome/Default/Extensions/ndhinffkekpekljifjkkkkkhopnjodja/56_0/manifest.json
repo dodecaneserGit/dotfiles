@@ -1,0 +1,27 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "19x19.png",
+         "38": "19x19@2x.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Feedly Mini"
+   },
+   "author": "Feedly",
+   "background": {
+      "service_worker": "service-worker-bundle.js"
+   },
+   "description": "Easily add content to your Feedly while browsing",
+   "differential_fingerprint": "1.09e45dd65bec181f44ac166372ce15d50410b4852f76d2841b58e1a5e9c4f06a",
+   "icons": {
+      "128": "128x128.png",
+      "16": "16x16.png",
+      "48": "48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+NvNN2i26wtX/a5soQkoDLTNcuQy2pe++2JzlY9D9gdmkcnXr6RvVd3VswtJg6hlkf6Gfl96VPEwuN5jO1XUWEhUzn98PLz1fvffb0aOWdw5FWsitp6STLLYPNchiwZ+tsJhLS9fWu4nggeQnEgdgqh3pmgUjxAXu0kKQeOKk7QIDAQAB",
+   "manifest_version": 3,
+   "name": "Feedly Mini",
+   "permissions": [ "activeTab", "identity", "scripting", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "56"
+}

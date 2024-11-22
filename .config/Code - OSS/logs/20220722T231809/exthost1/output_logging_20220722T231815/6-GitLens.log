@@ -1,0 +1,4 @@
+[2022-07-22 21:18:18.649] [GIT  ] [/home/dodecaneser/HTB/labs/BackDoor/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 58 ms
+
+[2022-07-22 21:18:46.116] [GIT  ] [/home/dodecaneser/Descargas] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 18 ms
+

@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "إغلاق علامات التبويب الأخرى"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "يسمح لك علامات التبويب الأخرى وثيقة مع زر شريط أدوات، عنصر في القائمة النقر بزر الماوس الأيمن أو بالضغط على Alt + شيفت + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "إغلاق علامات التبويب الأخرى"
+   }
+}

@@ -1,0 +1,280 @@
+2023-10-19 11:34:11.139 [info] Test server listening.
+2023-10-19 11:34:11.140 [info] Python interpreter path: /bin/python
+2023-10-19 11:34:11.278 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 228ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/project_1/alien_invasion.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-19 11:34:11.279 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:34:11.279 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:34:12.423 [error] Failed to start language server: [s [Error]: Cannot call write after a stream was destroyed
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318165
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)] {
+  code: -32099,
+  data: undefined
+}
+2023-10-19 11:34:12.438 [error] [
+  'Failed to start language server, Class name = l, completed in 1137ms, has a falsy return value, Arg 1: <Uri:/default>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":[],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-19 11:34:12.444 [error] [
+  'Starting language server, Class name = h, completed in 1148ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-19 11:34:12.455 [error] [
+  'Failed to start language server, Class name = h, completed in 1164ms, has a falsy return value, Arg 1: <Uri:/default>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)]
+]
+2023-10-19 11:37:07.661 [info] Test server listening.
+2023-10-19 11:37:07.685 [info] Python interpreter path: /bin/python
+2023-10-19 11:37:07.754 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-19 11:37:07.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-19 11:37:07.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-19 11:37:07.754 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-19 11:37:07.776 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 143ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-19 11:37:07.776 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:37:07.777 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:37:07.803 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-19 11:37:07.895 [error] Failed to start language server: [s [Error]: Pending response rejected since connection got disposed
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318937)
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085486)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085892)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2243068)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085635
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at te (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2307060)
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at y.fireClose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2332864)
+	at Socket.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2333594)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: -32097,
+  data: undefined
+}
+2023-10-19 11:37:07.900 [error] [
+  'Failed to start language server, Class name = l, completed in 117ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/pythonCrashBook/gameAlien","external":"file:///home/dodecaneser/pythonCrashBook/gameAlien","path":"/home/dodecaneser/pythonCrashBook/gameAlien","scheme":"file"},"name":"gameAlien","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/pythonCrashBook/gameAlien"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:37:07.904 [error] [
+  'Starting language server, Class name = h, completed in 120ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:37:07.907 [error] [
+  'Failed to start language server, Class name = h, completed in 127ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:37:31.098 [info] Discover tests for workspace name: gameAlien - uri: /home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py
+2023-10-19 11:37:33.142 [info] Send text to terminal: /bin/python /home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py
+2023-10-19 11:37:46.826 [info] Discover tests for workspace name: gameAlien - uri: /home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py
+2023-10-19 11:40:04.341 [info] Test server listening.
+2023-10-19 11:40:04.342 [info] Python interpreter path: /bin/python
+2023-10-19 11:40:04.385 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 40ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-19 11:40:04.385 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:40:04.385 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:828271)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:40:04.639 [error] Failed to start language server: [s [Error]: Pending response rejected since connection got disposed
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2318937)
+	at Object.dispose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085486)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085892)
+	at E.handleConnectionClosed (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2243068)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2085635
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at te (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2307060)
+	at i.invoke (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2320648)
+	at o.fire (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2321413)
+	at y.fireClose (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2332864)
+	at Socket.<anonymous> (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:2333594)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: -32097,
+  data: undefined
+}
+2023-10-19 11:40:04.645 [error] [
+  'Failed to start language server, Class name = l, completed in 253ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"workspaceFolder":{"uri":{"$mid":1,"fsPath":"/home/dodecaneser/pythonCrashBook/gameAlien","external":"file:///home/dodecaneser/pythonCrashBook/gameAlien","path":"/home/dodecaneser/pythonCrashBook/gameAlien","scheme":"file"},"name":"gameAlien","index":0},"synchronize":{"configurationSection":["python"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"markupKindPreferred":"markdown","completion":{"resolveEagerly":false,"disableSnippets":true},"diagnostics":{"enable":true,"didOpen":true,"didSave":true,"didChange":true},"hover":{"disable":{"keyword":{"all":true}}},"workspace":{"extraPaths":["/home/dodecaneser/pythonCrashBook/gameAlien"],"symbols":{"maxSymbols":0}}},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"parent":null,"_metadataReader":{}}},"lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"JEDI_LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:40:04.649 [error] [
+  'Starting language server, Class name = h, completed in 258ms, has a falsy return value, , Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:40:04.651 [error] [
+  'Failed to start language server, Class name = h, completed in 263ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien>, Arg 2: {"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python","architecture":3,"sysVersion":"3.11.5 (main, Sep  2 2023, 14:16:33) [GCC 13.2.1 20230801]","version":{"raw":"3.11.5","major":3,"minor":11,"patch":5,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.11.5 64-bit","detailedDisplayName":"Python 3.11.5 64-bit"}, Return Value: undefined',
+  [Error: Launching Jedi language server using python failed, see output.
+  	at l.start (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/out/client/extension.js:2:19468)]
+]
+2023-10-19 11:40:51.811 [info] Test server listening.
+2023-10-19 11:40:51.816 [info] Python interpreter path: /bin/python
+2023-10-19 11:40:52.563 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 900ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-19 11:40:52.564 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:40:52.564 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:40:55.889 [info] Starting Jedi language server for gameAlien.
+2023-10-19 11:41:34.401 [info] Discover tests for workspace name: gameAlien - uri: /home/dodecaneser/pythonCrashBook/gameAlien/alien_invasion.py
+2023-10-19 11:42:06.310 [info] Test server listening.
+2023-10-19 11:42:06.317 [info] Only Pylance is supported in untrusted workspaces, setting language server to None.
+2023-10-19 11:42:06.317 [info] Starting Jedi language server for alienInvasion.
+2023-10-19 11:42:06.384 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-19 11:42:11.018 [info] Test server listening.
+2023-10-19 11:42:11.021 [info] Python interpreter path: /bin/python
+2023-10-19 11:42:11.077 [info] > ./venv/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/pythonFiles/interpreterInfo.py
+2023-10-19 11:42:11.214 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 198ms, has a falsy return value, Arg 1: <Uri:/home/dodecaneser/PycharmProjects/alienInvasion/main.py>, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+  	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+]
+2023-10-19 11:42:11.215 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:42:11.215 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at w.activate (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:819803)
+	at /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal/out/client/extension.js:2:2376)]
+2023-10-19 11:42:13.141 [info] Starting Jedi language server for alienInvasion.
+2023-10-19 11:43:16.195 [info] Discover tests for workspace name: alienInvasion - uri: /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 11:43:18.857 [info] Send text to terminal: source /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/activate
+2023-10-19 11:43:19.362 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 11:57:46.302 [info] Discover tests for workspace name: alienInvasion - uri: /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 11:57:48.947 [info] Python interpreter path: ./venv/bin/python
+2023-10-19 11:59:03.244 [info] Discover tests for workspace name: alienInvasion - uri: /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:00:22.821 [info] Discover tests for workspace name: alienInvasion - uri: /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:00:24.213 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:14:12.909 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/settings.py
+2023-10-19 12:14:18.223 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/ship.py
+2023-10-19 12:14:22.469 [info] Discover tests for workspace name: alienInvasion - uri: /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:14:38.021 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:14:51.848 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/main.py
+2023-10-19 12:19:42.116 [info] Send text to terminal: /home/dodecaneser/PycharmProjects/alienInvasion/venv/bin/python /home/dodecaneser/PycharmProjects/alienInvasion/main.py

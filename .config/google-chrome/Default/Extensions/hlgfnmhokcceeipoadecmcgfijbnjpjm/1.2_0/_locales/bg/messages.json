@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Затваряне на другите раздели"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Позволява ви да Затваряне на другите раздели с един бутон на лентата с инструменти, обект на десния бутон на мишката или чрез натискане на Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Затваряне на другите раздели"
+   }
+}

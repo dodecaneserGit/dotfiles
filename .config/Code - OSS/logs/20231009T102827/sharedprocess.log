@@ -1,0 +1,177 @@
+2023-10-09 10:28:34.469 [info] Deleted uninstalled extension from disk formulahendry.code-runner /home/dodecaneser/.vscode-oss/extensions/formulahendry.code-runner-0.11.8
+2023-10-09 10:28:37.254 [info] Getting Manifest... almenon.arepl
+2023-10-09 10:28:37.265 [info] Getting Manifest... eamodio.gitlens
+2023-10-09 10:28:37.268 [info] Getting Manifest... esbenp.prettier-vscode
+2023-10-09 10:28:37.273 [info] Getting Manifest... formulahendry.code-runner
+2023-10-09 10:28:37.275 [info] Getting Manifest... james-yu.latex-workshop
+2023-10-09 10:28:37.280 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-09 10:28:37.284 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:37.287 [info] Getting Manifest... ms-python.isort
+2023-10-09 10:28:37.289 [info] Getting Manifest... ms-python.python
+2023-10-09 10:28:37.293 [info] Getting Manifest... ms-toolsai.jupyter
+2023-10-09 10:28:37.304 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-10-09 10:28:37.307 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-10-09 10:28:37.311 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:38.436 [info] Installing extension: esbenp.prettier-vscode
+2023-10-09 10:28:38.489 [info] Installing extension: formulahendry.code-runner
+2023-10-09 10:28:38.492 [info] Installing extension: almenon.arepl
+2023-10-09 10:28:38.724 [info] Installing extension: ms-python.isort
+2023-10-09 10:28:38.737 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-10-09 10:28:38.744 [info] Installing extension: ms-azuretools.vscode-docker
+2023-10-09 10:28:38.750 [info] Installing extension: james-yu.latex-workshop
+2023-10-09 10:28:38.760 [info] Installing extension: ms-toolsai.jupyter
+2023-10-09 10:28:38.762 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-10-09 10:28:38.827 [info] Installing extension: ms-python.python
+2023-10-09 10:28:38.830 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:38.832 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:39.277 [info] Installing extension: eamodio.gitlens
+2023-10-09 10:28:42.498 [info] Getting Manifest... ms-python.python
+2023-10-09 10:28:46.251 [info] Waiting for already requested installing extension ms-python.python ms-python.isort
+2023-10-09 10:28:49.816 [info] Extension signature verification is not done: ms-toolsai.jupyter-keymap
+2023-10-09 10:28:49.913 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal: ms-toolsai.jupyter-keymap
+2023-10-09 10:28:49.922 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal
+2023-10-09 10:28:49.925 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-10-09 10:28:49.947 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-10-09 10:28:49.956 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-10-09 10:28:49.974 [info] Extension signature verification is not done: formulahendry.code-runner
+2023-10-09 10:28:50.145 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2023-10-09 10:28:50.392 [info] Extension signature verification is not done: almenon.arepl
+2023-10-09 10:28:50.640 [info] Extension signature verification is not done: ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:50.761 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal: formulahendry.code-runner
+2023-10-09 10:28:50.781 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/formulahendry.code-runner-0.12.1-universal
+2023-10-09 10:28:50.790 [info] Extracting extension completed. formulahendry.code-runner
+2023-10-09 10:28:50.814 [info] Extension installed successfully: formulahendry.code-runner
+2023-10-09 10:28:50.838 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.0-universal
+2023-10-09 10:28:50.876 [info] Extension signature verification is not done: ms-python.isort
+2023-10-09 10:28:50.902 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal: esbenp.prettier-vscode
+2023-10-09 10:28:50.915 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal
+2023-10-09 10:28:50.929 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-10-09 10:28:50.960 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-10-09 10:28:50.985 [info] Marked extension as uninstalled esbenp.prettier-vscode-9.10.4-universal
+2023-10-09 10:28:51.283 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.82.0-universal: ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:51.296 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.82.0-universal
+2023-10-09 10:28:51.305 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:51.326 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:51.483 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-es-1.74.0-universal
+2023-10-09 10:28:51.591 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2023-10-09 10:28:52.261 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-python.isort-2023.10.1-universal: ms-python.isort
+2023-10-09 10:28:52.273 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.isort-2023.10.1-universal
+2023-10-09 10:28:52.278 [info] Extracting extension completed. ms-python.isort
+2023-10-09 10:28:52.300 [info] Marked extension as uninstalled ms-python.isort-2022.8.0-universal
+2023-10-09 10:28:52.485 [info] Extension signature verification is not done: eamodio.gitlens
+2023-10-09 10:28:52.532 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/almenon.arepl-2.0.5-universal: almenon.arepl
+2023-10-09 10:28:52.560 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/almenon.arepl-2.0.5-universal
+2023-10-09 10:28:52.562 [info] Extracting extension completed. almenon.arepl
+2023-10-09 10:28:52.759 [info] Extension installed successfully: almenon.arepl
+2023-10-09 10:28:52.770 [info] Extension signature verification is not done: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:52.773 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2023-10-09 10:28:52.786 [info] Marked extension as uninstalled almenon.arepl-2.0.4-universal
+2023-10-09 10:28:52.942 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8-universal: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:52.952 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8-universal
+2023-10-09 10:28:52.958 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:52.991 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-10-09 10:28:53.004 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-10-09 10:28:53.411 [info] Extension signature verification is not done: ms-toolsai.jupyter-renderers
+2023-10-09 10:28:53.713 [info] Extension signature verification is not done: ms-toolsai.jupyter
+2023-10-09 10:28:53.832 [info] Extension signature verification is not done: ms-python.python
+2023-10-09 10:28:53.836 [info] Extension signature verification is not done: james-yu.latex-workshop
+2023-10-09 10:28:53.914 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.26.1-universal: ms-azuretools.vscode-docker
+2023-10-09 10:28:53.934 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.26.1-universal
+2023-10-09 10:28:53.957 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-09 10:28:53.981 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-09 10:28:54.001 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.23.3-universal
+2023-10-09 10:28:55.988 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-14.3.0-universal: eamodio.gitlens
+2023-10-09 10:28:56.037 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-14.3.0-universal
+2023-10-09 10:28:56.062 [info] Extracting extension completed. eamodio.gitlens
+2023-10-09 10:28:56.100 [info] Extension installed successfully: eamodio.gitlens
+2023-10-09 10:28:56.141 [info] Marked extension as uninstalled eamodio.gitlens-13.2.0-universal
+2023-10-09 10:28:56.978 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.17-universal: ms-toolsai.jupyter-renderers
+2023-10-09 10:28:57.008 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.17-universal
+2023-10-09 10:28:57.015 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-10-09 10:28:57.043 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-10-09 10:28:57.061 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-10-09 10:28:57.850 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal: ms-toolsai.jupyter
+2023-10-09 10:28:57.882 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal
+2023-10-09 10:28:57.920 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-10-09 10:28:58.014 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-10-09 10:28:58.126 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.10.110-universal
+2023-10-09 10:28:59.716 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal: ms-python.python
+2023-10-09 10:28:59.730 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.18.0-universal
+2023-10-09 10:28:59.747 [info] Extracting extension completed. ms-python.python
+2023-10-09 10:28:59.768 [info] Extension installed successfully: ms-python.python
+2023-10-09 10:28:59.770 [info] Finished waiting for already requested installing extension ms-python.python ms-python.isort
+2023-10-09 10:28:59.770 [info] Extension installed successfully: ms-python.isort
+2023-10-09 10:28:59.777 [info] Marked extension as uninstalled ms-python.python-2022.20.2-universal
+2023-10-09 10:29:00.751 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/james-yu.latex-workshop-9.14.1-universal: james-yu.latex-workshop
+2023-10-09 10:29:00.763 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/james-yu.latex-workshop-9.14.1-universal
+2023-10-09 10:29:00.771 [info] Extracting extension completed. james-yu.latex-workshop
+2023-10-09 10:29:00.786 [info] Extension installed successfully: james-yu.latex-workshop
+2023-10-09 10:29:00.798 [info] Marked extension as uninstalled james-yu.latex-workshop-9.5.0-universal
+2023-10-09 10:29:11.519 [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/db41e5c7f7eab09cbea70605b4b07637.es'): Error: ENOENT: no such file or directory, scandir '/home/dodecaneser/.config/Code - OSS/clp/db41e5c7f7eab09cbea70605b4b07637.es'
+2023-10-09 10:42:29.801 [info] Uninstalling extension from the profile: ms-python.isort@2023.10.1 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:42:30.023 [info] Marked extension as uninstalled ms-python.isort-2023.10.1-universal
+2023-10-09 10:42:30.596 [info] Successfully uninstalled extension from the profile ms-python.isort@2023.10.1 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:42:58.579 [info] Uninstalling extension from the profile: ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:42:58.922 [info] Marked extension as uninstalled ms-python.python-2023.18.0-universal
+2023-10-09 10:42:59.473 [info] Successfully uninstalled extension from the profile ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.600 [info] Uninstalling extension from the profile: ms-toolsai.jupyter@2023.7.100 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.676 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-keymap@1.1.2 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.676 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-renderers@1.0.17 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.677 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-cell-tags@0.1.8 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.677 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-slideshow@0.1.5 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:29.709 [info] Marked extension as uninstalled ms-toolsai.jupyter-2023.7.100-universal
+2023-10-09 10:43:29.740 [info] Marked extension as uninstalled ms-toolsai.jupyter-keymap-1.1.2-universal
+2023-10-09 10:43:29.768 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.17-universal
+2023-10-09 10:43:29.796 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-cell-tags-0.1.8-universal
+2023-10-09 10:43:29.827 [info] Marked extension as uninstalled ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-10-09 10:43:30.170 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter@2023.7.100 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:30.179 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-keymap@1.1.2 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:30.207 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-renderers@1.0.17 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:30.211 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-cell-tags@0.1.8 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:43:30.244 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-slideshow@0.1.5 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:44:10.203 [info] Getting Manifest... ms-python.python
+2023-10-09 10:44:10.628 [info] Installing extension: ms-python.python
+2023-10-09 10:44:12.112 [info] Extension signature verification is not done: ms-python.python
+2023-10-09 10:44:12.132 [info] Removed the extension from uninstalled list: ms-python.python
+2023-10-09 10:44:12.319 [info] Extension installed successfully: ms-python.python
+2023-10-09 10:52:12.036 [info] Uninstalling extension from the profile: formulahendry.code-runner@0.12.1 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:52:12.302 [info] Marked extension as uninstalled formulahendry.code-runner-0.12.1-universal
+2023-10-09 10:52:12.946 [info] Successfully uninstalled extension from the profile formulahendry.code-runner@0.12.1 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:52:44.485 [info] Uninstalling extension from the profile: ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:52:44.729 [info] Marked extension as uninstalled ms-python.python-2023.18.0-universal
+2023-10-09 10:52:44.879 [info] Successfully uninstalled extension from the profile ms-python.python@2023.18.0 vscode-userdata:/home/dodecaneser/.vscode-oss/extensions/extensions.json
+2023-10-09 10:58:07.220 [info] Getting Manifest... ms-python.python
+2023-10-09 10:58:07.652 [info] Installing extension: ms-python.python
+2023-10-09 10:58:09.120 [info] Extension signature verification is not done: ms-python.python
+2023-10-09 10:58:09.150 [info] Removed the extension from uninstalled list: ms-python.python
+2023-10-09 10:58:09.347 [info] Extension installed successfully: ms-python.python
+2023-10-09 10:58:36.622 [info] Getting Manifest... ms-python.python
+2023-10-09 10:58:37.414 [info] Installing extension: ms-python.python
+2023-10-09 10:58:41.509 [info] Extension signature verification is not done: ms-python.python
+2023-10-09 10:58:47.098 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal: ms-python.python
+2023-10-09 10:58:47.236 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2023.16.0-universal
+2023-10-09 10:58:47.316 [info] Extracting extension completed. ms-python.python
+2023-10-09 10:58:47.353 [info] Extension installed successfully: ms-python.python
+2023-10-09 10:58:47.369 [info] Marked extension as uninstalled ms-python.python-2023.18.0-universal
+2023-10-18 14:06:13.966 [info] Getting Manifest... eamodio.gitlens
+2023-10-18 14:06:13.978 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-10-18 14:06:15.364 [info] Installing extension: ms-azuretools.vscode-docker
+2023-10-18 14:06:15.547 [info] Installing extension: eamodio.gitlens
+2023-10-18 14:06:18.341 [info] Extension signature verification is not done: ms-azuretools.vscode-docker
+2023-10-18 14:06:18.599 [info] Extension signature verification is not done: eamodio.gitlens
+2023-10-18 14:06:18.772 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.27.0-universal: ms-azuretools.vscode-docker
+2023-10-18 14:06:18.783 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/ms-azuretools.vscode-docker-1.27.0-universal
+2023-10-18 14:06:18.805 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-10-18 14:06:18.827 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-10-18 14:06:18.889 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.26.1-universal
+2023-10-18 14:06:19.552 [info] Extracted extension to file:///home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-14.4.0-universal: eamodio.gitlens
+2023-10-18 14:06:19.577 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-14.4.0-universal
+2023-10-18 14:06:19.600 [info] Extracting extension completed. eamodio.gitlens
+2023-10-18 14:06:19.646 [info] Extension installed successfully: eamodio.gitlens
+2023-10-18 14:06:19.718 [info] Marked extension as uninstalled eamodio.gitlens-14.3.0-universal
+2023-10-18 14:19:33.745 [info] Getting Manifest... ms-python.python
+2023-10-18 14:19:34.813 [info] Installing extension: ms-python.python
+2023-10-18 14:19:35.873 [info] Extension signature verification is not done: ms-python.python
+2023-10-18 14:19:35.885 [info] Removed the extension from uninstalled list: ms-python.python
+2023-10-18 14:19:36.093 [info] Extension installed successfully: ms-python.python
+2023-10-18 14:19:36.117 [info] Marked extension as uninstalled ms-python.python-2023.16.0-universal

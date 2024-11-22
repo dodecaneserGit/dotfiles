@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "סגור כרטיסיות אחרות"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "מאפשר לך מקרוב אחר עם לחצן סרגל כלים, פריט בתפריט הקליק הימני או על ידי לחיצה על Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "סגור כרטיסיות אחרות"
+   }
+}

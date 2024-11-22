@@ -1,0 +1,15 @@
+2023-01-23 12:06:01.891 [info] Starting worker process with pid 36580 (type: fileWatcher, window: 1).
+2023-01-23 12:06:04.345 [info] Deleted from disk ms-toolsai.jupyter-keymap /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0
+2023-01-23 12:06:04.735 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/dodecaneser/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.72.0-universal
+2023-01-23 12:06:04.752 [info] Deleted from disk ms-toolsai.jupyter-renderers /home/dodecaneser/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+2023-01-23 12:06:05.114 [info] Deleted from disk eamodio.gitlens /home/dodecaneser/.vscode-oss/extensions/eamodio.gitlens-13.1.1-universal
+2023-01-23 12:06:05.721 [info] Deleted from disk ms-python.python /home/dodecaneser/.vscode-oss/extensions/ms-python.python-2022.16.1-universal
+2023-01-23 12:06:07.926 [info] Getting Manifest... james-yu.latex-workshop
+2023-01-23 12:06:08.917 [info] Installing extension: james-yu.latex-workshop
+2023-01-23 12:06:14.986 [info] Extracted extension to /home/dodecaneser/.vscode-oss/extensions/.9a9a4097-77fb-451a-a19e-a0a81d6b99af: james-yu.latex-workshop
+2023-01-23 12:06:15.016 [info] Renamed to /home/dodecaneser/.vscode-oss/extensions/james-yu.latex-workshop-9.5.0-universal
+2023-01-23 12:06:15.023 [info] Extracting completed. james-yu.latex-workshop
+2023-01-23 12:06:15.058 [info] Extension installed successfully: james-yu.latex-workshop
+2023-01-23 12:06:15.306 [info] Marked extension as uninstalled james-yu.latex-workshop-9.4.5-universal
+2023-01-23 12:07:55.838 [info] Worker process with pid 36580 terminated normally (type: fileWatcher, window: 1).
+2023-01-23 12:07:58.327 [info] Starting worker process with pid 37030 (type: fileWatcher, window: 1).

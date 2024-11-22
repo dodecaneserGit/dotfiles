@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Close Other Tabs"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Allows you to close other tabs with a toolbar button, an item on the right-click menu or by pressing Alt+Shift+W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Close Other Tabs"
+   }
+}

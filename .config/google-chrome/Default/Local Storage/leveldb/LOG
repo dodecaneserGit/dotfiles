@@ -1,0 +1,12 @@
+2024/11/19-14:16:39.508 4 Reusing MANIFEST /home/dodecaneser/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/19-14:16:39.514 4 Recovering log #309
+2024/11/19-14:16:39.517 4 Reusing old log /home/dodecaneser/.config/google-chrome/Default/Local Storage/leveldb/000309.log 
+2024/11/19-14:18:28.660 6 Level-0 table #314: started
+2024/11/19-14:18:28.677 6 Level-0 table #314: 121606 bytes OK
+2024/11/19-14:18:28.689 6 Delete type=0 #309
+2024/11/22-22:59:26.628 4 Level-0 table #316: started
+2024/11/22-22:59:26.651 4 Level-0 table #316: 68482 bytes OK
+2024/11/22-22:59:26.669 4 Delete type=0 #313
+2024/11/22-23:14:47.967 6 Level-0 table #318: started
+2024/11/22-23:14:47.976 6 Level-0 table #318: 17951 bytes OK
+2024/11/22-23:14:47.989 6 Delete type=0 #315

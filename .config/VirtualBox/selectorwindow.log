@@ -1,0 +1,18 @@
+00:00:09.256304 VirtualBox GUI VM Selector Window 7.1.4 r165100 linux.amd64 (Oct 15 2024 16:00:51) release log
+00:00:09.256307 Log opened 2024-11-16T22:51:29.195375000Z
+00:00:09.256308 Build Type: release
+00:00:09.256312 OS Product: Linux
+00:00:09.256315 OS Release: 6.11.6-arch1-1
+00:00:09.256318 OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 01 Nov 2024 03:30:41 +0000
+00:00:09.256356 DMI Product Name: TM1612
+00:00:09.256375 DMI Product Version: 
+00:00:09.256384 Firmware type: UEFI
+00:00:09.258566 Secure Boot: Disabled
+00:00:09.258678 Host RAM: 3829MB (3.7GB) total, 1332MB available
+00:00:09.258683 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:09.258684 Process ID: 20269
+00:00:09.258685 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:09.258755 Qt version: 6.8.0
+00:00:09.260889 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:09.267616 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:09.267644 GUI: UIMediumEnumerator: Medium-enumeration finished!

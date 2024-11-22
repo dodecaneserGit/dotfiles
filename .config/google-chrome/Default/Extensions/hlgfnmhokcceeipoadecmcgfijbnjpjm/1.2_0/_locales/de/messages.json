@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "Andere Tabs schließen"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Damit können Sie schließen andere Registerkarten mit einer Schaltfläche in der Symbolleiste ein Element auf dem Rechtsklick-Menü oder durch Drücken von Alt + Shift + W."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Andere Tabs schließen"
+   }
+}

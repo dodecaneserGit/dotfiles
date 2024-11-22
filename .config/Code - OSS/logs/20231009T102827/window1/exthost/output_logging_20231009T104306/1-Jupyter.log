@@ -1,0 +1,145 @@
+Code - OSS (1.82.2, undefined, desktop)
+Jupyter Extension Version: 2023.7.100.
+Python Extension not installed.
+Platform: linux (x64).
+Workspace folder ~/scripts, Home = /home/dodecaneser
+10:43:07.660 [info] User belongs to experiment group 'NewJupyterSession'
+10:43:08.924 [error] Failure during activation. [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256]
+10:43:08.958 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256]
+10:43:08.959 [error] extension activation failed [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256]
+10:43:08.991 [error] Failed to active the Jupyter Extension [Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookCellExecutionState.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookCellExecutionState.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:105:70089)
+	at ec.onDidChangeNotebookCellExecutionState (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:42796)
+	at new vk (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:504646)
+	at f (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:544271)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546161
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548708
+	at Array.map (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548680
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545519
+	at Array.reduce (<anonymous>)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545491
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:545818
+	at t.resolveInstance (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:546188)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549220
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:549557
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548880
+	at y (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548912)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:548774
+	at t.resolve (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:550744)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519717
+	at e._get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519086)
+	at e._getButThrowIfAsync (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:519146)
+	at e.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:2:514841)
+	at iw.get (~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:249006)
+	at ~/.vscode-oss/extensions/ms-toolsai.jupyter-2023.7.100-universal/out/extension.node.js:24:644256]
+10:52:22.081 [info] Disposing HostJupyterExecution
+10:52:22.081 [info] Shutting down notebooks for e9f20ee5-d1e1-4d0f-80f8-f3ac0268306d
+10:52:22.082 [info] Disposing HostJupyterExecution

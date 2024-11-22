@@ -1,0 +1,2 @@
+xpack.ml.enabled: false
+bootstrap.system_call_filter: false

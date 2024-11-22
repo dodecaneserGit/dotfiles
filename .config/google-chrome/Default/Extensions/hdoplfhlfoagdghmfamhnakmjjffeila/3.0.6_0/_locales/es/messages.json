@@ -1,0 +1,310 @@
+{
+   "1": {
+      "message": "1"
+   },
+   "action_close_tab": {
+      "message": "Acción: Cerrar Pestaña"
+   },
+   "an_error_occurred_1_2": {
+      "message": "A ocurrido un error. La configuracion no puede ser cargada.\u003Cbr>\u003Cbr>1. Por favor \u003Ca href='/settings.html' class='c_blue'>refresca\u003C/a> la página.\u003Cbr>\u003Cbr>\u003Cdiv>\u003Cspan class='vam mr-2'>2. Si el error persiste! Entonces \u003C/span>"
+   },
+   "an_error_occurred_3": {
+      "message": "3. Si el problema persiste, por favor $A1$envianos un reporte$A2$ (alternativamente: $A3$via gmail$A4$).",
+      "placeholders": {
+         "A1": {
+            "content": "$1"
+         },
+         "A2": {
+            "content": "$2"
+         },
+         "A3": {
+            "content": "$3"
+         },
+         "A4": {
+            "content": "$4"
+         }
+      }
+   },
+   "are_you_sure_to_reset_settings": {
+      "message": "Quiere resetear la configuración?"
+   },
+   "auto_hide_horizontal_scrollbar": {
+      "message": "Ocultar automaticamente la barra de desplazamiento horizontal"
+   },
+   "auto_maximize_desc": {
+      "message": "En orde para usar el elemento en-página mas eficiente, la ventana del navegador debe ser maximizada. Si tu activas esta caracteristica, automaticamente maximizaremos las nuevas ventanas abiertas."
+   },
+   "auto_maximize_new_windows": {
+      "message": "Auto Maximice La Nueva Ventanda"
+   },
+   "beta_feature": {
+      "message": "(Caracteristica de Prueba)"
+   },
+   "bottom_border": {
+      "message": "Borde abajo"
+   },
+   "bottom_center": {
+      "message": "Abajo centro"
+   },
+   "bottom_left": {
+      "message": "Abajo izquierda"
+   },
+   "bottom_right": {
+      "message": "Abajo derecha"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "changelog": {
+      "message": "Cambios"
+   },
+   "changelog_content": {
+      "message": "v3.0.x\n Nuevas funcionalidades:\n• Nuevo funcionalidades para posicion abajo y derecha.\n• Tooltips ahora son configurables.\n• Opacidad del Elemento En-página.\n• El click derecho en la orilla de la página, ahora muestra opciones.\n• El menu contextual fue adicionado.\n• Auto maximizacion de la nueva venta fue adicionada.\n• Icono de la barra de herramienta fue adicionado.\n\nActualizaciones:\n• Página de configuracion fue rediseñada.\n• Elementos posicion de de En-página fueron reestructurados.\n• Nueva iconos de la toolbar ahora estan disponibles.\n\n\nv2.0.x\nNuevas funcionalidades:\n• Nueva posicion de cierre para el en-página fueron adicionados.\n• Tu puedes cambiar el area de los elementos de la en-página.\n• Iconos de la barra de herramienta fueron adicionados. Clickeando el icono de la barra de herramienta ejecutas la acción default.\n• Puedes ahora cambiar el icono de la barra de herramienta.\n• Soporta ahora Multilenguaje. Puedes colaboral con la traduccion.\n• Preferencia son sincronizadas con Chrome (si tu estas conectado).\n\nActualizaciones:\n• Se renombro 'Cerrar Esta Pestaña'.\n• Nuevas 'Opciones' en la página de configuración.\n• Inyeccion de elementos dentro del cargado dinamico de la página.\n\nv1.0\n• Version inicial\n"
+   },
+   "click_event_to_close_tab": {
+      "message": "Clique El Evento Para Cerrar Pestaña"
+   },
+   "close_other_tabs": {
+      "message": "Cerrar las demás pestañas"
+   },
+   "close_tab": {
+      "message": "Cerrar pestaña"
+   },
+   "close_tabs_to_the_left": {
+      "message": "Cerrar pestañas a la izquierda"
+   },
+   "close_tabs_to_the_right": {
+      "message": "Cerrar pestañas a la derecha"
+   },
+   "confirm_your_support": {
+      "message": "Confirma tu apoyo"
+   },
+   "contact_us": {
+      "message": "Contactenos"
+   },
+   "context_menu": {
+      "message": "Menu contextual"
+   },
+   "context_menu_options": {
+      "message": "Opciones de menu contextual"
+   },
+   "context_menu_options_desc": {
+      "message": "Precaucion: Si mas de una opcion es seleccionada, Google Chrome automaticamente las colapsa en un sola linea del menu."
+   },
+   "contextmenus_permission_desc": {
+      "message": "Se requeire permisos para el menu contextual para adicionar los siguientes items menu del click-derecho:"
+   },
+   "custom_scrollbar": {
+      "message": "Barra de desplazamiento personalizada"
+   },
+   "default": {
+      "message": "Predetermiando"
+   },
+   "disable_this_element": {
+      "message": "Desactivar este elemento"
+   },
+   "donate": {
+      "message": "Donar"
+   },
+   "dont_show": {
+      "message": "No mostrar"
+   },
+   "double_left_click": {
+      "message": "Doble click izquierdo"
+   },
+   "enable_this_element": {
+      "message": "Activar este elemento"
+   },
+   "english": {
+      "message": "Ingles"
+   },
+   "extBrowserActionTitle": {
+      "message": "Menu de Cerrar esta pestaña"
+   },
+   "extDefaultTitle": {
+      "message": "Cerrar esta pestaña"
+   },
+   "extDesc": {
+      "message": "Cerrar la pestaña con el elemento al borde de la página"
+   },
+   "extName": {
+      "message": "Cerrar Esta Pestaña"
+   },
+   "help_to_translate": {
+      "message": "Ayuda a Traducir"
+   },
+   "hide_mini_arrow": {
+      "message": "Esconder la mini flecha"
+   },
+   "hide_scrollbar": {
+      "message": "Esconder la barra de desplazamiento"
+   },
+   "hover_color": {
+      "message": "Color Al Posicionarse Sobre"
+   },
+   "if_empty_then": {
+      "message": "Si esta vacio el texto de 'Cerrar pestaña' sera usado."
+   },
+   "in_page_element": {
+      "message": "Elemento En-Página"
+   },
+   "in_page_position": {
+      "message": "Posicion En-Página"
+   },
+   "inpage_element_is_disabled": {
+      "message": "Elemento En-Página esta desactivado!"
+   },
+   "keep_browser_default": {
+      "message": "Mantener como navegador predeterminado"
+   },
+   "language": {
+      "message": "Lenguaje"
+   },
+   "left_border": {
+      "message": "Borde izquierdo"
+   },
+   "left_bottom": {
+      "message": "Izquierda abajo"
+   },
+   "left_click": {
+      "message": "Click izquierdo"
+   },
+   "left_middle": {
+      "message": "Izquierda al centro"
+   },
+   "left_top": {
+      "message": "Izquierda arriba"
+   },
+   "misc": {
+      "message": "Miscelanea"
+   },
+   "misc_settings": {
+      "message": "Otra Configuracion"
+   },
+   "more_easy": {
+      "message": "La forma mas rapida y facil de cerrar pestañas"
+   },
+   "new": {
+      "message": "Nuevo"
+   },
+   "opacity": {
+      "message": "Opacidad"
+   },
+   "opacity_desc": {
+      "message": "Al escoger '0', el elemento sera invible, pero estara ahi, tu puedes interactual con el."
+   },
+   "open_settings": {
+      "message": "Abrir configuración"
+   },
+   "or": {
+      "message": "o"
+   },
+   "please_select_a_style_for_the_vertical_scrollbar": {
+      "message": "Por favor selecione el estilo de la barra de desplazamiento vertical"
+   },
+   "please_select_your_support_method": {
+      "message": "Por favor selecciona tu metodo apoyo"
+   },
+   "preview": {
+      "message": "(previsualización)"
+   },
+   "px": {
+      "message": "px"
+   },
+   "request_contextmenus_permission": {
+      "message": "Requiere permisos del menu contextual"
+   },
+   "reset": {
+      "message": "Resetear"
+   },
+   "reset_settings": {
+      "message": "Resetear configuración"
+   },
+   "reset_settings_desc": {
+      "message": "Advertencia: Esto sobreescribira tus preferencias, y restaurara la configuracion predeterminada."
+   },
+   "revoke_contextmenus_permission": {
+      "message": "Revocar los permisos del menu contextual"
+   },
+   "right_click_options": {
+      "message": "Opciones del Click-Derecho"
+   },
+   "right_click_options_desc": {
+      "message": "Click derecho en el borde seleccionado, para mostra las opciones seleccionadas."
+   },
+   "right_middle": {
+      "message": "Derecha centro"
+   },
+   "saved": {
+      "message": "Guardado"
+   },
+   "send_email_other": {
+      "message": "Enviar email a los desarrolladores (otros)"
+   },
+   "send_email_via_google": {
+      "message": "Enviar email a los desarrolladores (via Gmail)"
+   },
+   "send_feedback": {
+      "message": "Envianos tus comentarios"
+   },
+   "send_your_messages_in_english": {
+      "message": "Por favor envia tu mensaje en Ingles."
+   },
+   "settings": {
+      "message": "CONFIGURACIÓN"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "show_icon": {
+      "message": "Mostrar icono"
+   },
+   "show_menu": {
+      "message": "Muestra menu"
+   },
+   "show_text": {
+      "message": "Mostrar texto"
+   },
+   "support_this_project": {
+      "message": "Apoya este proyecto"
+   },
+   "supporters": {
+      "message": "Colaboradores"
+   },
+   "thank_you_for_your_support": {
+      "message": "Gracias por tu ayuda"
+   },
+   "thickness": {
+      "message": "Grosor"
+   },
+   "thickness_desc": {
+      "message": "En algunas pantallas, podria no mostrarse apropiadamente, y el elemento en-página podria salirse del area visible y podria no verse. Si tu mueves el cursos al borde de la página pero no puedes ver el elemnento en-página, tienes que ajustar tu configuración del monitos o incrementar el grosor del elemento en-página hasta que este sea visible."
+   },
+   "title": {
+      "message": "Cerrar esta pestaña de Configuración"
+   },
+   "toolbar_icon": {
+      "message": "Icono de la Toolbar"
+   },
+   "toolbar_icon_default_click_action": {
+      "message": "Acción predeterminada del icono de la barra de herramienta"
+   },
+   "toolbar_icon_default_click_action_desc": {
+      "message": "Puedes escoger que acción sera la predeterminada del icono de la barra de herramienta. Puedes seleccionar lo relativo a este icono"
+   },
+   "toolbar_icon_images": {
+      "message": "Imagenes de la barrad de herramienta"
+   },
+   "tooltip_on_hover": {
+      "message": "Tooltip Al Posicionarse Sobre"
+   },
+   "top_center": {
+      "message": "Arriba centro"
+   },
+   "updated_to_a_new_version": {
+      "message": "Actualizar a la nueva version"
+   },
+   "you_can_still_use": {
+      "message": "Uds puede seguir usando las opciones de el 'Menu contextual' e 'Icono en la barra de Herramienta'"
+   }
+}

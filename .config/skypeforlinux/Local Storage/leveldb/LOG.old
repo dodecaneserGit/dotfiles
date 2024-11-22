@@ -1,0 +1,6 @@
+2022/11/10-13:49:41.526 3dc Reusing MANIFEST /home/dodecaneser/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/11/10-13:49:41.527 3dc Recovering log #30
+2022/11/10-13:49:41.528 3dc Reusing old log /home/dodecaneser/.config/skypeforlinux/Local Storage/leveldb/000030.log 
+2022/11/10-13:50:41.975 3dc Level-0 table #34: started
+2022/11/10-13:50:41.989 3dc Level-0 table #34: 120548 bytes OK
+2022/11/10-13:50:41.998 3dc Delete type=0 #30

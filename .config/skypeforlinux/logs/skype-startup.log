@@ -1,0 +1,30 @@
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+ioctl failed for wlan0, errno = 19 (No existe el dispositivo)
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+ioctl failed for wlan0, errno = 19 (No existe el dispositivo)
+ioctl failed for wlan0, errno = 19 (No existe el dispositivo)
+[1057:1123/135652.968018:ERROR:media_web_contents_observer.cc(636)] OnMediaPlayerAdded Duplicate media player id (-1)
+[1057:1123/135725.330560:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
+[1057:1123/135725.347986:ERROR:web_contents_preferences.cc(264)] preload script must have absolute path.
+[1057:1123/135726.239693:ERROR:media_web_contents_observer.cc(636)] OnMediaPlayerAdded Duplicate media player id (-1)
+[1057:1123/144351.514484:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[1057:1123/144351.526373:ERROR:network_service_instance_impl.cc(470)] Network service crashed, restarting service.
+[1057:1123/144351.535795:ERROR:gpu_process_host.cc(972)] GPU process launch failed: error_code=1002
+[1057:1123/144351.539348:ERROR:gpu_process_host.cc(972)] GPU process launch failed: error_code=1002

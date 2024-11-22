@@ -1,0 +1,14 @@
+{
+   "contextMenuItemLabel": {
+      "description": "Context menu item label for closing other tabs",
+      "message": "മറ്റ് ടാബുകൾ അടയ്ക്കുക"
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "നിങ്ങൾ ഒരു ബട്ടൺ ഉപയോഗിച്ച് മറ്റ് ടാബുകൾ അടയ്ക്കുക, ഒരു ഇനത്തിൽ വലതുക്ലിക്കുചെയ്ത് മെനു അല്ലെങ്കിൽ അമർത്തിയാൽ + Shift + ഡബ്ല്യു അനുവദിക്കുന്നു."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "മറ്റ് ടാബുകൾ അടയ്ക്കുക"
+   }
+}

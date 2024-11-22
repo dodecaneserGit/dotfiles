@@ -1,0 +1,383 @@
+00:19:12.701507 DNSRepo: check callback failed for the configuration
+00:19:12.703188 IPdata: check callback failed for the configuration
+00:19:12.703213 CertCentral: check callback failed for the configuration
+00:19:12.703236 SecurityTrails: check callback failed for the configuration
+00:19:12.703263 Shodan: check callback failed for the configuration
+00:19:12.703302 Netlas: check callback failed for the configuration
+00:19:12.703327 ONYPHE: check callback failed for the configuration
+00:19:12.703370 PassiveTotal: check callback failed for the configuration
+00:19:12.703390 ThreatBook: check callback failed for the configuration
+00:19:12.703401 Pastebin: check callback failed for the configuration
+00:19:12.703430 PentestTools: check callback failed for the configuration
+00:19:12.703460 PublicWWW: check callback failed for the configuration
+00:19:12.703473 VirusTotal: check callback failed for the configuration
+00:19:12.703502 Quake: check callback failed for the configuration
+00:19:12.703518 WhoisXMLAPI: check callback failed for the configuration
+00:19:12.703563 Yandex: check callback failed for the configuration
+00:19:12.703593 ZETAlytics: check callback failed for the configuration
+00:19:12.703267 Chaos: check callback failed for the configuration
+00:19:12.703155 Hunter: check callback failed for the configuration
+00:19:12.703165 FullHunt: check callback failed for the configuration
+00:19:12.703267 IntelX: check callback failed for the configuration
+00:19:12.711989 BeVigil: check callback failed for the configuration
+00:19:12.712056 BigDataCloud: check callback failed for the configuration
+00:19:12.712093 BinaryEdge: check callback failed for the configuration
+00:19:12.712132 DNSDB: check callback failed for the configuration
+00:19:12.702976 Censys: check callback failed for the configuration
+00:19:12.703127 FOFA: check callback failed for the configuration
+00:19:12.703222 IPinfo: check callback failed for the configuration
+00:19:12.702985 ZoomEye: check callback failed for the configuration
+00:19:12.703008 GitHub: check callback failed for the configuration
+00:19:12.703013 360PassiveDNS: check callback failed for the configuration
+00:19:12.703036 ASNLookup: check callback failed for the configuration
+00:19:12.703038 DNSlytics: check callback failed for the configuration
+00:19:12.703039 GitLab: check callback failed for the configuration
+00:19:12.703059 Deepinfo: check callback failed for the configuration
+00:19:12.703083 Detectify: check callback failed for the configuration
+00:19:12.712361 BuiltWith: check callback failed for the configuration
+00:19:12.712389 BufferOver: check callback failed for the configuration
+00:19:12.712418 SOCRadar: check callback failed for the configuration
+00:19:12.703312 Spamhaus: check callback failed for the configuration
+00:19:12.703148 FacebookCT: check callback failed for the configuration
+00:19:12.712432 Ahrefs: check callback failed for the configuration
+00:19:12.712607 C99: check callback failed for the configuration
+00:19:12.712663 CIRCL: check callback failed for the configuration
+00:19:12.732165 Querying DNSSpy for www.bmw-motorrad.de subdomains
+00:19:12.732233 Querying AbuseIPDB for www.bmw-motorrad.de subdomains
+00:19:12.732547 Querying Synapsint for www.bmw-motorrad.de subdomains
+00:19:12.732586 Querying SubdomainCenter for www.bmw-motorrad.de subdomains
+00:19:12.732607 Querying Active Crawl for www.bmw-motorrad.de subdomains
+00:19:12.732622 Querying Active Crawl for configure.bmw.de subdomains
+00:19:12.732634 Querying Baidu for www.bmw-motorrad.de subdomains
+00:19:12.732670 Querying HyperStat for www.bmw-motorrad.de subdomains
+00:19:12.732689 Querying PKey for www.bmw-motorrad.de subdomains
+00:19:12.732719 Querying Pulsedive for www.bmw-motorrad.de subdomains
+00:19:12.732750 Querying Searx for www.bmw-motorrad.de subdomains
+00:19:12.732793 Querying Bing for www.bmw-motorrad.de subdomains
+00:19:12.732832 Querying URLScan for www.bmw-motorrad.de subdomains
+00:19:12.732853 Querying DuckDuckGo for www.bmw-motorrad.de subdomains
+00:19:12.732861 Querying DNSDumpster for www.bmw-motorrad.de subdomains
+00:19:12.732887 Querying Digitorus for www.bmw-motorrad.de subdomains
+00:19:12.732899 Querying AnubisDB for www.bmw-motorrad.de subdomains
+00:19:12.732905 Querying Maltiverse for www.bmw-motorrad.de subdomains
+00:19:12.732924 Querying Sublist3rAPI for www.bmw-motorrad.de subdomains
+00:19:12.732927 Querying DNS SRV for www.bmw-motorrad.de subdomains
+00:19:12.732947 Querying Wayback for www.bmw-motorrad.de subdomains
+00:19:12.732852 Querying AlienVault for www.bmw-motorrad.de subdomains
+00:19:12.732969 Querying Brute Forcing for www.bmw-motorrad.de subdomains
+00:19:12.732858 Querying Arquivo for www.bmw-motorrad.de subdomains
+00:19:12.732990 Querying CertSpotter for www.bmw-motorrad.de subdomains
+00:19:12.733003 Querying HackerTarget for www.bmw-motorrad.de subdomains
+00:19:12.732924 Querying CommonCrawl for www.bmw-motorrad.de subdomains
+00:19:12.732987 Querying Brute Forcing for configure.bmw.de subdomains
+00:19:12.733039 Querying HAW for www.bmw-motorrad.de subdomains
+00:19:12.732873 Querying Google for www.bmw-motorrad.de subdomains
+00:19:12.733059 Querying Riddler for www.bmw-motorrad.de subdomains
+00:19:12.733073 Querying Active Crawl for konfigurator.bmw-motorrad.de subdomains
+00:19:12.733085 Querying Gists for www.bmw-motorrad.de subdomains
+00:19:12.733061 Querying LeakIX for www.bmw-motorrad.de subdomains
+00:19:12.732880 Querying HackerOne for www.bmw-motorrad.de subdomains
+00:19:12.733119 Querying Greynoise for www.bmw-motorrad.de subdomains
+00:19:12.732883 Querying Searchcode for www.bmw-motorrad.de subdomains
+00:19:12.733136 Querying ThreatMiner for www.bmw-motorrad.de subdomains
+00:19:12.733089 Querying Active Crawl for www.bmw.de subdomains
+00:19:12.733196 Querying Active Crawl for www.mini.de subdomains
+00:19:12.732910 Querying RapidDNS for www.bmw-motorrad.de subdomains
+00:19:12.733220 Querying Active Crawl for configure.mini.de subdomains
+00:19:12.732914 Querying SiteDossier for www.bmw-motorrad.de subdomains
+00:19:12.732917 Querying UKWebArchive for www.bmw-motorrad.de subdomains
+00:19:12.732920 Querying Mnemonic for www.bmw-motorrad.de subdomains
+00:19:12.732987 Querying GrepApp for www.bmw-motorrad.de subdomains
+00:19:12.733027 Querying Yahoo for www.bmw-motorrad.de subdomains
+00:19:12.733031 Querying Active DNS for www.bmw-motorrad.de subdomains
+00:19:12.733378 Querying Active DNS for configure.bmw.de subdomains
+00:19:12.733035 Querying Ask for www.bmw-motorrad.de subdomains
+00:19:12.733416 Querying Active DNS for konfigurator.bmw-motorrad.de subdomains
+00:19:12.733427 Querying Active DNS for www.bmw.de subdomains
+00:19:12.733045 Querying Brute Forcing for konfigurator.bmw-motorrad.de subdomains
+00:19:12.733444 Querying Active DNS for www.mini.de subdomains
+00:19:12.733056 Querying Crtsh for www.bmw-motorrad.de subdomains
+00:19:12.733448 Querying Brute Forcing for www.bmw.de subdomains
+00:19:12.733472 Querying Brute Forcing for www.mini.de subdomains
+00:19:12.733458 Querying Active DNS for configure.mini.de subdomains
+00:19:12.733487 Querying Brute Forcing for configure.mini.de subdomains
+00:19:12.732877 Querying DNSHistory for www.bmw-motorrad.de subdomains
+00:19:13.732286 Querying AbuseIPDB for configure.bmw.de subdomains
+00:19:13.804661 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:www.bmw-motorrad.de": dial tcp: lookup riddler.io: no such host
+00:19:14.229273 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:14.234866 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=www.bmw-motorrad.de": remote error: tls: internal error
+00:19:14.732590 Querying AbuseIPDB for konfigurator.bmw-motorrad.de subdomains
+00:19:14.734945 Querying HackerOne for configure.bmw.de subdomains
+00:19:14.732656 Querying DNSSpy for configure.bmw.de subdomains
+00:19:14.732715 Querying PKey for configure.bmw.de subdomains
+00:19:14.732961 Querying AnubisDB for configure.bmw.de subdomains
+00:19:14.738017 Querying Riddler for configure.bmw.de subdomains
+00:19:14.738105 Querying Greynoise for configure.bmw.de subdomains
+00:19:14.738149 Querying Synapsint for configure.bmw.de subdomains
+00:19:14.739070 Querying Sublist3rAPI for configure.bmw.de subdomains
+00:19:14.842993 Querying HackerTarget for configure.bmw.de subdomains
+00:19:14.893030 Querying Mnemonic for configure.bmw.de subdomains
+00:19:15.380366 Querying Maltiverse for configure.bmw.de subdomains
+00:19:15.732297 Querying AbuseIPDB for www.bmw.de subdomains
+00:19:15.733589 Querying DNSDumpster for configure.bmw.de subdomains
+00:19:15.742498 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:configure.bmw.de": dial tcp: lookup riddler.io: no such host
+00:19:16.057480 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=configure.bmw.de": remote error: tls: internal error
+00:19:16.164067 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:16.733311 Querying DNSSpy for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733330 Querying Riddler for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733342 Querying Synapsint for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733349 Querying AnubisDB for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733354 Querying Crtsh for configure.bmw.de subdomains
+00:19:16.733383 Querying Greynoise for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733393 Querying AbuseIPDB for www.mini.de subdomains
+00:19:16.733760 Querying PKey for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733848 Querying HackerOne for konfigurator.bmw-motorrad.de subdomains
+00:19:16.733905 Querying UKWebArchive for configure.bmw.de subdomains
+00:19:16.734129 Querying Sublist3rAPI for konfigurator.bmw-motorrad.de subdomains
+00:19:16.843758 Querying HackerTarget for konfigurator.bmw-motorrad.de subdomains
+00:19:16.893881 Querying Mnemonic for konfigurator.bmw-motorrad.de subdomains
+00:19:17.752972 Querying AbuseIPDB for configure.mini.de subdomains
+00:19:17.754074 Querying SiteDossier for configure.bmw.de subdomains
+00:19:17.801263 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:konfigurator.bmw-motorrad.de": dial tcp: lookup riddler.io: no such host
+00:19:18.032138 Querying Maltiverse for konfigurator.bmw-motorrad.de subdomains
+00:19:18.068486 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=konfigurator.bmw-motorrad.de": remote error: tls: internal error
+00:19:18.247624 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:18.489718 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:18.733233 Querying Greynoise for www.bmw.de subdomains
+00:19:18.733320 Querying Sublist3rAPI for www.bmw.de subdomains
+00:19:18.733241 Querying Synapsint for www.bmw.de subdomains
+00:19:18.733414 Querying Arquivo for configure.bmw.de subdomains
+00:19:18.733259 Querying PKey for www.bmw.de subdomains
+00:19:18.733273 Querying HackerOne for www.bmw.de subdomains
+00:19:18.733292 Querying DNSSpy for www.bmw.de subdomains
+00:19:18.733312 Querying AnubisDB for www.bmw.de subdomains
+00:19:18.733399 Querying Riddler for www.bmw.de subdomains
+00:19:18.864849 Querying HackerTarget for www.bmw.de subdomains
+00:19:18.868895 Querying RapidDNS for configure.bmw.de subdomains
+00:19:18.894020 Querying Mnemonic for www.bmw.de subdomains
+00:19:19.758672 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:www.bmw.de": dial tcp: lookup riddler.io: no such host
+00:19:19.951223 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:19:19.951268 Querying DNSHistory for configure.bmw.de subdomains
+00:19:20.068126 Querying Searchcode for configure.bmw.de subdomains
+00:19:20.087751 Querying Searx for configure.bmw.de subdomains
+00:19:20.095552 Querying SubdomainCenter for configure.bmw.de subdomains
+00:19:20.137933 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=www.bmw.de": remote error: tls: internal error
+00:19:20.145938 Querying LeakIX for configure.bmw.de subdomains
+00:19:20.314827 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:20.374264 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:20.374310 Querying Pulsedive for configure.bmw.de subdomains
+00:19:20.380840 Querying CertSpotter for configure.bmw.de subdomains
+00:19:20.409727 Querying GrepApp for configure.bmw.de subdomains
+00:19:20.510784 Querying Maltiverse for www.bmw.de subdomains
+00:19:20.539179 Querying HyperStat for configure.bmw.de subdomains
+00:19:20.576537 Querying DuckDuckGo for configure.bmw.de subdomains
+00:19:20.733262 Querying Crtsh for konfigurator.bmw-motorrad.de subdomains
+00:19:20.733314 Querying Sublist3rAPI for www.mini.de subdomains
+00:19:20.733528 Querying Riddler for www.mini.de subdomains
+00:19:20.733593 Querying AnubisDB for www.mini.de subdomains
+00:19:20.733666 Querying Synapsint for www.mini.de subdomains
+00:19:20.733698 Querying DNSSpy for www.mini.de subdomains
+00:19:20.733771 Querying PKey for www.mini.de subdomains
+00:19:20.733684 Querying UKWebArchive for konfigurator.bmw-motorrad.de subdomains
+00:19:20.733816 Querying Greynoise for www.mini.de subdomains
+00:19:20.733897 Querying HackerOne for www.mini.de subdomains
+00:19:20.864108 Querying Gists for configure.bmw.de subdomains
+00:19:20.865352 Querying HackerTarget for www.mini.de subdomains
+00:19:20.893760 Querying Mnemonic for www.mini.de subdomains
+00:19:20.930500 Querying CommonCrawl for configure.bmw.de subdomains
+00:19:21.454082 Querying Ask for configure.bmw.de subdomains
+00:19:21.733559 Querying ThreatMiner for configure.bmw.de subdomains
+00:19:21.748972 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:www.mini.de": dial tcp: lookup riddler.io: no such host
+00:19:22.100753 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=www.mini.de": remote error: tls: internal error
+00:19:22.144458 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:19:22.223049 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:22.296290 Querying Digitorus for configure.bmw.de subdomains
+00:19:22.732586 Querying Synapsint for configure.mini.de subdomains
+00:19:22.732679 Querying DNSSpy for configure.mini.de subdomains
+00:19:22.732710 Querying PKey for configure.mini.de subdomains
+00:19:22.733358 Querying SiteDossier for konfigurator.bmw-motorrad.de subdomains
+00:19:22.733411 Querying Riddler for configure.mini.de subdomains
+00:19:22.733446 Querying Greynoise for configure.mini.de subdomains
+00:19:22.733447 Querying HackerOne for configure.mini.de subdomains
+00:19:22.733503 Querying AnubisDB for configure.mini.de subdomains
+00:19:22.733519 Querying Sublist3rAPI for configure.mini.de subdomains
+00:19:22.798321 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:22.865509 Querying HackerTarget for configure.mini.de subdomains
+00:19:22.893096 Querying Mnemonic for configure.mini.de subdomains
+00:19:22.952068 Querying DNSHistory for konfigurator.bmw-motorrad.de subdomains
+00:19:23.068993 Querying Searchcode for konfigurator.bmw-motorrad.de subdomains
+00:19:23.095859 Querying SubdomainCenter for konfigurator.bmw-motorrad.de subdomains
+00:19:23.146655 Querying LeakIX for konfigurator.bmw-motorrad.de subdomains
+00:19:23.151262 Querying Maltiverse for www.mini.de subdomains
+00:19:23.374583 Querying Pulsedive for konfigurator.bmw-motorrad.de subdomains
+00:19:23.381749 Querying CertSpotter for konfigurator.bmw-motorrad.de subdomains
+00:19:23.410210 Querying GrepApp for konfigurator.bmw-motorrad.de subdomains
+00:19:23.540001 Querying HyperStat for konfigurator.bmw-motorrad.de subdomains
+00:19:23.577462 Querying DuckDuckGo for konfigurator.bmw-motorrad.de subdomains
+00:19:23.779426 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:configure.mini.de": dial tcp: lookup riddler.io: no such host
+00:19:23.987479 Querying Gists for konfigurator.bmw-motorrad.de subdomains
+00:19:24.055641 Sublist3rAPI: vertical request to service failed: Get "https://api.sublist3r.com/search.php?domain=configure.mini.de": remote error: tls: internal error
+00:19:24.188483 Greynoise: vertical request to service returned with status: 404 Not Found
+00:19:24.482676 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:24.733272 Querying Crtsh for www.bmw.de subdomains
+00:19:24.733501 Querying Arquivo for konfigurator.bmw-motorrad.de subdomains
+00:19:24.733555 Querying UKWebArchive for www.bmw.de subdomains
+00:19:24.739630 AlienVault: url_list request to service failed: Get "https://otx.alienvault.com/api/v1/indicators/domain/www.bmw-motorrad.de/url_list": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:24.739709 Querying AlienVault for configure.bmw.de subdomains
+00:19:25.135556 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:19:25.290646 Querying RapidDNS for konfigurator.bmw-motorrad.de subdomains
+00:19:25.297118 Querying Digitorus for konfigurator.bmw-motorrad.de subdomains
+00:19:25.745585 Querying Maltiverse for configure.mini.de subdomains
+00:19:25.787985 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:25.951934 Querying DNSHistory for www.bmw.de subdomains
+00:19:26.068658 Querying Searchcode for www.bmw.de subdomains
+00:19:26.096637 Querying SubdomainCenter for www.bmw.de subdomains
+00:19:26.146880 Querying LeakIX for www.bmw.de subdomains
+00:19:26.374569 Querying Pulsedive for www.bmw.de subdomains
+00:19:26.381146 Querying CertSpotter for www.bmw.de subdomains
+00:19:26.409770 Querying GrepApp for www.bmw.de subdomains
+00:19:26.576931 Querying DuckDuckGo for www.bmw.de subdomains
+00:19:26.734598 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=www.bmw-motorrad.de": dial tcp 161.53.240.35:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+00:19:26.734736 Querying HAW for configure.bmw.de subdomains
+00:19:26.988023 Querying Gists for www.bmw.de subdomains
+00:19:27.734038 Querying SiteDossier for www.bmw.de subdomains
+00:19:27.755075 DNSDumpster: scrape: Post "https://dnsdumpster.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:27.755150 Querying DNSDumpster for konfigurator.bmw-motorrad.de subdomains
+00:19:27.755389 Querying Wayback for configure.bmw.de subdomains
+00:19:28.733802 Querying UKWebArchive for www.mini.de subdomains
+00:19:28.877108 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:29.068709 Querying Searchcode for www.mini.de subdomains
+00:19:29.146040 Querying LeakIX for www.mini.de subdomains
+00:19:29.375125 Querying Pulsedive for www.mini.de subdomains
+00:19:29.381661 Querying CertSpotter for www.mini.de subdomains
+00:19:29.410432 Querying GrepApp for www.mini.de subdomains
+00:19:29.576968 Querying DuckDuckGo for www.mini.de subdomains
+00:19:29.987525 Querying Gists for www.mini.de subdomains
+00:19:30.295555 Querying Ask for konfigurator.bmw-motorrad.de subdomains
+00:19:31.233773 Querying HyperStat for www.bmw.de subdomains
+00:19:31.948514 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:32.068223 Querying Searchcode for configure.mini.de subdomains
+00:19:32.146243 Querying LeakIX for configure.mini.de subdomains
+00:19:32.175654 Querying Searx for konfigurator.bmw-motorrad.de subdomains
+00:19:32.375086 Querying Pulsedive for configure.mini.de subdomains
+00:19:32.381682 Querying CertSpotter for configure.mini.de subdomains
+00:19:32.410753 Querying GrepApp for configure.mini.de subdomains
+00:19:32.577298 Querying DuckDuckGo for configure.mini.de subdomains
+00:19:32.732969 Querying UKWebArchive for configure.mini.de subdomains
+00:19:32.732995 Querying SiteDossier for www.mini.de subdomains
+00:19:33.080121 Querying Gists for configure.mini.de subdomains
+00:19:33.430700 Querying SubdomainCenter for www.mini.de subdomains
+00:19:33.565488 Querying Crtsh for www.mini.de subdomains
+00:19:33.639294 Querying Digitorus for www.bmw.de subdomains
+00:19:33.920098 Querying Baidu for configure.bmw.de subdomains
+00:19:34.231704 Searx: scrape: Post "https://anon.sx/search": dial tcp: lookup anon.sx: no such host
+00:19:34.260898 Querying HyperStat for www.mini.de subdomains
+00:19:34.552105 Querying AlienVault for konfigurator.bmw-motorrad.de subdomains
+00:19:34.829608 Querying Yahoo for configure.bmw.de subdomains
+00:19:35.118447 Querying ThreatMiner for konfigurator.bmw-motorrad.de subdomains
+00:19:35.170762 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:19:35.175766 Querying Searx for www.bmw.de subdomains
+00:19:35.364012 Querying Wayback for konfigurator.bmw-motorrad.de subdomains
+00:19:35.393861 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:35.393970 Querying Arquivo for www.bmw.de subdomains
+00:19:36.430738 Querying SubdomainCenter for configure.mini.de subdomains
+00:19:36.640318 Querying Digitorus for www.mini.de subdomains
+00:19:36.703438 Querying RapidDNS for www.bmw.de subdomains
+00:19:36.966321 Querying CommonCrawl for konfigurator.bmw-motorrad.de subdomains
+00:19:37.261197 Querying HyperStat for configure.mini.de subdomains
+00:19:37.578110 Querying Crtsh for configure.mini.de subdomains
+00:19:37.733768 Querying SiteDossier for configure.mini.de subdomains
+00:19:37.952914 DNSHistory: vertical request to service failed: Get "https://dnshistory.org/subdomains/1/www.bmw.de": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:37.952989 Querying DNSHistory for www.mini.de subdomains
+00:19:38.117180 Querying Bing for configure.bmw.de subdomains
+00:19:38.176088 Querying Searx for www.mini.de subdomains
+00:19:38.864869 Querying Ask for www.bmw.de subdomains
+00:19:39.639496 Querying Digitorus for configure.mini.de subdomains
+00:19:40.255937 Searx: scrape: Post "https://procurx.pt/search": dial tcp: lookup procurx.pt: no such host
+00:19:40.736122 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=configure.bmw.de": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:40.736208 Querying HAW for konfigurator.bmw-motorrad.de subdomains
+00:19:40.983641 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:41.175719 Querying Searx for configure.mini.de subdomains
+00:19:41.394959 Querying Arquivo for www.mini.de subdomains
+00:19:43.016190 Querying Wayback for www.bmw.de subdomains
+00:19:43.186632 Searx: scrape: Post "https://anon.sx/search": dial tcp: lookup anon.sx: no such host
+00:19:44.792123 DNSDumpster: scrape: Post "https://dnsdumpster.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:44.792246 Querying DNSDumpster for www.bmw.de subdomains
+00:19:44.997271 Querying AlienVault for www.bmw.de subdomains
+00:19:45.077964 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:19:45.078071 Querying DNSHistory for configure.mini.de subdomains
+00:19:46.931526 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:47.197162 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:19:47.281194 Querying CommonCrawl for www.bmw.de subdomains
+00:19:47.394320 Querying Arquivo for configure.mini.de subdomains
+00:19:47.897442 Querying Ask for www.mini.de subdomains
+00:19:48.719993 Querying AlienVault for www.mini.de subdomains
+00:19:51.640864 Digitorus: scrape: Get "https://certificatedetails.com/c33e25b7d10d203a3b40bca849901b72fe4c120dce82e54568dd345eca0bfc88/mini.configure.bmw.cloud": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:51.704478 RapidDNS: scrape: Get "https://rapiddns.io/subdomain/www.bmw.de?full=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:51.704558 Querying RapidDNS for www.mini.de subdomains
+00:19:51.720871 Querying AlienVault for configure.mini.de subdomains
+00:19:52.088976 Google: scrape: Get "https://www.google.com/search?bih=&biw=&btnG=Search&filter=0&gbv=1&hl=en&q=site%3A%2A.%2A.www.bmw-motorrad.de+-www.%2A&start=10": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:52.089067 Google: access to search engine is blocked
+00:19:52.089104 Querying Google for configure.bmw.de subdomains
+00:19:53.029382 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:19:53.119440 ThreatMiner: vertical request to service failed: Get "https://api.threatminer.org/v2/domain.php?api=True&q=konfigurator.bmw-motorrad.de&rt=5": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:53.119596 Querying ThreatMiner for www.bmw.de subdomains
+00:19:54.738844 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=konfigurator.bmw-motorrad.de": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:54.738933 Querying HAW for www.bmw.de subdomains
+00:19:54.838423 Querying Baidu for konfigurator.bmw-motorrad.de subdomains
+00:19:56.585273 Querying Ask for configure.mini.de subdomains
+00:19:56.793613 DNSDumpster: scrape: Post "https://dnsdumpster.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:19:56.793716 Querying DNSDumpster for www.mini.de subdomains
+00:19:56.829005 Querying Yahoo for konfigurator.bmw-motorrad.de subdomains
+00:19:58.017823 Querying Wayback for www.mini.de subdomains
+00:19:59.794913 Querying DNSDumpster for configure.mini.de subdomains
+00:20:02.808250 Querying RapidDNS for configure.mini.de subdomains
+00:20:03.423143 Querying Bing for konfigurator.bmw-motorrad.de subdomains
+00:20:06.253913 Querying ThreatMiner for www.mini.de subdomains
+00:20:08.740349 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=www.bmw.de": dial tcp 161.53.240.35:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+00:20:08.740408 Querying HAW for www.mini.de subdomains
+00:20:11.796667 DNSDumpster: scrape: Post "https://dnsdumpster.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:20:13.020562 Querying Wayback for configure.mini.de subdomains
+00:20:14.664257 Querying Baidu for www.bmw.de subdomains
+00:20:15.317067 BGPView: get_asn request to service returned with status: 429 Too Many Requests
+00:20:16.351201 Querying CommonCrawl for www.mini.de subdomains
+00:20:16.408788 Google: scrape: Get "https://www.google.com/search?bih=&biw=&btnG=Search&filter=0&gbv=1&hl=en&q=site%3A%2A.configure.bmw.de+-www.%2A&start=10": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:20:16.408851 Google: access to search engine is blocked
+00:20:16.408892 Querying Google for konfigurator.bmw-motorrad.de subdomains
+00:20:17.810255 RapidDNS: scrape: Get "https://rapiddns.io/subdomain/configure.mini.de?full=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:20:18.829706 Querying Yahoo for www.bmw.de subdomains
+00:20:19.529239 Querying ThreatMiner for configure.mini.de subdomains
+00:20:22.746025 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=www.mini.de": dial tcp 161.53.240.35:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+00:20:22.746087 Querying HAW for configure.mini.de subdomains
+00:20:24.438206 ShadowServer: failed to resolve the A record for asn.shadowserver.org: the query was unsuccessful for asn.shadowserver.org
+00:20:25.976367 TeamCymru: failed to resolve the TXT record for 38.231.160.3.origin.asn.cymru.com: the query was unsuccessful for 38.231.160.3.origin.asn.cymru.com
+00:20:28.755602 Querying Bing for www.bmw.de subdomains
+00:20:29.070534 Querying CommonCrawl for configure.mini.de subdomains
+00:20:29.822685 Querying Baidu for www.mini.de subdomains
+00:20:36.747175 HAW: vertical request to service failed: Get "https://haw.nsk.hr/proxy.php?subject=keywords&start=undefined&q=configure.mini.de": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:20:40.829718 Querying Yahoo for www.mini.de subdomains
+00:20:50.042299 Querying Baidu for configure.mini.de subdomains
+00:20:54.032556 Querying Bing for www.mini.de subdomains
+00:21:03.626255 Querying Yahoo for configure.mini.de subdomains
+00:21:12.896298 Querying Google for www.bmw.de subdomains
+00:21:15.032630 Querying Bing for configure.mini.de subdomains
+00:21:24.059992 Querying DNS SRV for configure.bmw.de subdomains
+00:21:37.897446 Google: scrape: Get "https://www.google.com/search?bih=&biw=&btnG=Search&filter=0&gbv=1&hl=en&q=site%3A%2A.www.bmw.de+-www.%2A&start=20": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:21:37.897508 Google: access to search engine is blocked
+00:21:37.897563 Querying Google for www.mini.de subdomains
+00:21:52.898382 Google: scrape: Get "https://consent.google.com/ml?continue=https://www.google.com/search%3Fbih%3D%26biw%3D%26btnG%3DSearch%26filter%3D0%26gbv%3D1%26hl%3Den%26q%3Dsite%253A%252A.www.mini.de%2B-www.%252A%26start%3D0&gl=ES&m=0&pc=srp&uxe=none&cm=2&hl=en&src=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:21:52.898446 Google: access to search engine is blocked
+00:21:52.898509 Querying Google for configure.mini.de subdomains
+00:22:07.906142 Google: scrape: Get "https://consent.google.com/ml?continue=https://www.google.com/search%3Fbih%3D%26biw%3D%26btnG%3DSearch%26filter%3D0%26gbv%3D1%26hl%3Den%26q%3Dsite%253A%252A.configure.mini.de%2B-www.%252A%26start%3D0&gl=ES&m=0&pc=srp&uxe=none&cm=2&hl=en&src=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:22:07.906189 Google: access to search engine is blocked
+00:24:02.140239 Querying DNS SRV for konfigurator.bmw-motorrad.de subdomains
+00:24:49.344748 Querying URLScan for configure.bmw.de subdomains
+00:26:20.464307 Querying URLScan for konfigurator.bmw-motorrad.de subdomains
+19:37:41.351387 URLScan: subs request to service failed: Get "https://urlscan.io/api/v1/result/ec4c9c28-0c9a-464b-9636-a6497640b8f0/": dial tcp: lookup urlscan.io: Temporary failure in name resolution
+19:37:43.314547 Querying DNS SRV for www.bmw.de subdomains
+19:37:51.352540 Querying URLScan for www.bmw.de subdomains
+19:38:25.758228 Querying DNS SRV for www.mini.de subdomains
+19:40:17.539796 Querying DNS SRV for configure.mini.de subdomains
+19:45:54.518647 URLScan: failed to decode the JSON subs response
+19:46:45.496937 Querying URLScan for www.mini.de subdomains
+19:49:31.490987 Querying URLScan for configure.mini.de subdomains

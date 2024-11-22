@@ -1,0 +1,12 @@
+2022/11/23-13:51:34.256 493 Reusing MANIFEST /home/dodecaneser/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/11/23-13:51:34.257 493 Recovering log #7
+2022/11/23-13:51:34.349 493 Reusing old log /home/dodecaneser/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000007.log 
+2022/11/23-13:59:19.025 a6c Level-0 table #12: started
+2022/11/23-13:59:19.169 a6c Level-0 table #12: 1521164 bytes OK
+2022/11/23-13:59:19.182 a6c Delete type=0 #7
+2022/11/23-14:43:42.146 1bdf Compacting 1@1 + 1@2 files
+2022/11/23-14:43:42.173 1bdf Generated table #13@1: 1838 keys, 291791 bytes
+2022/11/23-14:43:42.173 1bdf Compacted 1@1 + 1@2 files => 291791 bytes
+2022/11/23-14:43:42.179 1bdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/23-14:43:42.180 1bdf Delete type=2 #9
+2022/11/23-14:43:42.180 1bdf Delete type=2 #12

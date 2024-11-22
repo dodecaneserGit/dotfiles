@@ -1,0 +1,6 @@
+2022/11/23-13:50:50.338 445 Reusing MANIFEST /home/dodecaneser/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2022/11/23-13:50:50.341 445 Recovering log #33
+2022/11/23-13:50:50.341 445 Reusing old log /home/dodecaneser/.config/skypeforlinux/Local Storage/leveldb/000033.log 
+2022/11/23-13:51:50.828 493 Level-0 table #37: started
+2022/11/23-13:51:50.839 493 Level-0 table #37: 121617 bytes OK
+2022/11/23-13:51:50.845 493 Delete type=0 #33
